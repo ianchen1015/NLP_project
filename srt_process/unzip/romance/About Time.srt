@@ -1,0 +1,9914 @@
+﻿1
+00:00:50,190 --> 00:00:54,490
+{\bord0\shad0\fs20\fad(800,800)\fn方正兰亭粗黑_GBK\b0\pos(193,185.333)\c&HBCC0C1&}时  空  恋{\fn方正兰亭纤黑_GBK}  旅  人
+
+2
+00:00:54,590 --> 00:00:56,580
+我一直都知道  我家里人都有点奇怪
+{\fs10}I aways knew we were a fairly odd family.{\r}
+
+3
+00:00:56,610 --> 00:00:58,640
+先说说我吧
+{\fs10}First there was me.{\r}
+
+4
+00:00:59,010 --> 00:01:02,010
+太高  太瘦  太红毛
+{\fs10}Too tall. Too skinny. Too orange.{\r}
+
+5
+00:01:02,560 --> 00:01:05,020
+我妈很可爱  但和其他当妈的不一样
+{\fs10}My mum was lovely, but not like other mums.{\r}
+
+6
+00:01:05,140 --> 00:01:06,540
+她的性格呢  有点固执
+{\fs10}There was something solid about her.{\r}
+
+7
+00:01:06,600 --> 00:01:09,690
+有点呆板  有点冷艳  总是忙忙碌碌
+{\fs10}Something rectangular, busy and unsentimental.{\r}
+
+8
+00:01:09,820 --> 00:01:11,570
+她的时尚标杆是英国女王
+{\fs10}Her fashion icon was the Queen.{\r}
+
+9
+00:01:12,480 --> 00:01:14,300
+我爸呢  他看上去就正常多了
+{\fs10}Dad, well, he was more normal.{\r}
+
+10
+00:01:14,300 --> 00:01:16,900
+他总是那么闲
+{\fs10}He always seemed to have time on his hands.{\r}
+
+11
+00:01:17,030 --> 00:01:18,250
+自从他五十岁生日那天
+{\fs10}After giving up teaching{\r}
+
+12
+00:01:18,250 --> 00:01:20,320
+辞去了大学教师的工作后
+{\fs10}university students on his 50th birthday,{\r}
+
+13
+00:01:20,450 --> 00:01:23,700
+要么随时陪你聊天
+{\fs10}he was eternally available for a leisurely chat or{\r}
+
+14
+00:01:23,830 --> 00:01:25,040
+要么就是在乒乓大战中被我虐
+{\fs10}to let me win at table tennis.{\r}
+
+15
+00:01:25,120 --> 00:01:26,290
+漂亮
+{\fs10}Yes.{\r}
+
+16
+00:01:26,370 --> 00:01:29,250
+接下来是我舅舅  德斯蒙德
+{\fs10}And then there was Mum's brother, Uncle Desmond.{\r}
+
+17
+00:01:29,380 --> 00:01:33,380
+总是正装打扮  总在混日子
+{\fs10}Always impeccably dressed. He spent the days just, well,{\r}
+
+18
+00:01:33,510 --> 00:01:35,090
+反正有他自己的一套
+{\fs10}being Uncle Desmond.{\r}
+
+19
+00:01:35,220 --> 00:01:36,280
+在家里他最有魅力了
+{\fs10}He was the most charming{\r}
+
+20
+00:01:36,280 --> 00:01:38,090
+但却又傻得不行
+{\fs10}and least clever man you could ever meet.{\r}
+
+21
+00:01:38,840 --> 00:01:42,010
+他思想捉摸不透  咱可懂不了
+{\fs10}His mind was on other things, though we never found out what.{\r}
+
+22
+00:01:42,220 --> 00:01:45,020
+最后一位是我妹凯特琳
+{\fs10}And then, finally there was Catherine.{\r}
+
+23
+00:01:45,100 --> 00:01:47,850
+又叫凯蒂或奇巧
+{\fs10}Katie. Kit Kat. My sister.{\r}
+
+24
+00:01:48,020 --> 00:01:51,520
+在这个从着装到发型都中规中矩的家庭里
+{\fs10}In a household of sensible jackets and haircuts there was this,{\r}
+
+25
+00:01:51,690 --> 00:01:54,190
+她简直就是个野生尤物
+{\fs10}well, what can I call her, nature thing.{\r}
+
+26
+00:01:54,360 --> 00:01:55,760
+一双水灵灵的大眼
+{\fs10}With her elfin eyes,{\r}
+
+27
+00:01:55,760 --> 00:01:59,110
+紫色的上衣  总是打着赤脚
+{\fs10}her purple T-shirts and her eternally bare feet,{\r}
+
+28
+00:01:59,240 --> 00:02:01,700
+对于我来说  她一直都是
+{\fs10}she was then, and still is to me,{\r}
+
+29
+00:02:01,870 --> 00:02:04,490
+这世界上最可爱的人
+{\fs10}about the most wonderful thing in the world.{\r}
+
+30
+00:02:05,700 --> 00:02:07,670
+说到头  童年还是很快乐的
+{\fs10}All in all, it was a pretty good childhood.{\r}
+
+31
+00:02:07,680 --> 00:02:09,420
+每日重复的节奏与模式
+{\fs10}Full of repeated rhythms and patterns.{\r}
+
+32
+00:02:09,580 --> 00:02:11,210
+在我21岁前
+{\fs10}By the time I was 21,{\r}
+
+33
+00:02:11,290 --> 00:02:13,630
+我们每天都会来海边享受下午茶
+{\fs10}we were still having tea on the beach every single day.{\r}
+
+34
+00:02:13,750 --> 00:02:16,550
+丢石块打水漂  吃着三文治充饥
+{\fs10}Skimming stones and eating sandwiches,{\r}
+
+35
+00:02:16,720 --> 00:02:19,930
+无论春夏秋冬  不管天气好坏
+{\fs10}summer and winter, no matter what the weather.{\r}
+
+36
+00:02:24,220 --> 00:02:26,890
+每周五晚都是我们的电影之夜
+{\fs10}And every Friday evening, a film,{\r}
+
+37
+00:02:27,770 --> 00:02:29,770
+也是不管天气好与坏
+{\fs10}no matter what the weather.{\r}
+
+38
+00:02:30,730 --> 00:02:34,940
+直到那一年不堪回首的跨年派对
+{\fs10}And then once a year, the dreaded New Year's Eve party.{\r}
+
+39
+00:02:51,750 --> 00:02:53,750
+等一会  我再去拿一瓶
+{\fs10}Yeah, I might just get one.{\r}
+
+40
+00:02:56,840 --> 00:02:59,670
+你真太美了
+{\fs10}You're absolutely gorgeous.{\r}
+
+41
+00:03:01,090 --> 00:03:03,260
+我叫凯蒂  我喝什么呢
+{\fs10}I'm Katie. What am I drinking?{\r}
+
+42
+00:03:04,100 --> 00:03:05,930
+这杯酒可贵了
+{\fs10}This is very expensive stuff.{\r}
+
+43
+00:03:06,100 --> 00:03:07,390
+-干杯  -干杯
+{\fs10}- Cheers. - Cheers.{\r}
+
+44
+00:03:22,320 --> 00:03:23,740
+快来  马上就12点了
+{\fs10}Come on, it's nearly midnight.{\r}
+
+45
+00:03:23,820 --> 00:03:25,830
+我们要倒数了  开始倒数了
+{\fs10}We're all going through. We're going through.{\r}
+
+46
+00:03:25,950 --> 00:03:27,910
+我要帮你找个...
+{\fs10}Look, I've gotta find you a...{\r}
+
+47
+00:03:29,450 --> 00:03:30,790
+天啊
+{\fs10}God!{\r}
+
+48
+00:03:31,080 --> 00:03:34,750
+人紧张就会犯错  没事  快来
+{\fs10}Everyone makes little mistakes. It's fine. Come on.{\r}
+
+49
+00:03:36,420 --> 00:03:41,130
+
+{\fs10}6 5 4 3 2 1
+6, 5, 4, 3, 2, 1.{\r}
+
+50
+00:03:41,260 --> 00:03:43,300
+新年快乐
+{\fs10}Happy New Year!{\r}
+
+51
+00:03:43,470 --> 00:03:45,510
+新年快乐
+{\fs10}Happy New Year.{\r}
+
+52
+00:03:47,430 --> 00:03:48,430
+对不起
+{\fs10}Sorry.{\r}
+
+53
+00:04:00,440 --> 00:04:02,280
+第二天早上醒来
+{\fs10}And so I woke up the next morning,{\r}
+
+54
+00:04:02,360 --> 00:04:05,110
+酒还没醒  感到羞愧
+{\fs10}hung-over, ashamed of myself,{\r}
+
+55
+00:04:05,200 --> 00:04:06,910
+没有意识到今天是
+{\fs10}and not realising it was the day{\r}
+
+56
+00:04:06,990 --> 00:04:08,530
+会彻底改变人生的一天
+{\fs10}that would change my life forever.{\r}
+
+57
+00:04:10,200 --> 00:04:11,870
+起床啦  蠢猪
+{\fs10}Get up, stupid.{\r}
+
+58
+00:04:14,500 --> 00:04:16,000
+老爸找你
+{\fs10}Dad wants you.{\r}
+
+59
+00:04:16,130 --> 00:04:18,710
+你好哇  性感睡衣
+{\fs10}Hello. Sexy pyjamas.{\r}
+
+60
+00:04:24,010 --> 00:04:25,890
+蒂姆  快进来
+{\fs10}Tim, come in.{\r}
+
+61
+00:04:26,010 --> 00:04:27,300
+请
+{\fs10}Do...{\r}
+
+62
+00:04:28,310 --> 00:04:29,640
+坐下
+{\fs10}Sit down.{\r}
+
+63
+00:04:31,680 --> 00:04:33,680
+搞得挺正式啊
+{\fs10}That's very formal.{\r}
+
+64
+00:04:34,190 --> 00:04:36,150
+是这样的
+{\fs10}Well, um, yeah.{\r}
+
+65
+00:04:36,270 --> 00:04:38,020
+我也有点紧张
+{\fs10}This is an odd moment for me{\r}
+
+66
+00:04:38,190 --> 00:04:40,230
+因为我刚满21岁时
+{\fs10}because I had the same moment with my father{\r}
+
+67
+00:04:40,320 --> 00:04:43,430
+我爸爸也和我有过这样的谈话
+{\fs10}when I'd just turned 21,{\r}
+
+68
+00:04:43,430 --> 00:04:45,710
+之后我的人生就此改变了
+{\fs10}and after it, my life was never the same,{\r}
+
+69
+00:04:45,710 --> 00:04:48,620
+所以我现在也挺紧张
+{\fs10}so I approach it pretty, um, nervously.{\r}
+
+70
+00:04:48,700 --> 00:04:49,700
+好吧
+{\fs10}Okay.{\r}
+
+71
+00:04:50,490 --> 00:04:52,240
+你好好酝酿  貌似挺神秘的
+{\fs10}When you're ready. It's all very mysterious.{\r}
+
+72
+00:04:52,330 --> 00:04:54,040
+是的
+{\fs10}Right.{\r}
+
+73
+00:04:56,120 --> 00:04:59,460
+蒂姆  我亲爱的儿子
+{\fs10}Tim, my dear son, the...{\r}
+
+74
+00:05:01,170 --> 00:05:03,630
+简单说就是咱家的男人
+{\fs10}The simple fact is the men in this family{\r}
+
+75
+00:05:03,760 --> 00:05:06,220
+一直都有一种能力
+{\fs10}have always had the ability to...{\r}
+
+76
+00:05:07,220 --> 00:05:11,650
+这听起来很荒唐  做好准备
+{\fs10}This is going to sound strange, be prepared for strangeness.{\r}
+
+77
+00:05:11,650 --> 00:05:13,310
+别吓坏了
+{\fs10}Get ready for spooky time,{\r}
+
+78
+00:05:13,390 --> 00:05:16,350
+这可是咱家的秘密
+{\fs10}but there's this family secret.{\r}
+
+79
+00:05:16,690 --> 00:05:21,020
+秘密就是咱家的男人能
+{\fs10}And the secret is that the men in the family can{\r}
+
+80
+00:05:23,740 --> 00:05:25,650
+穿越时空
+{\fs10}travel in time.{\r}
+
+81
+00:05:27,910 --> 00:05:29,870
+准确的说  能穿越到过去
+{\fs10}Well, more accurately, travel back in time.{\r}
+
+82
+00:05:29,990 --> 00:05:31,990
+不能穿越到未来
+{\fs10}We can't travel into the future.{\r}
+
+83
+00:05:32,080 --> 00:05:33,870
+这玩笑挺怪异的
+{\fs10}This is such a weird joke.{\r}
+
+84
+00:05:34,000 --> 00:05:36,250
+这不是玩笑
+{\fs10}It's seriously not a joke.{\r}
+
+85
+00:05:38,000 --> 00:05:42,750
+意思是  你和爷爷还有他的兄弟
+{\fs10}So you're saying that you and granddad, and his brothers{\r}
+
+86
+00:05:42,920 --> 00:05:45,210
+-你们都能穿越到过去  -没错
+{\fs10}- could all travel back in time? - Absolutely.{\r}
+
+87
+00:05:45,340 --> 00:05:47,260
+-你现在还能?  -是的
+{\fs10}- And you still do? - Absolutely.{\r}
+
+88
+00:05:47,430 --> 00:05:49,380
+实际并没说起来那么夸张
+{\fs10}Although it's not as dramatic as it sounds.{\r}
+
+89
+00:05:49,380 --> 00:05:50,510
+只能在自己的人生中穿越
+{\fs10}It's only in my own life.{\r}
+
+90
+00:05:50,600 --> 00:05:53,600
+只能去我去过且还记得的地方
+{\fs10}I can only go to places where I actually was and can remember.{\r}
+
+91
+00:05:53,720 --> 00:05:55,920
+很可惜  我无法暗杀希特勒
+{\fs10}I can't kill Hitler or shag Helen of Troy,{\r}
+
+92
+00:05:55,920 --> 00:05:57,440
+无法和特洛伊的海伦滚床单
+{\fs10}unfortunately.{\r}
+
+93
+00:05:57,560 --> 00:05:58,770
+好  打住
+{\fs10}Okay, stop.{\r}
+
+94
+00:06:01,440 --> 00:06:03,350
+如果是真的  当然这不可能
+{\fs10}If it's true, which it isn't.{\r}
+
+95
+00:06:03,350 --> 00:06:03,940
+就是真的
+{\fs10}Although it is.{\r}
+
+96
+00:06:04,110 --> 00:06:05,420
+显然不是
+{\fs10}Although it isn't, obviously.{\r}
+
+97
+00:06:05,420 --> 00:06:07,360
+-假设是真的  虽然其实是假的  -是真的
+{\fs10}- But if it was, which it's not. - Which it is.{\r}
+
+98
+00:06:07,450 --> 00:06:07,950
+不可能
+{\fs10}Which it isn't.{\r}
+
+99
+00:06:07,950 --> 00:06:09,450
+但若是真的  那我要怎样...
+{\fs10}But if it was, how would I...{\r}
+
+100
+00:06:09,570 --> 00:06:11,700
+其实很简单的
+{\fs10}The "How" Is the easy bit, in fact.{\r}
+
+101
+00:06:11,780 --> 00:06:13,670
+你找个黑暗的地方
+{\fs10}You go into a dark place,{\r}
+
+102
+00:06:13,670 --> 00:06:15,040
+壁柜里是最佳场所
+{\fs10}big cupboards are very useful generally.{\r}
+
+103
+00:06:15,040 --> 00:06:16,580
+必要时用厕所
+{\fs10}Toilets, at a pinch.{\r}
+
+104
+00:06:16,710 --> 00:06:19,040
+然后像我这样握紧拳头
+{\fs10}Then you clench your fists like this.{\r}
+
+105
+00:06:19,120 --> 00:06:20,620
+想着你要去的地方
+{\fs10}Think of the moment you're going to{\r}
+
+106
+00:06:20,790 --> 00:06:22,250
+然后你就穿越过去了
+{\fs10}and you'll find yourself there.{\r}
+
+107
+00:06:22,630 --> 00:06:25,630
+当然还会有些磕磕碰碰什么的
+{\fs10}After a bit of a stumble and a rumble and a tumble.{\r}
+
+108
+00:06:27,300 --> 00:06:29,300
+很冷静嘛
+{\fs10}Is as good a reaction as any.{\r}
+
+109
+00:06:29,430 --> 00:06:33,600
+我那时大喊了一句"我操"  而且是在70年代
+{\fs10}I think I plumped for "Fuck!" But it was the '70s.{\r}
+
+110
+00:06:33,720 --> 00:06:35,260
+别吹了  完全就是开玩笑的
+{\fs10}No, this is so obviously a joke.{\r}
+
+111
+00:06:35,390 --> 00:06:36,890
+都说了不是玩笑
+{\fs10}It's not a joke.{\r}
+
+112
+00:06:37,270 --> 00:06:39,770
+干嘛我要骗...
+{\fs10}Why would I lie to someone I'm...{\r}
+
+113
+00:06:40,440 --> 00:06:41,520
+我喜欢的人
+{\fs10}fairly fond of?{\r}
+
+114
+00:06:41,650 --> 00:06:42,730
+好吧
+{\fs10}Okay.{\r}
+
+115
+00:06:42,940 --> 00:06:44,570
+但是  要是我在壁柜里握紧拳头
+{\fs10}But, when I come back downstairs{\r}
+
+116
+00:06:44,650 --> 00:06:47,320
+出来还是老样子
+{\fs10}after standing in a cupboard with my fists clenched,{\r}
+
+117
+00:06:47,490 --> 00:06:49,650
+那你可就麻烦了
+{\fs10}you're gonna be in so much trouble.{\r}
+
+118
+00:06:49,780 --> 00:06:51,410
+走着瞧
+{\fs10}Well, let's see, shall we?{\r}
+
+119
+00:06:53,780 --> 00:06:56,660
+对了  试着做些有趣的事情
+{\fs10}And, Tim, try and do something interesting.{\r}
+
+120
+00:06:56,790 --> 00:06:58,500
+你就有大麻烦了
+{\fs10}So much trouble.{\r}
+
+121
+00:06:58,790 --> 00:07:00,580
+我说到做到
+{\fs10}I mean it. Really.{\r}
+
+122
+00:07:09,670 --> 00:07:10,930
+试试吧
+{\fs10}Right.{\r}
+
+123
+00:08:02,390 --> 00:08:03,520
+没醉吧  蒂姆
+{\fs10}You all right, Tim?{\r}
+
+124
+00:08:03,600 --> 00:08:05,860
+没  很好  很清醒  很棒
+{\fs10}Yes. Yeah. Good, ace. Yeah.{\r}
+
+125
+00:08:05,940 --> 00:08:06,850
+那好  快来
+{\fs10}Good, come on.{\r}
+
+126
+00:08:06,850 --> 00:08:08,770
+马上就12点了  我们要找到...
+{\fs10}It's nearly midnight and we've got to find...{\r}
+
+127
+00:08:08,860 --> 00:08:10,070
+小心小心
+{\fs10}Whoa, whoa, whoa!{\r}
+
+128
+00:08:14,410 --> 00:08:15,530
+马上十二点了
+{\fs10}Whoo! Midnight.{\r}
+
+129
+00:08:15,620 --> 00:08:18,740
+
+{\fs10}10 9 8 7
+10, 9, 8, 7,{\r}
+
+130
+00:08:19,240 --> 00:08:24,620
+
+{\fs10}6 5 4 3 2 1
+6, 5, 4, 3, 2, 1.{\r}
+
+131
+00:08:24,750 --> 00:08:26,960
+新年快乐
+{\fs10}Happy New Year!{\r}
+
+132
+00:08:34,800 --> 00:08:36,220
+谢谢你  蒂姆
+{\fs10}Thank you, Tim.{\r}
+
+133
+00:08:36,340 --> 00:08:37,760
+不用谢  波莉
+{\fs10}You're welcome, Polly.{\r}
+
+134
+00:09:01,450 --> 00:09:02,540
+老妈知道吗
+{\fs10}Does Mum know?{\r}
+
+135
+00:09:02,580 --> 00:09:03,660
+不知道
+{\fs10}Not a whistle.{\r}
+
+136
+00:09:03,790 --> 00:09:05,240
+奇怪了  那万一...
+{\fs10}Strange. And what about the whole...{\r}
+
+137
+00:09:05,240 --> 00:09:06,800
+产生蝴蝶效应是吧  怎么说呢
+{\fs10}Butterfly effect thing. What can I say?{\r}
+
+138
+00:09:06,840 --> 00:09:09,090
+目前看来我们还没毁坏人类文明
+{\fs10}We don't seem to have messed up civilisation yet.{\r}
+
+139
+00:09:09,120 --> 00:09:10,490
+今年会很复杂
+{\fs10}It's gonna be a complicated year.{\r}
+
+140
+00:09:10,500 --> 00:09:12,000
+今生也会很复杂
+{\fs10}It's gonna be a complicated life.{\r}
+
+141
+00:09:12,800 --> 00:09:15,420
+那你都回去干了些什么
+{\fs10}What have you done with it?{\r}
+
+142
+00:09:15,510 --> 00:09:17,640
+对我来说  就是看书  看书  看书
+{\fs10}For me, it's books, books, books.{\r}
+
+143
+00:09:17,800 --> 00:09:19,930
+把一个人想看的书都看完了
+{\fs10}I've read everything a man could wish to.{\r}
+
+144
+00:09:20,010 --> 00:09:23,280
+看了两遍  狄更斯的三遍
+{\fs10}Twice. Dickens three times.{\r}
+
+145
+00:09:23,280 --> 00:09:24,680
+你想干些什么
+{\fs10}Any first thoughts?{\r}
+
+146
+00:09:25,440 --> 00:09:26,710
+我想
+{\fs10}Well, I suppose apart from{\r}
+
+147
+00:09:26,710 --> 00:09:28,770
+除了弄个更潮流的发型外
+{\fs10}getting a slightly better haircut...{\r}
+
+148
+00:09:28,860 --> 00:09:30,320
+很明显还要赚很多钱
+{\fs10}Money would be the obvious thing.{\r}
+
+149
+00:09:30,360 --> 00:09:31,690
+这亦好亦坏
+{\fs10}Very mixed blessing.{\r}
+
+150
+00:09:31,780 --> 00:09:33,460
+你爷爷这辈子就被这样毁了
+{\fs10}Utterly screwed up your grandfather's life.{\r}
+
+151
+00:09:33,570 --> 00:09:35,190
+孤独终老
+{\fs10}Left him without love or friends.{\r}
+
+152
+00:09:35,320 --> 00:09:37,740
+我也从未遇到过真正快乐的富豪
+{\fs10}I've never bumped into a genuinely happy rich person.{\r}
+
+153
+00:09:37,910 --> 00:09:39,910
+如果可以不用工作也不错
+{\fs10}It would be nice not to have to work.{\r}
+
+154
+00:09:39,990 --> 00:09:41,740
+不行  它是万劫之首啊
+{\fs10}No, that's a real recipe for disaster.{\r}
+
+155
+00:09:41,830 --> 00:09:43,170
+看看你叔叔弗雷德就知道了
+{\fs10}Look what happened to Uncle Fred.{\r}
+
+156
+00:09:43,170 --> 00:09:44,310
+他怎么了
+{\fs10}What happened to Uncle Fred?{\r}
+
+157
+00:09:44,400 --> 00:09:46,770
+一事无成
+{\fs10}Absolutely sod all.{\r}
+
+158
+00:09:46,960 --> 00:09:48,070
+混日子
+{\fs10}Wasted his life.{\r}
+
+159
+00:09:48,150 --> 00:09:50,150
+必须把运用这种能力
+{\fs10}You have to use it for things that you really think{\r}
+
+160
+00:09:50,230 --> 00:09:52,070
+把人生变成你真正想要的样子
+{\fs10}will make your life the way you want it to be.{\r}
+
+161
+00:09:52,140 --> 00:09:54,340
+真的  要好好考虑
+{\fs10}Come on, really think about this.{\r}
+
+162
+00:09:54,420 --> 00:09:55,420
+其实嘛
+{\fs10}Well,{\r}
+
+163
+00:09:56,720 --> 00:09:59,180
+老实说  现在我只希望
+{\fs10}to be honest, I suppose, at the moment,{\r}
+
+164
+00:09:59,840 --> 00:10:03,220
+这种超能力能帮我找到个女朋友
+{\fs10}it would be just great if it could help me get a girlfriend.{\r}
+
+165
+00:10:06,180 --> 00:10:08,190
+这可不容易
+{\fs10}Massive.{\r}
+
+166
+00:10:09,270 --> 00:10:10,940
+是啊  重头戏
+{\fs10}The mothership.{\r}
+
+167
+00:10:12,900 --> 00:10:16,030
+我一直渴望得到真爱
+{\fs10}For me, it was always gonna be about love.{\r}
+
+168
+00:10:16,190 --> 00:10:18,950
+今年夏天我就陷入了爱情的泥潭中
+{\fs10}And that summer I walked into the eye of the storm.{\r}
+
+169
+00:10:20,780 --> 00:10:23,140
+她叫夏洛特
+{\fs10}Her name was Charlotte.{\r}
+
+170
+00:10:23,140 --> 00:10:25,870
+是我妹那渣男友吉米的表妹
+{\fs10}Cousin of Kit Kat's handsome but nasty boyfriend Jimmy.{\r}
+
+171
+00:10:27,910 --> 00:10:30,710
+她在我家待了整整两个月
+{\fs10}And she was staying for two whole months.{\r}
+
+172
+00:10:34,550 --> 00:10:36,550
+就这个  不是全部
+{\fs10}Just one. Not both of them.{\r}
+
+173
+00:10:38,800 --> 00:10:39,800
+蒂姆
+{\fs10}Tim,{\r}
+
+174
+00:10:40,640 --> 00:10:42,550
+可以帮我擦防晒霜吗
+{\fs10}will you do my back?{\r}
+
+175
+00:10:42,720 --> 00:10:44,010
+当然
+{\fs10}Absolutely!{\r}
+
+176
+00:10:48,060 --> 00:10:49,890
+很殷勤嘛
+{\fs10}Very keen!{\r}
+
+177
+00:10:51,900 --> 00:10:54,940
+不  不
+{\fs10}Whoa! No. No.{\r}
+
+178
+00:10:55,320 --> 00:10:57,900
+不  不  不
+{\fs10}No. No, no. No, no, no.{\r}
+
+179
+00:10:59,070 --> 00:11:00,570
+-弄到头发上了?  -是的
+{\fs10}- Is it in my hair? - Yes!{\r}
+
+180
+00:11:08,460 --> 00:11:12,040
+蒂姆  可以帮我擦防晒霜吗
+{\fs10}Tim. Will you do my back?{\r}
+
+181
+00:11:12,250 --> 00:11:14,630
+可以  等一会儿
+{\fs10}Sure. Just give us a sec.{\r}
+
+182
+00:11:16,960 --> 00:11:17,960
+好的
+{\fs10}Okay.{\r}
+
+183
+00:11:30,480 --> 00:11:31,940
+谢谢
+{\fs10}Thank you.{\r}
+
+184
+00:11:34,400 --> 00:11:35,400
+来了
+{\fs10}Now...{\r}
+
+185
+00:11:42,950 --> 00:11:44,280
+好舒服啊
+{\fs10}Ooh. Nice.{\r}
+
+186
+00:11:44,780 --> 00:11:46,280
+我最拿手了
+{\fs10}It's my area.{\r}
+
+187
+00:11:49,160 --> 00:11:52,160
+这是一个又晒又折磨人的夏天
+{\fs10}It was a summer of suntan and torture.{\r}
+
+188
+00:11:53,250 --> 00:11:55,040
+我之所以叫我那呆瓜朋友杰来打网球
+{\fs10}I invited my foolish friend Jay around for tennis{\r}
+
+189
+00:11:55,130 --> 00:11:57,380
+是因为我原以为他能衬托出我很厉害
+{\fs10}because I thought he'd make me look good.{\r}
+
+190
+00:12:03,130 --> 00:12:04,260
+但我错了
+{\fs10}I was wrong!{\r}
+
+191
+00:12:04,930 --> 00:12:06,600
+-你怎么打的啊  -抱歉抱歉
+{\fs10}- What are you doing? - No.{\r}
+
+192
+00:12:10,270 --> 00:12:12,230
+夏洛特把我俩玩得团团转
+{\fs10}Charlotte just made both of us look like idiots.{\r}
+
+193
+00:12:12,310 --> 00:12:13,810
+运气不好啊  蒂姆
+{\fs10}Bad luck, Tim.{\r}
+
+194
+00:12:18,440 --> 00:12:20,980
+妈的  这怎么能让人集中精神打球嘛
+{\fs10}How the hell are you meant to concentrate on your game?{\r}
+
+195
+00:12:21,650 --> 00:12:23,740
+这样下去
+{\fs10}How are you meant to live your life{\r}
+
+196
+00:12:23,860 --> 00:12:25,990
+让我怎么过今后的生活啊
+{\fs10}with this sort of shit going down?{\r}
+
+197
+00:12:27,580 --> 00:12:30,330
+情况一直这样
+{\fs10}It never got better until suddenly{\r}
+
+198
+00:12:30,830 --> 00:12:32,910
+直到快来不及了
+{\fs10}it was almost too late.{\r}
+
+199
+00:12:33,460 --> 00:12:35,790
+夏洛特  这是我们最后一次午餐了
+{\fs10}Well, Charlotte, our final lunch.{\r}
+
+200
+00:12:35,920 --> 00:12:37,170
+不要
+{\fs10}No!{\r}
+
+201
+00:12:37,460 --> 00:12:40,800
+有你的这个夏天很开心
+{\fs10}And it's been really, really lovely having you all summer.{\r}
+
+202
+00:12:40,920 --> 00:12:41,960
+是的
+{\fs10}It has.{\r}
+
+203
+00:12:42,090 --> 00:12:43,130
+谢谢  谢谢
+{\fs10}Thank you. Thank you.{\r}
+
+204
+00:12:43,260 --> 00:12:44,510
+真的  真的很开心
+{\fs10}It has. It really has.{\r}
+
+205
+00:12:44,680 --> 00:12:45,930
+德斯蒙德  很开心吧
+{\fs10}Hasn't it, Desmond?{\r}
+
+206
+00:12:46,180 --> 00:12:47,220
+你说啥
+{\fs10}Beg your pardon?{\r}
+
+207
+00:12:47,300 --> 00:12:49,470
+这个夏天有夏洛特很开心
+{\fs10}Lovely having Charlotte here all summer.{\r}
+
+208
+00:12:49,850 --> 00:12:51,310
+夏洛特? 谁是夏洛特啊
+{\fs10}Charlotte? Who's Charlotte?{\r}
+
+209
+00:12:51,430 --> 00:12:53,680
+长点记性  夏洛特就坐在你旁边
+{\fs10}Come on, darling. Charlotte, sitting next to you.{\r}
+
+210
+00:12:54,980 --> 00:12:58,310
+是哦  记起来了  你是夏洛特
+{\fs10}Yes, of course. Of course. Charlotte.{\r}
+
+211
+00:12:59,110 --> 00:13:00,520
+很高兴认识你
+{\fs10}Lovely to meet you.{\r}
+
+212
+00:13:04,990 --> 00:13:08,320
+蒂姆  这个夏天有夏洛特在你开心吗
+{\fs10}Have you enjoyed having Charlotte here all summer, Tim?{\r}
+
+213
+00:13:12,040 --> 00:13:13,370
+八月要结束了
+{\fs10}There goes August.{\r}
+
+214
+00:13:13,540 --> 00:13:15,500
+我都教了他好多事情了
+{\fs10}I've introduced him to most things, haven't I?{\r}
+
+215
+00:13:15,540 --> 00:13:18,040
+是的  你比他有经验嘛
+{\fs10}You did. You were much more sophisticated.{\r}
+
+216
+00:13:18,210 --> 00:13:20,880
+而且不露声色
+{\fs10}In a quiet way, I like to think.{\r}
+
+217
+00:13:34,730 --> 00:13:36,060
+进来
+{\fs10}Come in.{\r}
+
+218
+00:13:38,400 --> 00:13:39,650
+夏洛特
+{\fs10}Charlotte.{\r}
+
+219
+00:13:43,570 --> 00:13:47,200
+最后一晚了  能问你一个问题吗
+{\fs10}As it's your last night, can I ask you a question?{\r}
+
+220
+00:13:48,070 --> 00:13:49,820
+问吧
+{\fs10}Yeah. Ask away.{\r}
+
+221
+00:13:50,070 --> 00:13:51,490
+等等
+{\fs10}No, wait.{\r}
+
+222
+00:13:52,830 --> 00:13:55,910
+不会是向我表白吧
+{\fs10}It's not going to be about love, is it?{\r}
+
+223
+00:13:56,080 --> 00:13:57,580
+表白? 表白什么
+{\fs10}Love? What?{\r}
+
+224
+00:13:57,710 --> 00:13:59,900
+奇巧警告过我
+{\fs10}Well, it's just that Kit Kat warned me{\r}
+
+225
+00:13:59,900 --> 00:14:01,500
+如果你向我表白
+{\fs10}that if you were to ever mention it,{\r}
+
+226
+00:14:01,500 --> 00:14:03,550
+那我就必须以强硬姿态告诉你
+{\fs10}I should be very firm with you and tell you{\r}
+
+227
+00:14:03,670 --> 00:14:05,840
+必须把我当成你的妹妹
+{\fs10}you must treat me like your sister{\r}
+
+228
+00:14:05,920 --> 00:14:07,380
+别做傻事
+{\fs10}and not be stupid.{\r}
+
+229
+00:14:08,260 --> 00:14:11,260
+还是我完全误会了
+{\fs10}Or have I just made a total fool of myself{\r}
+
+230
+00:14:11,390 --> 00:14:12,990
+你其实只是趁最后一晚
+{\fs10}and you were actually going to ask me for{\r}
+
+231
+00:14:13,100 --> 00:14:14,680
+跑来问我关于打网球的技巧是吧
+{\fs10}late night last minute tennis tips?{\r}
+
+232
+00:14:15,520 --> 00:14:17,350
+不是  我就是来表白的
+{\fs10}No, it was the love thing.{\r}
+
+233
+00:14:17,440 --> 00:14:19,100
+好吧
+{\fs10}Well.{\r}
+
+234
+00:14:20,270 --> 00:14:22,560
+你人真好
+{\fs10}That's very sweet of you.{\r}
+
+235
+00:14:23,400 --> 00:14:26,690
+可惜你拖到最后一晚才表白
+{\fs10}It's just a shame you left it till the last night.{\r}
+
+236
+00:14:26,780 --> 00:14:29,560
+你应该在我们还有时间的时候
+{\fs10}You should have tried creeping along the corridor{\r}
+
+237
+00:14:29,560 --> 00:14:31,620
+多多溜到我门外来
+{\fs10}while we still had time.{\r}
+
+238
+00:14:32,530 --> 00:14:34,790
+所以不该最后一晚表白?
+{\fs10}Okay, the "Last night" was a bad idea?{\r}
+
+239
+00:14:34,950 --> 00:14:36,460
+是的
+{\fs10}Very bad idea.{\r}
+
+240
+00:14:36,460 --> 00:14:39,790
+都快分开了才说  感觉有点侮辱人呢
+{\fs10}It feels like an ever so slightly insulting afterthought.{\r}
+
+241
+00:14:40,250 --> 00:14:42,460
+最后一晚表白是行不通的
+{\fs10}"Last night" was never going to work.{\r}
+
+242
+00:14:43,130 --> 00:14:46,130
+好的  就这样  我明白了
+{\fs10}All right. Good. I've got it.{\r}
+
+243
+00:15:06,570 --> 00:15:07,900
+进来
+{\fs10}Come in.{\r}
+
+244
+00:15:09,320 --> 00:15:11,240
+-蒂姆  -夏洛特
+{\fs10}- Tim. - Charlotte.{\r}
+
+245
+00:15:12,620 --> 00:15:14,320
+坐这儿
+{\fs10}Sit down.{\r}
+
+246
+00:15:16,790 --> 00:15:19,660
+可能你已经感觉到了
+{\fs10}I know you've probably suspected this,{\r}
+
+247
+00:15:19,830 --> 00:15:23,420
+过去一个月我完完全全地爱上了你
+{\fs10}but over the last month I've fallen completely in love with you.{\r}
+
+248
+00:15:25,170 --> 00:15:27,840
+现在是时候表白了
+{\fs10}Now obviously this was gonna happen{\r}
+
+249
+00:15:28,090 --> 00:15:32,090
+你是我的女神  天使般的脸蛋
+{\fs10}because you're a goddess with that face{\r}
+
+250
+00:15:32,180 --> 00:15:33,970
+一头柔软的长发
+{\fs10}and that hair,{\r}
+
+251
+00:15:34,260 --> 00:15:37,260
+即使你没有漂亮的脸蛋
+{\fs10}but even if you didn't have a nice face,{\r}
+
+252
+00:15:38,270 --> 00:15:40,930
+或是因为什么医疗事故
+{\fs10}and even if you had absolutely no hair{\r}
+
+253
+00:15:41,190 --> 00:15:43,770
+你变成了秃子
+{\fs10}because of some bizarre medical reason,{\r}
+
+254
+00:15:45,190 --> 00:15:47,150
+我依然喜欢你
+{\fs10}I'd still adore you,{\r}
+
+255
+00:15:47,690 --> 00:15:48,690
+我...
+{\fs10}and I...{\r}
+
+256
+00:15:49,190 --> 00:15:51,910
+我想知道我是否有一丝希望
+{\fs10}I just wondered whether, by any chance,{\r}
+
+257
+00:15:51,910 --> 00:15:53,860
+让你也如此动心
+{\fs10}you might share my feelings.{\r}
+
+258
+00:15:57,540 --> 00:15:59,410
+不如这样
+{\fs10}I tell you what.{\r}
+
+259
+00:15:59,950 --> 00:16:02,040
+不如等到夏天结束
+{\fs10}Why don't we see how the summer goes{\r}
+
+260
+00:16:02,120 --> 00:16:05,960
+到最后一晚再来表白
+{\fs10}and then you ask me again on my last night?{\r}
+
+261
+00:16:07,840 --> 00:16:09,630
+-最后一晚? -是的
+{\fs10}- Your last night? - Yes.{\r}
+
+262
+00:16:10,010 --> 00:16:14,010
+最后一晚再表白  或许会发生些奇迹哦
+{\fs10}Try me on the last night. See what happens then, shall we?{\r}
+
+263
+00:16:14,970 --> 00:16:16,220
+我好期待呢
+{\fs10}It's exciting.{\r}
+
+264
+00:16:16,640 --> 00:16:17,640
+对
+{\fs10}Right.{\r}
+
+265
+00:16:18,220 --> 00:16:20,430
+不  是个完美计划
+{\fs10}No, it's a perfect plan.{\r}
+
+266
+00:16:20,430 --> 00:16:22,430
+非常完美  最后一晚再表白
+{\fs10}That's absolutely perfect. Last night.{\r}
+
+267
+00:16:22,560 --> 00:16:23,980
+最后一晚
+{\fs10}Last night.{\r}
+
+268
+00:16:26,860 --> 00:16:28,440
+谢谢
+{\fs10}Thanks very much.{\r}
+
+269
+00:16:29,610 --> 00:16:31,110
+晚安  蒂米
+{\fs10}Night-night, Timmy.{\r}
+
+270
+00:16:38,490 --> 00:16:40,410
+经验教训第一条
+{\fs10}Big lesson number one,{\r}
+
+271
+00:16:40,540 --> 00:16:43,710
+不管怎样穿越都也无法让人爱上你
+{\fs10}all the time travel in the world can't make someone love you.{\r}
+
+272
+00:16:43,830 --> 00:16:44,830
+再见
+{\fs10}Bye!{\r}
+
+273
+00:16:46,040 --> 00:16:48,250
+我的挚爱就这样离开我了
+{\fs10}So the love of my life just drove away.{\r}
+
+274
+00:16:49,750 --> 00:16:53,510
+她走后第二天我也要走了
+{\fs10}And the very next day it was my turn to leave.{\r}
+
+275
+00:16:56,260 --> 00:16:59,260
+拿着  别一次花完
+{\fs10}There you go. Don't spend it all at once.{\r}
+
+276
+00:17:00,970 --> 00:17:01,970
+谢了
+{\fs10}Thanks.{\r}
+
+277
+00:17:03,480 --> 00:17:05,530
+别老给家里打电话
+{\fs10}Don't call too often,{\r}
+
+278
+00:17:05,530 --> 00:17:07,400
+你妈不喜欢老被人打扰
+{\fs10}your mother doesn't like to be disturbed.{\r}
+
+279
+00:17:07,520 --> 00:17:09,690
+好的  知道了
+{\fs10}Okay. Thanks.{\r}
+
+280
+00:17:28,080 --> 00:17:29,460
+我坐着火车来到了伦敦
+{\fs10}I caught the train to London{\r}
+
+281
+00:17:29,460 --> 00:17:32,460
+寻找未来  和我的爱情
+{\fs10}in search of a future and a girlfriend.{\r}
+
+282
+00:17:35,130 --> 00:17:37,380
+我住在我爸的剧作家朋友哈利家里
+{\fs10}I was staying in St John's Wood, near Abbey Road,{\r}
+
+283
+00:17:37,470 --> 00:17:40,640
+他家在艾比路附近的圣约翰伍德区
+{\fs10}with a playwright friend of my dad's called Harry.{\r}
+
+284
+00:17:40,930 --> 00:17:42,820
+初到伦敦  能有亲友们投靠
+{\fs10}It's always nice to have family connections{\r}
+
+285
+00:17:42,820 --> 00:17:44,680
+真是一件好事
+{\fs10}when you're a new kid in town.{\r}
+
+286
+00:17:57,610 --> 00:18:01,370
+你  他妈  想干嘛
+{\fs10}What the fuck do you want?{\r}
+
+287
+00:18:03,580 --> 00:18:04,700
+我是詹姆斯的儿子
+{\fs10}I'm James's son.{\r}
+
+288
+00:18:04,830 --> 00:18:06,000
+谁啊
+{\fs10}Who?{\r}
+
+289
+00:18:07,210 --> 00:18:09,330
+-詹姆斯·莱克  -他怎么了
+{\fs10}- James Lake. - What about him?{\r}
+
+290
+00:18:12,000 --> 00:18:13,750
+他说你有一间空房
+{\fs10}He said you had a room.{\r}
+
+291
+00:18:15,170 --> 00:18:17,590
+进去  进到这  别动
+{\fs10}Go in there and wait.{\r}
+
+292
+00:18:18,590 --> 00:18:21,930
+安静点  别弄出任何声响
+{\fs10}Quietly. I mean it, don't make a sound.{\r}
+
+293
+00:18:22,850 --> 00:18:24,430
+不然我就杀了你
+{\fs10}Or I'll kill you.{\r}
+
+294
+00:18:35,030 --> 00:18:37,570
+我刚想到了一个十年来最好的点子
+{\fs10}I was actually having the first good idea I've had for a decade{\r}
+
+295
+00:18:37,650 --> 00:18:39,200
+你却按响了门铃
+{\fs10}when you rang on the doorbell.{\r}
+
+296
+00:18:39,860 --> 00:18:41,620
+好了  现在全没了
+{\fs10}But now it's gone.{\r}
+
+297
+00:18:42,410 --> 00:18:44,370
+你个小杂种
+{\fs10}You little shit.{\r}
+
+298
+00:18:44,490 --> 00:18:46,080
+你老爸过得怎样
+{\fs10}How's your dad?{\r}
+
+299
+00:18:46,370 --> 00:18:50,460
+我总觉得他是另类  有点怪怪的
+{\fs10}Weird cock, I always thought. Something weird about him.{\r}
+
+300
+00:18:50,580 --> 00:18:51,370
+是吗
+{\fs10}Really?{\r}
+
+301
+00:18:51,460 --> 00:18:53,960
+当然  其实我不太喜欢他
+{\fs10}Yeah, I never really liked him, actually.{\r}
+
+302
+00:18:55,000 --> 00:18:57,510
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}20世纪艺术界最有名的人物之一  波普艺术的倡导者和领袖
+
+303
+00:18:55,000 --> 00:18:57,510
+你妈现在长得还像安迪·沃霍尔吗
+{\fs10}Your mum still look like Andy Warhol?{\r}
+
+304
+00:18:57,630 --> 00:18:58,630
+什么啊
+{\fs10}What?{\r}
+
+305
+00:19:00,010 --> 00:19:02,590
+对了  那是我老婆
+{\fs10}That, by the way, is my wife.{\r}
+
+306
+00:19:02,760 --> 00:19:04,220
+她很漂亮
+{\fs10}Nice.{\r}
+
+307
+00:19:04,350 --> 00:19:05,790
+你一开始肯定不会喜欢她的
+{\fs10}Yeah, you wouldn't like her at first.{\r}
+
+308
+00:19:07,060 --> 00:19:08,980
+牙尖嘴利的
+{\fs10}Sarcastic cow.{\r}
+
+309
+00:19:10,100 --> 00:19:12,270
+但最终你会发现
+{\fs10}But eventually you'd realise that{\r}
+
+310
+00:19:12,770 --> 00:19:15,440
+她是这世上最好的人
+{\fs10}she's the best human being in the world.{\r}
+
+311
+00:19:16,190 --> 00:19:18,440
+理所当然  她离开我了
+{\fs10}Which is why she left me, of course.{\r}
+
+312
+00:19:20,990 --> 00:19:22,570
+这是你的房间
+{\fs10}Here you go.{\r}
+
+313
+00:19:23,200 --> 00:19:26,950
+不要搞太大声  尤其是在滚床单的时候
+{\fs10}Try not to make too much noise, particularly when having sex.{\r}
+
+314
+00:19:27,580 --> 00:19:28,620
+那不可能的
+{\fs10}No chance of that.{\r}
+
+315
+00:19:28,700 --> 00:19:31,410
+天啊  两个屌丝住在一个房子里
+{\fs10}Christ, two losers in one house.{\r}
+
+316
+00:19:31,960 --> 00:19:33,500
+那是我女儿
+{\fs10}That is my daughter.{\r}
+
+317
+00:19:35,130 --> 00:19:38,800
+喜欢就睡她吧  反正人人都睡过她
+{\fs10}Have sex with her if you like. Apparently everyone else has.{\r}
+
+318
+00:19:41,090 --> 00:19:43,550
+住在这种地方很难有桃花
+{\fs10}It wasn't a hopeful set-up for romance.{\r}
+
+319
+00:19:44,300 --> 00:19:46,970
+工作上也没什么机会
+{\fs10}And work didn't help on that score either.{\r}
+
+320
+00:19:47,390 --> 00:19:50,100
+法律界就是个男人的世界
+{\fs10}The world of law seems to be entirely full of men.{\r}
+
+321
+00:19:52,310 --> 00:19:56,650
+我是罗利  荣幸荣幸  有点小激动
+{\fs10}I'm Rory. Very pleased to meet you. A real thrill.{\r}
+
+322
+00:19:57,110 --> 00:20:00,740
+咱俩说不定会成为哥们  是吧
+{\fs10}Well, who knows, we might become, you know, pals, et cetera.{\r}
+
+323
+00:20:02,110 --> 00:20:03,820
+-你谁啊  -蒂姆·莱克
+{\fs10}- Who the hell are you? - Tim Lake.{\r}
+
+324
+00:20:04,240 --> 00:20:06,070
+希望你别和这蠢瓜一样蠢就好
+{\fs10}Well, I hope you're better than this clown.{\r}
+
+325
+00:20:06,740 --> 00:20:08,240
+快过来  罗杰
+{\fs10}Come on, Roger.{\r}
+
+326
+00:20:08,370 --> 00:20:09,870
+是罗利啦
+{\fs10}It's Rory, actually.{\r}
+
+327
+00:20:10,000 --> 00:20:11,540
+我都来这一年半了
+{\fs10}I've been here a year and a half.{\r}
+
+328
+00:20:11,620 --> 00:20:12,660
+这是客气的说法
+{\fs10}I'm just saying that to be nice.{\r}
+
+329
+00:20:12,660 --> 00:20:14,210
+我来这其实已经2年了
+{\fs10}It's two years actually.{\r}
+
+330
+00:20:16,290 --> 00:20:17,950
+半年寂寞地度过了
+{\fs10}So six lonely months went by,{\r}
+
+331
+00:20:17,950 --> 00:20:20,880
+仍只有我跟哈利作伴
+{\fs10}and it was still just me and Harry.{\r}
+
+332
+00:20:21,010 --> 00:20:23,510
+我日以继夜地忙着工作
+{\fs10}Me lawyer-ing every hour of the day and night.{\r}
+
+333
+00:20:23,630 --> 00:20:26,890
+他则为新的演出作最后准备
+{\fs10}And him putting the finishing touches to his new play.{\r}
+
+334
+00:20:28,890 --> 00:20:31,520
+无论有多少女孩与我擦肩而过
+{\fs10}No matter how many girls there were in the world,{\r}
+
+335
+00:20:31,640 --> 00:20:34,770
+最终却只有罗利会停留
+{\fs10}I always seemed to end up with Rory.{\r}
+
+336
+00:20:34,900 --> 00:20:35,900
+你好
+{\fs10}Hello.{\r}
+
+337
+00:20:36,270 --> 00:20:38,060
+直到突然有一晚
+{\fs10}Until, out of the blue,{\r}
+
+338
+00:20:38,520 --> 00:20:41,630
+在跟不靠谱的杰出去玩时
+{\fs10}on a dodgy night out with dodgy Jay,{\r}
+
+339
+00:20:41,630 --> 00:20:43,450
+奇迹发生了
+{\fs10}something miraculous happened.{\r}
+
+340
+00:20:44,110 --> 00:20:45,950
+这些侍应
+{\fs10}The waiters are,{\r}
+
+341
+00:20:46,320 --> 00:20:48,030
+没错  都是盲人
+{\fs10}wait for this, right, they're blind.{\r}
+
+342
+00:20:48,120 --> 00:20:49,240
+开什么玩笑
+{\fs10}You're kidding me?{\r}
+
+343
+00:20:49,370 --> 00:20:52,870
+我没开玩笑  他们真的是完全看不见
+{\fs10}I'm kidding you not. No, as bats. As bats!{\r}
+
+344
+00:20:53,330 --> 00:20:54,960
+先生  欢迎光临
+{\fs10}Very good to have you here, gentlemen.{\r}
+
+345
+00:20:55,040 --> 00:20:56,960
+希望你们用餐愉快
+{\fs10}I hope you enjoy your experience.{\r}
+
+346
+00:20:57,040 --> 00:20:59,170
+卡罗会带你们进去
+{\fs10}Carlo will show you to your table.{\r}
+
+347
+00:20:59,300 --> 00:21:01,550
+-好的  -走吧  大师
+{\fs10}- Great. - Lead on, maestro.{\r}
+
+348
+00:21:01,670 --> 00:21:04,260
+把你的右手搭到我的右肩上吧
+{\fs10}Can I have your right hand on my right shoulder, please?{\r}
+
+349
+00:21:04,340 --> 00:21:06,760
+你朋友搭在你肩上  多谢合作
+{\fs10}And your friend hold on to your shoulder. Thank you.{\r}
+
+350
+00:21:10,390 --> 00:21:13,890
+小心楼梯  做好心理准备
+{\fs10}Mind the stairs and be prepared because,{\r}
+
+351
+00:21:14,140 --> 00:21:16,390
+里边真的什么都看不见
+{\fs10}it's completely dark.{\r}
+
+
+353
+00:21:18,360 --> 00:21:20,070
+好的  先生  要是不介意的话
+{\fs10}Okay, gentlemen, if you don't mind,{\r}
+
+354
+00:21:20,150 --> 00:21:22,530
+你们可以坐在这两位女士的旁边
+{\fs10}I can sit you here beside these two young ladies.{\r}
+
+355
+00:21:22,610 --> 00:21:24,690
+当然不介意  好极了
+{\fs10}No, no. Sounds absolutely perfect!{\r}
+
+356
+00:21:24,820 --> 00:21:26,990
+天啊  听起来还挺自信
+{\fs10}God, you sound very perky.{\r}
+
+357
+00:21:27,070 --> 00:21:28,450
+确实  而且还十分英俊
+{\fs10}I am. And very handsome.{\r}
+
+358
+00:21:29,620 --> 00:21:31,200
+这边有人啊
+{\fs10}Someone's there.{\r}
+
+359
+00:21:31,330 --> 00:21:33,500
+-你好  -你好  我叫玛丽
+{\fs10}- Hi. - Hi. I'm Mary.{\r}
+
+360
+00:21:33,620 --> 00:21:36,290
+我叫蒂姆  其实我妈也叫玛丽
+{\fs10}I'm Tim. Mary's my mother's name, actually.{\r}
+
+361
+00:21:36,420 --> 00:21:39,000
+-人如其名吗  -还凑合
+{\fs10}- Does it suit her? - Sort of.{\r}
+
+362
+00:21:39,130 --> 00:21:40,060
+不过她身子硬朗
+{\fs10}Although she's sturdy,{\r}
+
+363
+00:21:40,060 --> 00:21:42,590
+也许叫伯纳德[男名]更合适
+{\fs10}so Bernard might have been a better fit.{\r}
+
+364
+00:21:44,010 --> 00:21:45,010
+好吧
+{\fs10}Okay.{\r}
+
+365
+00:21:45,380 --> 00:21:48,090
+有东西碰到我手肘了
+{\fs10}Something just touched my elbow.{\r}
+
+367
+00:21:48,220 --> 00:21:49,550
+放心  不是我
+{\fs10}Okay, that wasn't me.{\r}
+
+368
+00:21:49,640 --> 00:21:53,060
+那更糟糕  要不是你  那是什么
+{\fs10}No. Well, that just makes it worse. If it wasn't you, who was it?{\r}
+
+369
+00:21:53,180 --> 00:21:56,390
+也不是我  因为我在摸其他东西
+{\fs10}It wasn't me because I'm touching something else.{\r}
+
+370
+00:21:56,520 --> 00:21:59,150
+是啊  把手拿开  谢谢
+{\fs10}Yes, and you'll stop that right away, thank you.{\r}
+
+371
+00:21:59,520 --> 00:22:04,110
+说实话  你们俩谁更漂亮
+{\fs10}So, girls, be honest, who is more beautiful?{\r}
+
+373
+00:22:04,190 --> 00:22:05,740
+-当然是我  -没错  是她
+{\fs10}- I am. - Yeah. She is.{\r}
+
+374
+00:22:05,860 --> 00:22:06,990
+太棒了
+{\fs10}Excellent!{\r}
+
+375
+00:22:07,110 --> 00:22:08,660
+其实我长得像凯特·摩斯
+{\fs10}Actually, I look like Kate Moss.{\r}
+
+376
+00:22:07,310 --> 00:22:09,150
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}凯特·摩斯  一位争议较多的世界级超模
+
+377
+00:22:08,780 --> 00:22:10,320
+真的吗
+{\fs10}Really?{\r}
+
+378
+00:22:10,450 --> 00:22:13,280
+假的  我看起来像只松鼠
+{\fs10}No. I sort of look like a squirrel.{\r}
+
+379
+00:22:14,660 --> 00:22:16,000
+你喜欢凯特·摩斯吗
+{\fs10}Do you like Kate Moss?{\r}
+
+380
+00:22:16,120 --> 00:22:17,500
+我爱死她了
+{\fs10}I absolutely love her.{\r}
+
+381
+00:22:17,620 --> 00:22:18,730
+其实今晚我打算
+{\fs10}In fact, I almost wore{\r}
+
+382
+00:22:18,730 --> 00:22:20,790
+穿一条她的裙子  你呢
+{\fs10}one of her dresses here tonight. You?{\r}
+
+383
+00:22:20,920 --> 00:22:23,130
+我没有  她的衣服不适合我
+{\fs10}No, no, her clothes look terrible on me.{\r}
+
+384
+00:22:25,630 --> 00:22:28,010
+真不敢相信你也下周生日
+{\fs10}I cannot believe that it's your birthday next week as well.{\r}
+
+386
+00:22:28,090 --> 00:22:32,140
+你的朋友有够热情的
+{\fs10}Your friend Jay is quite enthusiastic.{\r}
+
+387
+00:22:32,430 --> 00:22:34,560
+其实我挺讨厌他
+{\fs10}I actually hate him.{\r}
+
+388
+00:22:34,680 --> 00:22:35,600
+乔安娜这人怎样
+{\fs10}What's Joanna like?{\r}
+
+389
+00:22:35,730 --> 00:22:38,480
+-基本上就是个妓女  -是啊
+{\fs10}- She's basically a prostitute. - Yeah.{\r}
+
+390
+00:22:39,230 --> 00:22:41,150
+我猜这是草莓慕斯
+{\fs10}I think it's strawberry mousse.{\r}
+
+392
+00:22:41,230 --> 00:22:42,360
+要尝尝吗
+{\fs10}Do you want some?{\r}
+
+393
+00:22:42,440 --> 00:22:43,770
+好的  让我尝尝
+{\fs10}Okay. I'll try it.{\r}
+
+394
+00:22:43,860 --> 00:22:45,070
+好的  你的嘴在哪儿
+{\fs10}Okay, where's your mouth?{\r}
+
+395
+00:22:45,150 --> 00:22:46,780
+在...
+{\fs10}It's...{\r}
+
+396
+00:22:47,650 --> 00:22:49,030
+在这儿
+{\fs10}It's here.{\r}
+
+397
+00:22:49,160 --> 00:22:50,490
+好的  是这吗
+{\fs10}Okay. There?{\r}
+
+398
+00:22:50,660 --> 00:22:52,450
+老天  碰到哪儿了
+{\fs10}My God, what was that?{\r}
+
+399
+00:22:52,580 --> 00:22:54,370
+那是我的眼睛
+{\fs10}That's my eye.{\r}
+
+400
+00:22:54,490 --> 00:22:56,060
+我的眼...
+{\fs10}I think there's a lot of...{\r}
+
+401
+00:22:56,070 --> 00:22:59,500
+现在我眼里都是草莓慕斯了
+{\fs10}I've got quite a lot of strawberry mousse in my eye now!{\r}
+
+402
+00:22:59,620 --> 00:23:00,920
+真的很抱歉
+{\fs10}I'm so sorry.{\r}
+
+403
+00:23:01,000 --> 00:23:04,250
+没事  还要谢谢你帮我找到种新吃法
+{\fs10}No. Thank you. That's a new sensation for me.{\r}
+
+404
+00:23:06,800 --> 00:23:10,380
+或许我们在外面见见面
+{\fs10}So, maybe I'll see you outside or...{\r}
+
+406
+00:23:10,720 --> 00:23:12,390
+好啊  很好
+{\fs10}Yeah. Yeah, great.{\r}
+
+407
+00:23:12,510 --> 00:23:14,300
+好的  有点害怕
+{\fs10}Great. Scary.{\r}
+
+408
+00:23:14,430 --> 00:23:16,680
+是啊  是有点害怕
+{\fs10}Yeah, it's a bit scary.{\r}
+
+409
+00:23:16,970 --> 00:23:20,140
+天啊  我很享受  你呢
+{\fs10}My God, I'm so in there. What about you?{\r}
+
+410
+00:23:20,270 --> 00:23:22,980
+不知道  不过听上去很不错
+{\fs10}I don't know, but she sounded wonderful.{\r}
+
+411
+00:23:25,480 --> 00:23:27,190
+-乔安娜  -杰
+{\fs10}- Joanna? - Jay.{\r}
+
+412
+00:23:27,320 --> 00:23:29,400
+老天  可真是个尤物
+{\fs10}Christ, you're a babe.{\r}
+
+413
+00:23:29,530 --> 00:23:31,850
+有兴趣下半场吗
+{\fs10}How do you fancy stretching the night out a bit?{\r}
+
+414
+00:23:31,900 --> 00:23:32,860
+我可以打发走他
+{\fs10}I can ditch the loser.{\r}
+
+415
+00:23:32,990 --> 00:23:34,970
+我们赶时间  不过帮我拦出租车的话
+{\fs10}We've got to rush, but help me find a cab,{\r}
+
+416
+00:23:34,980 --> 00:23:35,910
+我会考虑给你号码
+{\fs10}and I might give you my number.{\r}
+
+417
+00:23:35,990 --> 00:23:36,990
+当然没问题
+{\fs10}Of course. Yeah.{\r}
+
+418
+00:23:37,080 --> 00:23:38,790
+也可能不给  不过我还没决定
+{\fs10}Or I might not. Haven't decided yet. So...{\r}
+
+419
+00:23:38,830 --> 00:23:40,330
+我才不会把号码给他
+{\fs10}I have. it's not gonna happen.{\r}
+
+420
+00:24:07,860 --> 00:24:09,610
+-你好  -你好
+{\fs10}- Hi. - Hi.{\r}
+
+421
+00:24:10,900 --> 00:24:13,280
+-她在哪  -她跟杰...
+{\fs10}- Where's... - She and Jay just...{\r}
+
+422
+00:24:13,410 --> 00:24:16,030
+她跟他去了...我不知道
+{\fs10}She took him to... I don't know.{\r}
+
+423
+00:24:16,160 --> 00:24:17,160
+好吧
+{\fs10}Right.{\r}
+
+424
+00:24:17,330 --> 00:24:19,490
+我还是...
+{\fs10}Well, I guess I'd better...{\r}
+
+425
+00:24:19,620 --> 00:24:23,290
+要是我问你要号码会不会太唐突了
+{\fs10}Would it be very wrong if I asked you for your number?{\r}
+
+426
+00:24:25,290 --> 00:24:26,290
+不会
+{\fs10}No.{\r}
+
+427
+00:24:26,630 --> 00:24:29,670
+以防我找你...
+{\fs10}Just in case I ever had to call you about...{\r}
+
+428
+00:24:30,300 --> 00:24:31,840
+有事?
+{\fs10}Stuff?{\r}
+
+429
+00:24:32,590 --> 00:24:33,590
+好吧
+{\fs10}Okay.{\r}
+
+430
+00:24:37,810 --> 00:24:39,140
+方不方便...
+{\fs10}Would you...{\r}
+
+431
+00:24:39,850 --> 00:24:41,060
+我叫玛丽
+{\fs10}It's Mary.{\r}
+
+432
+00:24:41,230 --> 00:24:42,430
+玛丽
+{\fs10}Mary.{\r}
+
+433
+00:24:44,600 --> 00:24:45,850
+好了
+{\fs10}Okay.{\r}
+
+434
+00:24:46,480 --> 00:24:48,650
+我以前觉得这台手机又破又旧
+{\fs10}I thought this phone was old and shit,{\r}
+
+435
+00:24:49,360 --> 00:24:51,570
+不过现在它成了我最珍贵的东西了
+{\fs10}but suddenly it's my most valuable possession.{\r}
+
+436
+00:24:52,610 --> 00:24:54,400
+你真的喜欢我吗
+{\fs10}You really like me?{\r}
+
+437
+00:24:56,070 --> 00:24:58,660
+即使我穿的连衣裙
+{\fs10}Even my frock?{\r}
+
+438
+00:24:58,780 --> 00:25:00,910
+我喜欢你的连衣裙
+{\fs10}I love your frock.{\r}
+
+439
+00:25:01,540 --> 00:25:05,120
+我的头发呢  是不是太棕了
+{\fs10}And my hair? It's not too brown?{\r}
+
+440
+00:25:05,460 --> 00:25:07,000
+我爱棕色
+{\fs10}I love brown.{\r}
+
+441
+00:25:08,710 --> 00:25:10,000
+我刘海是新剪的
+{\fs10}My fringe is new.{\r}
+
+442
+00:25:10,090 --> 00:25:12,300
+刘海很完美  简直是点睛之笔
+{\fs10}The fringe is perfect. Fringe is the best bit.{\r}
+
+443
+00:25:12,380 --> 00:25:13,510
+玛丽
+{\fs10}Mary!{\r}
+
+444
+00:25:13,630 --> 00:25:14,090
+该走了
+{\fs10}We have to go!{\r}
+
+445
+00:25:14,090 --> 00:25:16,970
+再不走他那不靠谱的朋友就要侵犯我了
+{\fs10}I found a cab and his dodgy friend is about to assault me.{\r}
+
+446
+00:25:17,090 --> 00:25:19,430
+好的  马上到
+{\fs10}Okay, I'm coming.{\r}
+
+447
+00:25:19,560 --> 00:25:21,140
+再两秒钟
+{\fs10}Two seconds.{\r}
+
+448
+00:25:22,100 --> 00:25:23,930
+我希望能再见到你
+{\fs10}I hope I see you again.{\r}
+
+449
+00:25:24,560 --> 00:25:25,690
+你会的
+{\fs10}You will.{\r}
+
+450
+00:25:26,230 --> 00:25:28,560
+好的  很好
+{\fs10}Okay. Good.{\r}
+
+451
+00:25:30,150 --> 00:25:33,530
+晚安
+{\fs10}Goodnight.{\r}
+
+452
+00:26:10,940 --> 00:26:12,520
+发生什么事
+{\fs10}What's happened?{\r}
+
+453
+00:26:12,780 --> 00:26:14,860
+你干嘛了  可怜的家伙
+{\fs10}What have you done, you poor thing?{\r}
+
+454
+00:26:15,150 --> 00:26:18,070
+没什么  只不过多了道新伤口
+{\fs10}Nothing. It's just a flesh wound.{\r}
+
+455
+00:26:18,200 --> 00:26:19,490
+-给  -谢谢
+{\fs10}- Here. - Thank you.{\r}
+
+456
+00:26:23,120 --> 00:26:25,290
+你也知道我的戏今晚上演
+{\fs10}You may remember, my play opened tonight.{\r}
+
+457
+00:26:25,870 --> 00:26:27,460
+老天  对啊  怎样了
+{\fs10}My God, yes. How did it go?{\r}
+
+458
+00:26:27,580 --> 00:26:29,120
+进展顺利
+{\fs10}Well. it went well.{\r}
+
+459
+00:26:29,500 --> 00:26:33,040
+可以说杰作得以面世
+{\fs10}You could tell in the room a masterpiece was being unfurled.{\r}
+
+460
+00:26:33,170 --> 00:26:35,170
+-真的吗  -真的
+{\fs10}- Really? - Really.{\r}
+
+461
+00:26:35,300 --> 00:26:38,840
+直到演至全剧最关键的转折点
+{\fs10}Until, and this is the crucial plot point, I think,{\r}
+
+462
+00:26:38,970 --> 00:26:41,340
+主角出现有史以来
+{\fs10}until the lead actor had the most massive dry{\r}
+
+463
+00:26:41,350 --> 00:26:43,720
+最严重的忘词状况
+{\fs10}in the history of theatre.{\r}
+
+464
+00:26:43,850 --> 00:26:45,390
+-不会吧  -是的  就是这样
+{\fs10}- No, no, no. - Yes, yes, yes.{\r}
+
+465
+00:26:46,850 --> 00:26:48,430
+这不仅仅是他忘词的问题
+{\fs10}He didn't just forget his lines.{\r}
+
+466
+00:26:48,560 --> 00:26:49,650
+他忘词忘得严重到
+{\fs10}He forgot his lines to the extent{\r}
+
+467
+00:26:49,650 --> 00:26:52,560
+戏剧艺术史册上的一切忘词
+{\fs10}that no actor has ever forgotten their lines{\r}
+
+468
+00:26:52,560 --> 00:26:55,110
+都显得不值一提
+{\fs10}before in the annals of dramatic art.{\r}
+
+469
+00:26:55,650 --> 00:26:59,030
+评论也不会说"伟大杰作得以面世"
+{\fs10}The reviews won't say "Major masterpiece gets unveiled",{\r}
+
+470
+00:26:59,110 --> 00:27:02,780
+而只会说"主角得了老年痴呆症"
+{\fs10}they'll say, "Major actor gets Alzheimer's."{\r}
+
+471
+00:27:03,450 --> 00:27:04,950
+简直是场灾难
+{\fs10}It's a disaster.{\r}
+
+472
+00:27:05,870 --> 00:27:07,580
+这样讲还是太轻描淡写了
+{\fs10}It's an understatement.{\r}
+
+473
+00:27:08,410 --> 00:27:11,080
+这是有《泰坦尼克号》的精彩开头
+{\fs10}It's the Titanic of play openings,{\r}
+
+474
+00:27:11,090 --> 00:27:13,040
+却无人幸存的悲剧收尾
+{\fs10}but with no survivors.{\r}
+
+475
+00:27:13,710 --> 00:27:16,050
+没女人  没小孩
+{\fs10}No women, no children,{\r}
+
+476
+00:27:16,460 --> 00:27:18,720
+连凯特·温丝莱特也没活下来
+{\fs10}not even Kate Winslet.{\r}
+
+477
+00:27:17,220 --> 00:27:19,140
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}凯特·温丝莱特  《泰坦尼克号》女主角  在电影结尾活了下来
+
+478
+00:27:19,170 --> 00:27:20,840
+全死光了
+{\fs10}All dead.{\r}
+
+479
+00:27:22,510 --> 00:27:24,140
+好吧  我看看能做点什么
+{\fs10}Okay. I'll see what I can do.{\r}
+
+480
+00:27:24,220 --> 00:27:25,600
+你这话什么意思
+{\fs10}What does that mean?{\r}
+
+481
+00:27:26,390 --> 00:27:27,610
+你打算怎么做
+{\fs10}What are you gonna do?{\r}
+
+482
+00:27:27,610 --> 00:27:30,670
+给在伦敦的每位评论家打电话
+{\fs10}Ring up every critic in London,{\r}
+
+483
+00:27:30,670 --> 00:27:33,860
+为他们口交  以此来让他们忽略
+{\fs10}and offer them a blow job, if they ignore the fact{\r}
+
+484
+00:27:33,860 --> 00:27:36,830
+观众在一片安静中干坐半个小时
+{\fs10}that we sat in total silence for half an hour{\r}
+
+485
+00:27:36,830 --> 00:27:40,450
+只为等个白痴记起句台词这个事实吗
+{\fs10}waiting for a moron to remember one single line?{\r}
+
+486
+00:27:40,570 --> 00:27:42,320
+并不是
+{\fs10}Not quite that.{\r}
+
+487
+00:27:50,200 --> 00:27:52,170
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}哈利·查普曼作品  《罪人》
+
+488
+00:27:58,960 --> 00:27:59,960
+你好
+{\fs10}Hello.{\r}
+
+489
+00:28:03,590 --> 00:28:07,210
+你好  汤姆先生  我是哈利的朋友
+{\fs10}Hello, Sir Tom. I'm a friend of Harry's.{\r}
+
+490
+00:28:07,210 --> 00:28:08,770
+请问你台词记得怎样了
+{\fs10}How's it going with the lines?{\r}
+
+491
+00:28:10,100 --> 00:28:12,350
+抱歉  什么叫台词记得怎样
+{\fs10}I'm sorry, what do you mean "the lines"?{\r}
+
+492
+00:28:13,100 --> 00:28:14,770
+就是在法庭场景上
+{\fs10}It's just, you know, in the court scenes,{\r}
+
+493
+00:28:14,860 --> 00:28:17,570
+有些台词是比较复杂的
+{\fs10}some of those lines are pretty complex.{\r}
+
+494
+00:28:17,690 --> 00:28:20,070
+所以我就想提醒你一下
+{\fs10}And I just thought maybe it might be worth, you know,{\r}
+
+495
+00:28:20,690 --> 00:28:22,150
+上台前再看一眼台词
+{\fs10}having one last look at the lines before you go on.{\r}
+
+496
+00:28:22,240 --> 00:28:25,620
+算是重温一下
+{\fs10}A little refresher.{\r}
+
+497
+00:28:26,870 --> 00:28:29,120
+快滚出去
+{\fs10}Fuck off out of here.{\r}
+
+498
+00:28:29,240 --> 00:28:34,000
+你这个疯子  快滚  蠢货  滚
+{\fs10}You arsing lunatic. Get out! You ginger twerp. Go on!{\r}
+
+499
+00:28:34,120 --> 00:28:35,880
+保护这种...
+{\fs10}Patronising piece of...{\r}
+
+500
+00:28:47,970 --> 00:28:50,390
+请辩方发言
+{\fs10}And now the Defence.{\r}
+
+501
+00:29:00,780 --> 00:29:05,450
+我也是从失公允的年代中走来的
+{\fs10}I have lived many weary years.{\r}
+
+502
+00:29:05,740 --> 00:29:07,050
+太棒了
+{\fs10}It's brilliant.{\r}
+
+503
+00:29:07,050 --> 00:29:11,950
+即便在冗长的法律诉讼史中
+{\fs10}But never, in that long catalogue of wasted time,{\r}
+
+504
+00:29:12,620 --> 00:29:17,080
+也未曾遇到过如此罪恶的审判不公
+{\fs10}have I ever seen such an atrocious miscarriage of justice.{\r}
+
+505
+00:29:22,300 --> 00:29:26,630
+控诉方还要作何补充
+{\fs10}Do the Prosecution have anything final to add?{\r}
+
+506
+00:30:11,050 --> 00:30:13,310
+抱歉  借过一下
+{\fs10}Sorry, excuse me. Sorry.{\r}
+
+507
+00:30:20,650 --> 00:30:25,230
+控诉方还要作何补充
+{\fs10}Do the Prosecution have anything final to add?{\r}
+
+508
+00:30:40,830 --> 00:30:41,880
+各位...
+{\fs10}Gentlemen...{\r}
+
+509
+00:30:44,250 --> 00:30:45,250
+各位
+{\fs10}Gentlemen,{\r}
+
+510
+00:30:45,800 --> 00:30:50,300
+对今日的诉讼我一直秉承最认真的态度
+{\fs10}I regard today's proceedings with the utmost gravity.{\r}
+
+511
+00:30:50,430 --> 00:30:52,180
+然而
+{\fs10}Nevertheless,{\r}
+
+512
+00:30:52,760 --> 00:30:55,640
+有一点虽简单
+{\fs10}let us be clear of one{\r}
+
+513
+00:30:57,520 --> 00:31:00,350
+但却不容忽视
+{\fs10}simple and salient thing.{\r}
+
+514
+00:31:03,360 --> 00:31:05,110
+那就是
+{\fs10}It is the life{\r}
+
+515
+00:31:05,690 --> 00:31:07,650
+罪人的生命权
+{\fs10}of a guilty man!{\r}
+
+516
+00:31:18,960 --> 00:31:22,540
+我看有个演员像是睡着了一样
+{\fs10}One of the actors appeared to have actually fallen asleep.{\r}
+
+517
+00:31:22,630 --> 00:31:26,090
+中途离场的小混蛋过来了
+{\fs10}Here's the little prick who walked out halfway through.{\r}
+
+518
+00:31:26,170 --> 00:31:28,090
+你错过了最精彩的一幕  蠢货
+{\fs10}You missed the best scene, you little twerp.{\r}
+
+519
+00:31:28,220 --> 00:31:29,220
+抱歉
+{\fs10}Sorry.{\r}
+
+520
+00:31:29,630 --> 00:31:31,800
+你觉得布景怎样
+{\fs10}What did you think of the set?{\r}
+
+521
+00:31:32,140 --> 00:31:33,340
+太不可思议了
+{\fs10}I thought it was incredible.{\r}
+
+522
+00:31:33,430 --> 00:31:36,560
+真的吗  我倒不觉得  太棕了
+{\fs10}Did you? I didn't. Too brown.{\r}
+
+523
+00:31:39,890 --> 00:31:41,060
+玛丽
+{\fs10}Mary!{\r}
+
+524
+00:31:43,110 --> 00:31:44,770
+不会吧
+{\fs10}No.{\r}
+
+525
+00:31:45,610 --> 00:31:47,150
+她消失了
+{\fs10}She's gone.{\r}
+
+526
+00:32:02,330 --> 00:32:03,990
+今晚有没有看到过两个女孩
+{\fs10}Two girls in earlier tonight.{\r}
+
+527
+00:32:03,990 --> 00:32:06,340
+其中一个是这世上最漂亮的女孩
+{\fs10}One of them the prettiest girl in the world.{\r}
+
+528
+00:32:06,460 --> 00:32:09,310
+另一个有点像稍有姿色的妓女
+{\fs10}The other one like a sort of nice prostitute.{\r}
+
+529
+00:32:09,310 --> 00:32:10,340
+有登记她们的名字吗
+{\fs10}Did you get their names?{\r}
+
+530
+00:32:10,470 --> 00:32:14,260
+是的  她们刚走不久  等我找找
+{\fs10}Yes. They left a while ago. Let's see.{\r}
+
+531
+00:32:15,300 --> 00:32:17,760
+她们不是预订的  所以没有留下名字
+{\fs10}No, I'm afraid they were walk-ins,{\r}
+
+532
+00:32:17,890 --> 00:32:20,350
+而且是用现金结的账
+{\fs10}and it appears they paid by cash.{\r}
+
+533
+00:32:20,770 --> 00:32:22,480
+抱歉  先生
+{\fs10}Sorry, sir.{\r}
+
+534
+00:32:22,600 --> 00:32:24,360
+没事  没事  很好
+{\fs10}That's okay. That's fine, it's brilliant.{\r}
+
+535
+00:32:24,690 --> 00:32:27,820
+只不过是我的世界末日罢了  谢谢了
+{\fs10}It's just the end of my life. Thanks so much.{\r}
+
+536
+00:32:49,050 --> 00:32:51,050
+开心点  伙计
+{\fs10}Cheer up, mate.{\r}
+
+537
+00:32:51,380 --> 00:32:52,480
+要知道你现在
+{\fs10}Apparently, you're living with{\r}
+
+538
+00:32:52,480 --> 00:32:55,220
+是跟英国最伟大的在世剧作家住一块
+{\fs10}Britain's greatest living playwright.{\r}
+
+539
+00:32:55,550 --> 00:32:57,050
+通常我都不看他们写的东西
+{\fs10}I don't usually read them, obviously,{\r}
+
+540
+00:32:57,220 --> 00:32:58,720
+不过这是例外
+{\fs10}but I couldn't resist this one.{\r}
+
+541
+00:32:58,890 --> 00:33:03,890
+《哈利·查普曼天资过高  被判有罪》
+{\fs10}"Harry Chapman found guilty of genius."{\r}
+
+542
+00:33:08,820 --> 00:33:10,610
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}凯特·摩斯摄影作品展
+
+543
+00:33:10,820 --> 00:33:12,110
+我要走了  现在就走
+{\fs10}I have to go out. Right now.{\r}
+
+544
+00:33:12,240 --> 00:33:13,570
+为什么
+{\fs10}Why?{\r}
+
+545
+00:33:13,700 --> 00:33:15,490
+她爱凯特·摩斯
+{\fs10}She loves Kate Moss.{\r}
+
+546
+00:33:15,510 --> 00:33:17,930
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}马里奥·泰斯蒂诺《谁是凯特》摄影展
+
+547
+00:33:59,120 --> 00:34:00,950
+谢谢你来陪我  小凯
+{\fs10}Thanks for keeping me company, Kittle.{\r}
+
+548
+00:34:01,120 --> 00:34:02,740
+反正也没事做
+{\fs10}Nothing better to do.{\r}
+
+549
+00:34:02,870 --> 00:34:03,950
+吉米呢
+{\fs10}How's Jimmy?{\r}
+
+550
+00:34:04,120 --> 00:34:05,120
+又把我甩了
+{\fs10}Dumped me.{\r}
+
+551
+00:34:05,250 --> 00:34:06,250
+又来了
+{\fs10}Not again.{\r}
+
+552
+00:34:06,370 --> 00:34:08,080
+-工作呢  -炒我鱿鱼了
+{\fs10}- And work? - They've sacked me.{\r}
+
+553
+00:34:08,210 --> 00:34:09,210
+他们真白痴
+{\fs10}Idiots.{\r}
+
+554
+00:34:09,750 --> 00:34:11,460
+-喝咖啡吗  -谢谢
+{\fs10}- Coffee? - Please.{\r}
+
+555
+00:34:12,130 --> 00:34:15,420
+我只注意到照片中的猫  看到没
+{\fs10}I've only just noticed this cat in this picture. See that cat?{\r}
+
+556
+00:34:15,550 --> 00:34:18,430
+看到了  真不错
+{\fs10}I do see that cat. It's very good.{\r}
+
+557
+00:34:19,470 --> 00:34:20,970
+老天
+{\fs10}My God.{\r}
+
+558
+00:34:21,930 --> 00:34:23,060
+老天
+{\fs10}My God!{\r}
+
+559
+00:34:23,180 --> 00:34:24,310
+干嘛
+{\fs10}What?{\r}
+
+560
+00:34:24,930 --> 00:34:26,310
+就是她
+{\fs10}It's her.{\r}
+
+561
+00:34:28,060 --> 00:34:29,650
+就是她
+{\fs10}It's her!{\r}
+
+562
+00:34:30,730 --> 00:34:32,230
+就是她
+{\fs10}That's her!{\r}
+
+563
+00:34:37,990 --> 00:34:39,570
+去吧  小伙子
+{\fs10}You go, girl.{\r}
+
+564
+00:34:51,330 --> 00:34:52,330
+抱歉
+{\fs10}Sorry.{\r}
+
+565
+00:34:53,500 --> 00:34:55,300
+-你好  -你好
+{\fs10}- Hi. - Hi.{\r}
+
+566
+00:34:57,470 --> 00:34:58,840
+你好吗
+{\fs10}How are you?{\r}
+
+567
+00:34:59,590 --> 00:35:01,680
+我...我很好
+{\fs10}I'm... I'm fine.{\r}
+
+568
+00:35:02,010 --> 00:35:04,180
+见到你真好
+{\fs10}It's so good to see you.{\r}
+
+569
+00:35:04,350 --> 00:35:06,520
+我们素未谋面
+{\fs10}We've never met before.{\r}
+
+570
+00:35:07,850 --> 00:35:09,810
+不  他妈的
+{\fs10}No, fuck.{\r}
+
+571
+00:35:10,440 --> 00:35:12,480
+-是啊  我们没见过  -没见过
+{\fs10}- No, of course we haven't. - No.{\r}
+
+572
+00:35:12,610 --> 00:35:15,650
+抱歉  我想你认错人了
+{\fs10}Sorry, I think you've mistaken me for someone else.{\r}
+
+573
+00:35:15,780 --> 00:35:17,440
+不  不  不是
+{\fs10}No, no, no.{\r}
+
+574
+00:35:18,110 --> 00:35:19,780
+你的名字叫玛丽
+{\fs10}Your name's Mary.{\r}
+
+575
+00:35:21,030 --> 00:35:23,820
+真是奇怪了
+{\fs10}That's distinctly weird.{\r}
+
+576
+00:35:23,950 --> 00:35:25,830
+你是怎么知道的
+{\fs10}How do you know that?{\r}
+
+577
+00:35:26,830 --> 00:35:28,700
+因为你长得像玛丽
+{\fs10}Well, you look like a Mary.{\r}
+
+578
+00:35:29,210 --> 00:35:30,500
+怎么说
+{\fs10}In what way?{\r}
+
+579
+00:35:30,620 --> 00:35:31,870
+我妈也叫玛丽
+{\fs10}My mum's called Mary.{\r}
+
+580
+00:35:32,040 --> 00:35:33,500
+我长得像你妈吗
+{\fs10}I look like your mother?{\r}
+
+581
+00:35:34,040 --> 00:35:36,170
+不像  你比她漂亮多了
+{\fs10}No. You're much prettier.{\r}
+
+582
+00:35:39,380 --> 00:35:40,800
+顺便提一下  刘海不错
+{\fs10}It's a nice fringe, by the way.{\r}
+
+583
+00:35:40,930 --> 00:35:44,390
+老天  我新剪的  可能太短了
+{\fs10}God, it's new and probably too short but... No.{\r}
+
+584
+00:35:44,550 --> 00:35:47,390
+谢谢你的夸奖
+{\fs10}Well, gee, thank you and...{\r}
+
+585
+00:35:47,560 --> 00:35:49,890
+很高兴见到你
+{\fs10}listen, it was really nice to meet you.{\r}
+
+586
+00:35:50,060 --> 00:35:53,650
+不过我要走了  我朋友在等我呢
+{\fs10}I should probably go because my friend's waiting for me.{\r}
+
+587
+00:35:53,730 --> 00:35:56,150
+况且咱们根本不认识
+{\fs10}And you're a, you're a total stranger.{\r}
+
+588
+00:35:56,400 --> 00:35:57,820
+根本不认识
+{\fs10}Total stranger.{\r}
+
+589
+00:35:57,940 --> 00:35:59,320
+是啊  这也太疯狂了
+{\fs10}Yeah, it's crazy stuff.{\r}
+
+590
+00:35:59,400 --> 00:36:01,240
+-是有点  -好吧
+{\fs10}- Yeah, kind of. - Okay.{\r}
+
+591
+00:36:01,360 --> 00:36:02,740
+-再见  玛丽  -再见
+{\fs10}- Bye, Mary. - Bye.{\r}
+
+592
+00:36:06,030 --> 00:36:06,990
+不
+{\fs10}No.{\r}
+
+593
+00:36:07,080 --> 00:36:08,240
+怎么样了
+{\fs10}How did it go?{\r}
+
+594
+00:36:08,370 --> 00:36:09,500
+太惨了
+{\fs10}It was very poor.{\r}
+
+595
+00:36:09,580 --> 00:36:10,910
+真的十分惨
+{\fs10}Very poor indeed, yeah.{\r}
+
+596
+00:36:11,080 --> 00:36:12,410
+那就再来一次
+{\fs10}You gotta go again.{\r}
+
+597
+00:36:13,330 --> 00:36:15,250
+-你可以的  -再来一次
+{\fs10}- You can do it. - Take two.{\r}
+
+598
+00:36:18,670 --> 00:36:22,010
+她总是...总是那么的与众不同
+{\fs10}She just always... She always looks different.{\r}
+
+599
+00:36:23,760 --> 00:36:26,100
+抱歉  又是我
+{\fs10}Sorry. it's me again.{\r}
+
+600
+00:36:26,600 --> 00:36:28,220
+-你好  -抱歉
+{\fs10}- Hi. - Sorry.{\r}
+
+601
+00:36:28,930 --> 00:36:30,720
+乔安娜  他是...
+{\fs10}Joanna, this is...{\r}
+
+602
+00:36:31,180 --> 00:36:32,390
+蒂姆
+{\fs10}Tim.{\r}
+
+603
+00:36:32,520 --> 00:36:33,690
+你好  很高兴见到你
+{\fs10}Hello. Nice to meet you.{\r}
+
+604
+00:36:36,270 --> 00:36:39,940
+蒂姆是碰巧妈妈跟我同名的陌生人
+{\fs10}Tim is a total stranger whose mother's name is Mary.{\r}
+
+605
+00:36:40,070 --> 00:36:43,550
+我在这把玛丽认作是其他人了
+{\fs10}I just had a weird experience with Mary here{\r}
+
+606
+00:36:43,550 --> 00:36:45,410
+但其实她不是
+{\fs10}of thinking she was someone else. But she wasn't.{\r}
+
+607
+00:36:45,530 --> 00:36:49,320
+不过我想能不能和你们一起参观
+{\fs10}But I just wondered if I could walk round with you for a while,{\r}
+
+608
+00:36:49,320 --> 00:36:54,620
+因为我妹妹要走了
+{\fs10}because my sister Kit Kat is about to leave.{\r}
+
+609
+00:36:54,750 --> 00:36:55,750
+是啊
+{\fs10}Yeah.{\r}
+
+610
+00:36:58,380 --> 00:37:00,050
+再见
+{\fs10}Bye.{\r}
+
+611
+00:37:00,380 --> 00:37:01,800
+所以
+{\fs10}And so,{\r}
+
+612
+00:37:02,720 --> 00:37:04,970
+就剩下我一个人  挺孤单的
+{\fs10}I'm about to be quite lonely.{\r}
+
+613
+00:37:05,640 --> 00:37:09,930
+好吧  我们的回答是不可以
+{\fs10}Right. Well, I think we should probably say no.{\r}
+
+614
+00:37:10,060 --> 00:37:13,140
+可以啊  他笑起来挺可爱的
+{\fs10}No, yes. But on the other hand, he's got a quite nice smile,{\r}
+
+615
+00:37:13,270 --> 00:37:15,310
+头发也挺搞笑
+{\fs10}and sort of, you know, fun hair.{\r}
+
+616
+00:37:17,060 --> 00:37:18,060
+可以啊
+{\fs10}Yeah.{\r}
+
+617
+00:37:19,110 --> 00:37:20,480
+好吧
+{\fs10}All right.{\r}
+
+618
+00:37:20,980 --> 00:37:22,490
+不过你得保证
+{\fs10}But you have to promise that{\r}
+
+619
+00:37:22,490 --> 00:37:24,990
+你不是以下的其中之一
+{\fs10}you are not one of the following things.{\r}
+
+620
+00:37:25,160 --> 00:37:26,780
+第一  疯子
+{\fs10}One, a lunatic.{\r}
+
+621
+00:37:26,870 --> 00:37:27,990
+-没错  -我不是
+{\fs10}- Yeah. - No.{\r}
+
+622
+00:37:28,160 --> 00:37:30,950
+第二  恋刘海癖
+{\fs10}Two, a fringe fetishist.{\r}
+
+623
+00:37:31,290 --> 00:37:34,290
+我只是凯特·摩斯的头号男粉丝
+{\fs10}I'm just Kate Moss's number one male fan.{\r}
+
+624
+00:37:36,080 --> 00:37:37,630
+-老天  -真的吗
+{\fs10}- God. - Really?{\r}
+
+625
+00:37:37,750 --> 00:37:39,080
+是啊  肯定是啊
+{\fs10}Yeah. God, yeah.{\r}
+
+626
+00:37:39,170 --> 00:37:42,500
+你觉不觉得她的魅力来自于她的过去
+{\fs10}Do you agree that the magic of her lies in her history?{\r}
+
+627
+00:37:43,090 --> 00:37:45,300
+看她早期打破常规的作品
+{\fs10}That the informality of her early shots{\r}
+
+628
+00:37:45,380 --> 00:37:48,430
+与现如今的相比  你就知道
+{\fs10}compared to this stuff so you just always know,{\r}
+
+629
+00:37:48,510 --> 00:37:50,320
+即便身穿高级时装
+{\fs10}That despite the high fashion,{\r}
+
+630
+00:37:50,320 --> 00:37:54,600
+她依旧是那个在海滩上坦然全裸的不羁女孩
+{\fs10}she's still just that cheeky normal naked girl on the beach?{\r}
+
+631
+00:37:55,690 --> 00:37:57,230
+说的太好了
+{\fs10}Couldn't have put it better myself.{\r}
+
+632
+00:37:57,310 --> 00:38:01,020
+一语中的  我深表认同
+{\fs10}That's absolutely it. I agree with that profoundly.{\r}
+
+633
+00:38:02,360 --> 00:38:03,400
+要牛奶吗
+{\fs10}Milk?{\r}
+
+634
+00:38:03,530 --> 00:38:04,530
+要
+{\fs10}Yes.{\r}
+
+635
+00:38:04,690 --> 00:38:06,610
+-糖呢  -不要
+{\fs10}- Sugar? - No.{\r}
+
+636
+00:38:06,700 --> 00:38:07,740
+男朋友呢
+{\fs10}Boyfriend?{\r}
+
+637
+00:38:07,860 --> 00:38:08,950
+有了
+{\fs10}Yes!{\r}
+
+638
+00:38:09,120 --> 00:38:11,280
+不  不  你没有男朋友
+{\fs10}No. No, you don't have a boyfriend.{\r}
+
+639
+00:38:12,540 --> 00:38:14,870
+我看上去不像有男朋友吗
+{\fs10}Do I not look like I'd have a boyfriend?{\r}
+
+640
+00:38:15,000 --> 00:38:16,890
+-我看上去像交不到男朋友吗  -不像
+{\fs10}- Do I look like I'd never get a boyfriend? - No.{\r}
+
+641
+00:38:16,930 --> 00:38:18,580
+这是我听过最无礼的话
+{\fs10}That's the rudest thing I've ever heard.{\r}
+
+642
+00:38:18,630 --> 00:38:21,460
+我不是这个意思  我只是没想到...
+{\fs10}I didn't mean it like that. I just didn't expect...{\r}
+
+643
+00:38:22,630 --> 00:38:24,710
+是新交的男朋友吗
+{\fs10}Is it quite a new boyfriend?{\r}
+
+644
+00:38:24,880 --> 00:38:25,880
+是的
+{\fs10}Yes.{\r}
+
+645
+00:38:26,380 --> 00:38:28,380
+就是他  鲁伯特
+{\fs10}There he is. Rupert.{\r}
+
+646
+00:38:29,340 --> 00:38:31,220
+-是啊  他很可爱  -鲁伯特
+{\fs10}- Yes. He's so cute. - Rupert?{\r}
+
+647
+00:38:31,350 --> 00:38:32,680
+大家好
+{\fs10}Hi, guys.{\r}
+
+648
+00:38:33,060 --> 00:38:34,890
+抱歉我来晚了  跟我爸来的
+{\fs10}Sorry I'm late, with my dad.{\r}
+
+649
+00:38:36,230 --> 00:38:37,230
+你好  鲁比
+{\fs10}Hi, Rupee.{\r}
+
+650
+00:38:38,520 --> 00:38:39,520
+鲁比?
+{\fs10}"Rupee"?{\r}
+
+651
+00:38:41,060 --> 00:38:43,230
+这是蒂姆
+{\fs10}Well, this is Tim and{\r}
+
+652
+00:38:43,360 --> 00:38:45,230
+我们并不认识他
+{\fs10}we don't know him at all.{\r}
+
+653
+00:38:45,900 --> 00:38:48,530
+我觉得我们过后可以看场电影
+{\fs10}Hey, I was thinking we could take in a film after this.{\r}
+
+654
+00:38:48,660 --> 00:38:50,280
+来桶爆米花  一杯可乐两个人喝
+{\fs10}Get some mixed popcorn, share a Coke,{\r}
+
+655
+00:38:50,410 --> 00:38:51,530
+-靠在一起  -好啊
+{\fs10}- snuggle. - Okay.{\r}
+
+656
+00:38:51,910 --> 00:38:52,910
+好
+{\fs10}Okay.{\r}
+
+657
+00:38:54,240 --> 00:38:56,700
+你们什么时候认识的  什么时间点
+{\fs10}When did you two meet? Exactly?{\r}
+
+658
+00:38:57,250 --> 00:38:59,250
+其实就是一周前
+{\fs10}Well, it was only a week ago, actually.{\r}
+
+659
+00:39:00,040 --> 00:39:02,880
+真是快如闪电啊  是不是  乖乖狗
+{\fs10}It's all been a bit of a whirlwind, hasn't it, poochy face?{\r}
+
+660
+00:39:03,250 --> 00:39:04,360
+我得教教你
+{\fs10}I'm gonna have to teach you{\r}
+
+661
+00:39:04,360 --> 00:39:06,260
+在别人面前什么能说  什么不能说
+{\fs10}what you can and can't say in front of people.{\r}
+
+662
+00:39:06,420 --> 00:39:07,840
+-"乖乖狗"不能说吗  -不行
+{\fs10}- No "foochy face"? - No.{\r}
+
+663
+00:39:07,920 --> 00:39:09,930
+不  当然不行
+{\fs10}No. Definitely not.{\r}
+
+664
+00:39:09,930 --> 00:39:14,100
+来来  再说说你们美妙的初次见面
+{\fs10}Come on, then. More details about this wonderful first meeting?{\r}
+
+665
+00:39:14,220 --> 00:39:15,260
+好吧  好吧
+{\fs10}Okay, okay.{\r}
+
+666
+00:39:15,430 --> 00:39:17,560
+那天是几号来着  乔安娜
+{\fs10}It was, um, what... Joanna?{\r}
+
+667
+00:39:18,100 --> 00:39:19,600
+6月17日
+{\fs10}June 17th.{\r}
+
+668
+00:39:19,770 --> 00:39:21,270
+对  乔开了一个小型派对
+{\fs10}Yeah. And Jo was having a little party.{\r}
+
+669
+00:39:22,110 --> 00:39:25,270
+简直是个炼狱  幸好鲁伯特救了我
+{\fs10}A living hell from which Rupert, thank God, rescued me.{\r}
+
+670
+00:39:25,400 --> 00:39:27,570
+这个糟糕的派对在哪儿呢
+{\fs10}And where was this terrible party?{\r}
+
+671
+00:39:27,690 --> 00:39:29,780
+就在我的破公寓里
+{\fs10}My brothel of a flat.{\r}
+
+672
+00:39:29,900 --> 00:39:32,080
+那是在哪儿呢  重点就在这  不是吗
+{\fs10}Which is where, though? That's the question, isn't it?{\r}
+
+673
+00:39:32,120 --> 00:39:33,250
+怎么  你是侦探吗
+{\fs10}What are you, a detective?{\r}
+
+674
+00:39:33,730 --> 00:39:35,770
+不是  抱歉  我喜欢把想象视觉化
+{\fs10}No, sorry, I've just got a very visual imagination.{\r}
+
+675
+00:39:35,950 --> 00:39:37,870
+把一切细节都想象到
+{\fs10}I like to imagine stuff completely.{\r}
+
+676
+00:39:39,040 --> 00:39:41,890
+西南五区  科菲尔德花园26号
+{\fs10}26 Courtfield Gardens, SW5.{\r}
+
+677
+00:39:42,170 --> 00:39:43,210
+八点半左右
+{\fs10}Around 8:30.{\r}
+
+678
+00:39:43,880 --> 00:39:45,960
+着装要求  火辣  这样行了吧
+{\fs10}Dress code, slutty. Will that do?{\r}
+
+679
+00:39:46,130 --> 00:39:47,880
+当然  很好  不过我还想知道
+{\fs10}Absolutely, yes. Although I am wondering{\r}
+
+680
+00:39:47,960 --> 00:39:51,050
+你是什么时候到的  是早是晚  鲁伯特
+{\fs10}when you got there, Rupert. Early, late?{\r}
+
+681
+00:39:51,470 --> 00:39:54,640
+准时到吧  真爱在召唤呢
+{\fs10}On time, I think. True love was calling.{\r}
+
+682
+00:39:54,760 --> 00:39:56,430
+老天
+{\fs10}God.{\r}
+
+683
+00:39:56,720 --> 00:39:58,970
+我感觉有些不舒服
+{\fs10}I actually feel a bit sick now.{\r}
+
+684
+00:39:59,140 --> 00:40:01,390
+可能是这些松饼  千万别吃蓝莓的
+{\fs10}Just these muffins, I think. Never trust a blueberry.{\r}
+
+685
+00:40:02,810 --> 00:40:04,400
+好的  我马上回来
+{\fs10}Okay, I'll be back in a tick.{\r}
+
+686
+00:40:05,820 --> 00:40:07,780
+你们俩真的很般配
+{\fs10}You two are such a lovely couple.{\r}
+
+687
+00:40:12,160 --> 00:40:13,320
+有点怪
+{\fs10}Bit weird.{\r}
+
+688
+00:40:13,450 --> 00:40:14,620
+挺可爱的
+{\fs10}He's cute.{\r}
+
+689
+00:40:14,740 --> 00:40:15,740
+我喜欢他
+{\fs10}I like him.{\r}
+
+690
+00:40:15,870 --> 00:40:16,910
+我也是
+{\fs10}Yeah, me too.{\r}
+
+691
+00:40:19,910 --> 00:40:20,950
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}厕所
+楼梯
+
+692
+00:40:48,150 --> 00:40:50,190
+你好  我们认识吗
+{\fs10}Hello. Do I know you?{\r}
+
+693
+00:40:50,360 --> 00:40:53,820
+不不  我是玛丽的朋友
+{\fs10}No, no, no. I'm a friend of Mary's.{\r}
+
+694
+00:40:54,360 --> 00:40:55,340
+她又有个朋友
+{\fs10}She has another friend?{\r}
+
+695
+00:40:56,110 --> 00:40:57,950
+天哪  你真惊人  棒极了
+{\fs10}Gosh, you amaze me. But hooray.{\r}
+
+696
+00:40:58,030 --> 00:40:59,790
+来个热狗吗
+{\fs10}Ooh. Hotdog?{\r}
+
+697
+00:41:00,200 --> 00:41:01,580
+我自己做的  花了几小时呢
+{\fs10}Took me hours. Made them myself.{\r}
+
+698
+00:41:01,700 --> 00:41:03,040
+谢谢
+{\fs10}Thanks.{\r}
+
+699
+00:41:04,670 --> 00:41:07,210
+难吃死了  完全没熟
+{\fs10}Disgusting. Totally undercooked.{\r}
+
+700
+00:41:07,340 --> 00:41:08,670
+回头见
+{\fs10}See you later.{\r}
+
+701
+00:41:15,840 --> 00:41:18,220
+我们上楼去吧  上面安静些
+{\fs10}Why don't we go upstairs, it's a bit quieter?{\r}
+
+702
+00:41:35,070 --> 00:41:36,070
+我叫蒂姆
+{\fs10}I'm Tim.{\r}
+
+703
+00:41:36,870 --> 00:41:37,910
+我叫玛丽
+{\fs10}Mary.{\r}
+
+704
+00:41:38,030 --> 00:41:40,660
+和我妈妈一样  不过不说这个了
+{\fs10}That's my mother's name. Let's not get into that.{\r}
+
+705
+00:41:42,540 --> 00:41:44,250
+我知道这样很唐突  但是
+{\fs10}I know this is forward but{\r}
+
+706
+00:41:44,370 --> 00:41:46,050
+你的表情告诉我
+{\fs10}your face tells me that{\r}
+
+707
+00:41:46,050 --> 00:41:48,420
+你觉得这派对是个人间炼狱
+{\fs10}you're finding this party to be a living hell.{\r}
+
+708
+00:41:49,390 --> 00:41:51,960
+所以我想问你  是不是愿意
+{\fs10}So, I just wondered if you might come{\r}
+
+709
+00:41:52,050 --> 00:41:55,380
+和我一起出去吃点东西
+{\fs10}and have a bite to eat with me instead?{\r}
+
+710
+00:41:56,090 --> 00:41:57,340
+就现在
+{\fs10}Right now.{\r}
+
+711
+00:41:57,680 --> 00:41:58,800
+你说什么
+{\fs10}I'm sorry?{\r}
+
+712
+00:41:58,890 --> 00:42:01,430
+好吧  我该再想清楚些的
+{\fs10}Obviously, I should have thought this through more.{\r}
+
+713
+00:42:01,760 --> 00:42:03,100
+我们聊聊凯特·摩斯吧
+{\fs10}Let's talk about Kate Moss.{\r}
+
+714
+00:42:05,940 --> 00:42:08,100
+我很喜欢凯特·摩斯
+{\fs10}I love Kate Moss.{\r}
+
+715
+00:42:08,270 --> 00:42:10,940
+我一直觉得  她的过去才是关键
+{\fs10}I always think the key thing with her is the history,{\r}
+
+716
+00:42:11,360 --> 00:42:13,790
+-没错  -她早期打破常规的作品
+{\fs10}- Yes. - you know, the informality of her early shots{\r}
+
+717
+00:42:13,790 --> 00:42:15,570
+和高级时装摄影形成对比
+{\fs10}compared to high fashion stuff{\r}
+
+718
+00:42:15,700 --> 00:42:18,860
+你会知道  她的内心从未改变  还是那个
+{\fs10}so you always know that underneath she's still just the same{\r}
+
+719
+00:42:19,280 --> 00:42:22,450
+在海滩上坦然全裸的不羁女孩
+{\fs10}cheeky normal girl naked on the beach.{\r}
+
+720
+00:42:22,580 --> 00:42:23,580
+沙滩
+{\fs10}The beach.{\r}
+
+721
+00:42:24,120 --> 00:42:26,790
+我完全同意
+{\fs10}I agree with you completely.{\r}
+
+722
+00:42:27,080 --> 00:42:28,080
+如果我们现在就走
+{\fs10}If we leave now then we can have,{\r}
+
+723
+00:42:28,080 --> 00:42:30,130
+就可以多吃几道开胃菜了
+{\fs10}you know, more than one starter.{\r}
+
+724
+00:42:35,380 --> 00:42:37,050
+你的眼睛真美
+{\fs10}I love your eyes.{\r}
+
+725
+00:42:38,930 --> 00:42:41,930
+你脸上的其他部分也是
+{\fs10}And I love the rest of your face, too.{\r}
+
+726
+00:42:52,150 --> 00:42:53,900
+多吃几道开胃菜
+{\fs10}More than one starter?{\r}
+
+727
+00:42:53,900 --> 00:42:55,730
+十道绝妙的开胃菜
+{\fs10}10 amazing starters.{\r}
+
+728
+00:42:56,820 --> 00:42:58,740
+-你先  -谢谢
+{\fs10}- After you. - Thanks.{\r}
+
+729
+00:42:58,910 --> 00:43:01,070
+不管什么派对  待上十分钟都够长的了
+{\fs10}Ten minutes is long enough for any party, I think.{\r}
+
+730
+00:43:01,160 --> 00:43:03,080
+是啊
+{\fs10}Yeah.{\r}
+
+731
+00:43:03,160 --> 00:43:04,490
+特别是这个
+{\fs10}Especially that one.{\r}
+
+732
+00:43:04,660 --> 00:43:06,160
+晚上好啊
+{\fs10}Evening, all.{\r}
+
+733
+00:43:06,330 --> 00:43:08,660
+天哪  真是个蠢蛋
+{\fs10}God! What a dickhead.{\r}
+
+734
+00:43:09,790 --> 00:43:10,750
+就是
+{\fs10}Yeah.{\r}
+
+735
+00:43:13,800 --> 00:43:16,300
+你是做什么的
+{\fs10}So, what do you do?{\r}
+
+736
+00:43:17,670 --> 00:43:19,930
+我在出版社看书
+{\fs10}I'm a reader at a publisher.{\r}
+
+737
+00:43:20,010 --> 00:43:22,680
+不是吧  你看书也能赚钱
+{\fs10}No! You read for a living?{\r}
+
+738
+00:43:23,350 --> 00:43:26,140
+没错  我的工作就是看书
+{\fs10}Yes, that's it. I read.{\r}
+
+739
+00:43:26,270 --> 00:43:27,810
+有这么好的事
+{\fs10}That's so great.{\r}
+
+740
+00:43:28,140 --> 00:43:31,060
+就好像有人问你  "你靠什么过活"
+{\fs10}It's like someone asking, "What do you do for a living?"{\r}
+
+741
+00:43:31,060 --> 00:43:35,190
+"我呼吸就好了  有人花钱让我呼吸"
+{\fs10}"Well, I breathe. I'm a breather, I get paid for breathing."{\r}
+
+742
+00:43:35,690 --> 00:43:38,300
+-你怎么找到这工作的  -好了机灵鬼
+{\fs10}- How did you get that job? - Okay, smart-ass,{\r}
+
+743
+00:43:38,300 --> 00:43:39,320
+你是做什么的
+{\fs10}what do you do?{\r}
+
+744
+00:43:40,360 --> 00:43:42,200
+我是个律师
+{\fs10}I am a lawyer.{\r}
+
+745
+00:43:42,530 --> 00:43:43,780
+差不多是吧
+{\fs10}Sort of. Sort of.{\r}
+
+746
+00:43:43,870 --> 00:43:45,530
+真带感
+{\fs10}That's sexy.{\r}
+
+747
+00:43:46,040 --> 00:43:47,370
+是吗
+{\fs10}Is it?{\r}
+
+748
+00:43:47,500 --> 00:43:48,870
+我是这么觉得的
+{\fs10}I mean, I think so.{\r}
+
+749
+00:43:49,790 --> 00:43:52,880
+穿着律师袍在法庭上拯救别人的生活
+{\fs10}In a suit, in a court, saving people's lives.{\r}
+
+750
+00:43:52,880 --> 00:43:54,040
+是挺带感的
+{\fs10}Kinda sexy.{\r}
+
+751
+00:43:54,380 --> 00:43:56,420
+我想也是  不过肯定没有看书带感
+{\fs10}I guess it is. Although it's not as sexy as reading.{\r}
+
+752
+00:43:56,500 --> 00:43:59,880
+在办公室里  坐在一张椅子上看书
+{\fs10}Sitting there in an office, in a little chair reading.{\r}
+
+753
+00:44:00,050 --> 00:44:01,470
+好了  打住  打住
+{\fs10}Okay, stop. Stop.{\r}
+
+754
+00:44:01,550 --> 00:44:03,220
+没这么简单  听我说
+{\fs10}Just wait right there, mister, because{\r}
+
+755
+00:44:03,300 --> 00:44:05,890
+交给我们出版社的书有很多
+{\fs10}a lot of books get submitted to my publisher.{\r}
+
+756
+00:44:06,060 --> 00:44:07,720
+所以这是个很大的责任
+{\fs10}So it's an immense responsibility.{\r}
+
+757
+00:44:07,850 --> 00:44:09,470
+肯定是
+{\fs10}I bet it is.{\r}
+
+758
+00:44:09,560 --> 00:44:11,560
+那你正常阅读的时候
+{\fs10}But when you do normal reading,{\r}
+
+759
+00:44:12,400 --> 00:44:14,170
+会不会被工作影响呢
+{\fs10}is it ruined because it's your job?{\r}
+
+760
+00:44:14,170 --> 00:44:15,360
+就像妓女
+{\fs10}You know, like prostitutes?{\r}
+
+761
+00:44:15,480 --> 00:44:17,610
+我总是担心  当她们不再干那一行
+{\fs10}I always worry that when they stop being prostitutes{\r}
+
+762
+00:44:17,690 --> 00:44:19,070
+她们就不能享受做爱的感觉了
+{\fs10}that they can't enjoy sex any more.{\r}
+
+763
+00:44:19,190 --> 00:44:20,570
+你总是担心这个吗
+{\fs10}You always worry about that?{\r}
+
+764
+00:44:20,650 --> 00:44:22,780
+-不  有时候会担心  -好吧
+{\fs10}- No, I sometimes worry about it. - Good. Okay.{\r}
+
+765
+00:44:22,860 --> 00:44:25,190
+总是担心这个的人
+{\fs10}Because someone who always worried about that{\r}
+
+766
+00:44:25,190 --> 00:44:26,930
+-可不太让人放心  -你读报纸的时候
+{\fs10}- would be a bit of a worry. - When you read a newspaper,{\r}
+
+767
+00:44:26,930 --> 00:44:28,530
+会不会想  "算了  这是工作"
+{\fs10}do you think, "Forget this, it's work"?{\r}
+
+768
+00:44:28,530 --> 00:44:29,820
+你是不是见过很多妓女
+{\fs10}Have you interviewed a lot of prostitutes?{\r}
+
+769
+00:44:29,820 --> 00:44:31,980
+你看菜单的时候  是不是也会想
+{\fs10}When you read a menu, do you think,{\r}
+
+770
+00:44:31,980 --> 00:44:35,520
+"我才不看呢  除非你付我现金"
+{\fs10}"No, I'm not reading this, unless you pay me hard cash."{\r}
+
+771
+00:44:35,520 --> 00:44:37,020
+你得和多少个妓女谈过
+{\fs10}How many prostitutes will you need to talk to{\r}
+
+772
+00:44:37,030 --> 00:44:39,020
+才能解决这个问题呢
+{\fs10}before this issue is solved?{\r}
+
+773
+00:44:39,090 --> 00:44:43,010
+你有没想过去东欧和泰国呢
+{\fs10}Are you planning to head to Eastern Europe and Thailand?{\r}
+
+774
+00:44:58,820 --> 00:45:00,940
+陪我走到车那儿去  好吗
+{\fs10}Would you like to walk me to my car?{\r}
+
+775
+00:45:01,070 --> 00:45:02,430
+-好啊  -好的
+{\fs10}- Yes. - Okay.{\r}
+
+776
+00:45:02,430 --> 00:45:03,570
+当然好
+{\fs10}Why not?{\r}
+
+777
+00:45:03,780 --> 00:45:05,740
+这主意不错
+{\fs10}Sounds like a good idea.{\r}
+
+778
+00:45:06,450 --> 00:45:07,700
+那你呢
+{\fs10}What about you?{\r}
+
+779
+00:45:07,780 --> 00:45:10,870
+我有三个哥哥
+{\fs10}Yeah, I have three older brothers.{\r}
+
+780
+00:45:11,080 --> 00:45:12,540
+-天哪  -是啊
+{\fs10}- God. - Yeah.{\r}
+
+781
+00:45:12,620 --> 00:45:14,210
+他们在哪
+{\fs10}Where are they?{\r}
+
+782
+00:45:15,790 --> 00:45:17,380
+在你背后
+{\fs10}Behind you.{\r}
+
+783
+00:45:26,760 --> 00:45:28,800
+你是没地方停车吗
+{\fs10}Did you have trouble parking?{\r}
+
+784
+00:45:30,720 --> 00:45:31,440
+什么
+{\fs10}Pardon?{\r}
+
+785
+00:45:31,680 --> 00:45:33,980
+停在这么远的地方
+{\fs10}It's just such a long way to your car.{\r}
+
+786
+00:45:34,140 --> 00:45:37,050
+其实  我的车就停在我家外面
+{\fs10}Well, my car's actually parked outside my house.{\r}
+
+787
+00:45:37,050 --> 00:45:38,500
+我是搭便车去的派对
+{\fs10}I got a lift to the party.{\r}
+
+788
+00:45:41,480 --> 00:45:42,480
+好吧
+{\fs10}Okay.{\r}
+
+789
+00:45:44,400 --> 00:45:46,410
+很好  太好了
+{\fs10}That's good. That's perfect.{\r}
+
+790
+00:45:46,820 --> 00:45:47,820
+是吗
+{\fs10}Okay.{\r}
+
+791
+00:45:52,580 --> 00:45:54,620
+到了
+{\fs10}And here we are.{\r}
+
+792
+00:45:54,750 --> 00:45:56,670
+我的天
+{\fs10}My God.{\r}
+
+793
+00:45:56,790 --> 00:46:00,130
+车子  家  家  车子
+{\fs10}Car, house. House, car.{\r}
+
+794
+00:46:02,460 --> 00:46:04,630
+原来如此
+{\fs10}It makes perfect sense.{\r}
+
+795
+00:46:04,920 --> 00:46:06,590
+很合逻辑
+{\fs10}It's very logical.{\r}
+
+796
+00:46:27,950 --> 00:46:28,950
+老天爷
+{\fs10}Christ.{\r}
+
+797
+00:46:35,370 --> 00:46:36,540
+钥匙
+{\fs10}Keys!{\r}
+
+798
+00:46:50,970 --> 00:46:54,970
+我去房间换上新睡衣
+{\fs10}I'm gonna go into the bedroom and put on my new pyjamas.{\r}
+
+799
+00:46:55,350 --> 00:46:56,350
+好的
+{\fs10}Right.{\r}
+
+800
+00:46:57,390 --> 00:47:00,690
+一分钟后  你可以进来帮我脱掉
+{\fs10}And then in a minute you can come in and take them off.{\r}
+
+801
+00:47:01,650 --> 00:47:03,400
+如果你愿意的话
+{\fs10}If you want to.{\r}
+
+802
+00:47:13,580 --> 00:47:15,080
+一分钟
+{\fs10}One minute.{\r}
+
+803
+00:47:24,590 --> 00:47:28,420
+-天啊  你...没事吧  -没事
+{\fs10}- God. Are you... Are you okay? - Yeah.{\r}
+
+804
+00:47:30,760 --> 00:47:31,840
+抱歉
+{\fs10}Sorry.{\r}
+
+805
+00:47:31,970 --> 00:47:33,050
+没关系
+{\fs10}That's okay.{\r}
+
+806
+00:47:56,950 --> 00:47:59,620
+这是前扣式的
+{\fs10}It's a front opener.{\r}
+
+807
+00:47:59,750 --> 00:48:01,330
+这是什么
+{\fs10}It's a what?{\r}
+
+808
+00:48:01,460 --> 00:48:03,120
+扣子在前面
+{\fs10}It opens from the front.{\r}
+
+809
+00:48:04,290 --> 00:48:06,420
+原来如此
+{\fs10}Yeah, no, yeah, of course.{\r}
+
+810
+00:48:06,590 --> 00:48:08,130
+-谢了  -没事
+{\fs10}- Thanks. - Sure.{\r}
+
+811
+00:48:10,720 --> 00:48:12,300
+真棒
+{\fs10}Ooh! Well done.{\r}
+
+812
+00:48:20,640 --> 00:48:22,980
+下次肯定会更好
+{\fs10}I'm sure it'll be better next time.{\r}
+
+813
+00:48:24,480 --> 00:48:26,980
+我觉得已经很好了
+{\fs10}I thought it was pretty lovely.{\r}
+
+814
+00:48:27,730 --> 00:48:30,150
+是啊  确实很好
+{\fs10}Right, no, it was really lovely.{\r}
+
+815
+00:48:32,490 --> 00:48:35,160
+你等我一下好吗
+{\fs10}In fact, can you just give me one minute?{\r}
+
+816
+00:48:36,620 --> 00:48:37,620
+好的
+{\fs10}Okay.{\r}
+
+817
+00:48:47,420 --> 00:48:48,670
+真危险
+{\fs10}Dangerous.{\r}
+
+818
+00:48:52,170 --> 00:48:55,090
+你还真懂内衣啊
+{\fs10}You really know your bras.{\r}
+
+819
+00:48:56,010 --> 00:48:57,050
+希望如此
+{\fs10}I like to think so.{\r}
+
+820
+00:49:02,520 --> 00:49:06,690
+真不错  有些人第一次搞得一团糟
+{\fs10}Well done. Some people make a real mess of it the first time.{\r}
+
+821
+00:49:06,810 --> 00:49:08,270
+菜鸟吧
+{\fs10}Amateurs.{\r}
+
+822
+00:49:10,530 --> 00:49:12,690
+等我一下好吗
+{\fs10}Could you give me one second?{\r}
+
+823
+00:49:13,780 --> 00:49:14,780
+当然
+{\fs10}Sure.{\r}
+
+824
+00:49:15,950 --> 00:49:17,200
+我等不及了
+{\fs10}I couldn't wait.{\r}
+
+825
+00:49:19,290 --> 00:49:21,450
+我的老天
+{\fs10}My goodness.{\r}
+
+826
+00:49:26,380 --> 00:49:28,530
+我这辈子最好的一夜
+{\fs10}Best night of my entire life.{\r}
+
+827
+00:49:29,770 --> 00:49:31,710
+接下来  我猜我要
+{\fs10}And now I've got a suspicion{\r}
+
+828
+00:49:31,800 --> 00:49:34,630
+睡上这辈子最好的一觉了
+{\fs10}I'm gonna have the best sleep of my entire life.{\r}
+
+829
+00:49:36,300 --> 00:49:39,470
+我的完美男人  一次就够了吗
+{\fs10}So once is enough for my perfect guy?{\r}
+
+830
+00:49:40,310 --> 00:49:42,970
+这么说可不太公平
+{\fs10}I'm not sure that's entirely fair.{\r}
+
+831
+00:49:49,400 --> 00:49:50,980
+-迟到了  -没有
+{\fs10}- We're late. - No, we're not.{\r}
+
+832
+00:49:52,490 --> 00:49:55,030
+没事的  现在才...天哪
+{\fs10}It'll be fine. It's only... My God.{\r}
+
+833
+00:49:59,620 --> 00:50:01,480
+
+{\fs10}The Waterboys: How Long Will I Love You?{\r}
+
+834
+00:49:59,620 --> 00:50:01,480
+我会爱你多久
+{\fs10}How long will I love you?{\r}
+
+835
+00:50:03,570 --> 00:50:06,540
+只要星星在空中
+{\fs10}As long as stars are above you{\r}
+
+836
+00:50:06,540 --> 00:50:07,620
+再见
+{\fs10}Bye.{\r}
+
+837
+00:50:09,060 --> 00:50:11,290
+甚至可以更长久
+{\fs10}And longer if I can{\r}
+
+838
+00:50:14,260 --> 00:50:16,040
+我会需要你多久
+{\fs10}How long will I need you?{\r}
+
+839
+00:50:16,040 --> 00:50:17,080
+别担心  没问题的
+{\fs10}Don't worry, you're coming with.{\r}
+
+840
+00:50:18,230 --> 00:50:21,570
+只要四季
+{\fs10}As long as the seasons need to{\r}
+
+841
+00:50:23,770 --> 00:50:24,860
+我带你回家
+{\fs10}I'm taking you home!{\r}
+
+842
+00:50:24,860 --> 00:50:26,520
+轮换依旧
+{\fs10}Follow their plan{\r}
+
+843
+00:50:28,970 --> 00:50:30,940
+我会给你多少时间
+{\fs10}How long will I give to you{\r}
+
+844
+00:50:30,940 --> 00:50:32,690
+-再见  -再见
+{\fs10}- Bye. Bye. - Bye.{\r}
+
+845
+00:50:33,270 --> 00:50:34,530
+只要我们在一起
+{\fs10}As long as I live to you{\r}
+
+846
+00:50:34,530 --> 00:50:35,530
+不
+{\fs10}No!{\r}
+
+847
+00:50:38,060 --> 00:50:41,670
+多久都没有问题
+{\fs10}However long you say{\r}
+
+848
+00:50:43,750 --> 00:50:45,790
+我会爱你多久
+{\fs10}How long will I love you?{\r}
+
+849
+00:50:48,030 --> 00:50:51,420
+只要星星在空中
+{\fs10}As long as stars are above you{\r}
+
+850
+00:50:53,400 --> 00:50:55,760
+甚至可以更长久
+{\fs10}And longer if I may{\r}
+
+851
+00:51:21,530 --> 00:51:23,830
+我有个坏消息
+{\fs10}Okay. I have some bad news.{\r}
+
+852
+00:51:24,540 --> 00:51:26,620
+-你要死了吗  -不  没那么糟
+{\fs10}- You're dying? - No, not that bad.{\r}
+
+853
+00:51:26,700 --> 00:51:28,500
+-我要死了  -不是
+{\fs10}- I'm dying? - No.{\r}
+
+854
+00:51:28,660 --> 00:51:29,880
+我父母进城来了
+{\fs10}My parents are in town.{\r}
+
+855
+00:51:29,890 --> 00:51:32,170
+他们要过来  就快到了
+{\fs10}They're visiting and they're coming around.{\r}
+
+856
+00:51:32,330 --> 00:51:35,210
+天哪  父母  美国的父母吗
+{\fs10}God. Parents? American parents?{\r}
+
+857
+00:51:35,550 --> 00:51:37,010
+-什么时候  -现在
+{\fs10}- When? - Now.{\r}
+
+858
+00:51:37,340 --> 00:51:39,130
+他们事先和我说了  我没告诉你
+{\fs10}They told me and I didn't tell you{\r}
+
+859
+00:51:39,470 --> 00:51:40,580
+我以为他们会临时取消
+{\fs10}and I thought they'd cancel{\r}
+
+860
+00:51:40,580 --> 00:51:42,270
+因为他们经常这样  但这次没有
+{\fs10}because they normally do and they didn't.{\r}
+
+861
+00:51:42,350 --> 00:51:43,900
+-就这会儿吗  -就这会儿
+{\fs10}- Now now? - Now now.{\r}
+
+862
+00:51:43,990 --> 00:51:45,590
+所以你最好穿条裤子
+{\fs10}So you should probably put on some pants.{\r}
+
+863
+00:51:46,520 --> 00:51:48,890
+老天  好  好
+{\fs10}God. Okay, okay.{\r}
+
+864
+00:51:48,980 --> 00:51:51,640
+抱歉  都怪我
+{\fs10}I'm sorry, I'm sorry.{\r}
+
+865
+00:51:51,770 --> 00:51:53,190
+他们知道我这个人吗
+{\fs10}Do they know I exist?{\r}
+
+866
+00:51:53,360 --> 00:51:55,860
+知道  我稍微提过
+{\fs10}Yeah. I've mentioned something like you,{\r}
+
+867
+00:51:55,860 --> 00:51:57,480
+但没说得很具体
+{\fs10}but nothing very specific.{\r}
+
+868
+00:51:58,790 --> 00:52:01,360
+对了  他们比较保守  还是换条裤子吧
+{\fs10}Yeah, they're quite conservative, so maybe not those pants.{\r}
+
+869
+00:52:03,870 --> 00:52:05,530
+好的  好的
+{\fs10}Okay. Yeah.{\r}
+
+870
+00:52:05,740 --> 00:52:08,700
+天哪  好吧
+{\fs10}God. Okay.{\r}
+
+871
+00:52:10,870 --> 00:52:13,580
+你能先拖住他们吗  拖一会儿
+{\fs10}Could you just stall them. Stall them.{\r}
+
+872
+00:52:16,670 --> 00:52:17,670
+上来吧
+{\fs10}Come on up.{\r}
+
+873
+00:52:18,170 --> 00:52:20,720
+-什么  -抱歉了  他们不喜欢等
+{\fs10}- What? - I'm sorry, they don't like waiting.{\r}
+
+874
+00:52:20,840 --> 00:52:22,550
+-好吧  -我要说我住这儿吗
+{\fs10}- Okay. - Do I live here?{\r}
+
+875
+00:52:22,680 --> 00:52:24,340
+绝对不行
+{\fs10}Definitely not.{\r}
+
+876
+00:52:24,890 --> 00:52:26,470
+那能说我们做爱吗
+{\fs10}Are we having sex?{\r}
+
+877
+00:52:26,600 --> 00:52:28,220
+可以  但别说口交
+{\fs10}Yeah. But not oral.{\r}
+
+878
+00:52:28,390 --> 00:52:29,720
+我没打算说这个
+{\fs10}I wasn't gonna mention oral.{\r}
+
+879
+00:52:29,850 --> 00:52:31,090
+很好  别说
+{\fs10}Okay, good, don't.{\r}
+
+880
+00:52:31,090 --> 00:52:32,600
+你为什么觉得会说到这个
+{\fs10}How did you think that was gonna come up?{\r}
+
+881
+00:52:32,730 --> 00:52:34,130
+能帮我弄一下这个吗
+{\fs10}Could you help me with this, please?{\r}
+
+882
+00:52:34,230 --> 00:52:37,400
+不知道  如果说到了  就一口否认
+{\fs10}I don't know. If it does, just deny it completely.{\r}
+
+883
+00:52:37,570 --> 00:52:39,570
+谁会问到这个  你爸爸吗
+{\fs10}Who's gonna bring it up? Your dad?{\r}
+
+884
+00:52:39,690 --> 00:52:42,400
+"蒂姆  最近跟我女儿口交了吗"
+{\fs10}"Tim, had any cunnilingus with my daughter recently?"{\r}
+
+885
+00:52:42,530 --> 00:52:43,780
+这可不好说
+{\fs10}Well, you never know.{\r}
+
+886
+00:52:43,910 --> 00:52:45,200
+好吧
+{\fs10}Okay.{\r}
+
+887
+00:52:45,740 --> 00:52:47,830
+-好  准备好了吗  -好了
+{\fs10}- Okay. Ready? - Yeah.{\r}
+
+888
+00:52:49,080 --> 00:52:51,080
+-他们到了  -到了
+{\fs10}- They're there. - They are, yeah.{\r}
+
+889
+00:52:51,250 --> 00:52:52,910
+-我就在你背后  -好的  好的
+{\fs10}- Yeah, right behind you. - Okay. Right, okay.{\r}
+
+890
+00:52:56,250 --> 00:52:58,090
+-爸爸  -好啊  宝贝
+{\fs10}- Dad! - Hello, sweet.{\r}
+
+891
+00:52:58,300 --> 00:53:00,380
+-妈妈  -好啊  亲爱的
+{\fs10}- Mom. - Hi, honey.{\r}
+
+892
+00:53:00,460 --> 00:53:02,920
+这是蒂姆
+{\fs10}This is Tim.{\r}
+
+893
+00:53:03,090 --> 00:53:05,130
+先生  太太  你们好
+{\fs10}Hello, sir. Ma'am.{\r}
+
+894
+00:53:05,720 --> 00:53:08,600
+我们要不要等你朋友走了再来  还是...
+{\fs10}Should we come back when you haven't got any company, or...{\r}
+
+895
+00:53:09,770 --> 00:53:12,020
+那不太可能
+{\fs10}Well, that would be quite difficult{\r}
+
+896
+00:53:12,020 --> 00:53:14,440
+因为蒂姆就住在这儿
+{\fs10}because Tim actually lives here.{\r}
+
+897
+00:53:15,940 --> 00:53:18,270
+是吗  和你一起住
+{\fs10}Really? With you?{\r}
+
+898
+00:53:18,610 --> 00:53:22,280
+是的  但是没有口交  我保证
+{\fs10}Yes. Yeah, but no oral sex, I promise you.{\r}
+
+899
+00:53:24,110 --> 00:53:25,610
+你说什么
+{\fs10}I beg your pardon?{\r}
+
+900
+00:53:26,570 --> 00:53:28,070
+失陪一下
+{\fs10}Excuse me.{\r}
+
+901
+00:53:29,450 --> 00:53:33,120
+蒂姆  说说你是哪里人  哪个地方的
+{\fs10}So, Tim, tell us where are you from, which part of the country?{\r}
+
+902
+00:53:33,750 --> 00:53:36,330
+他是康沃尔的  那儿很漂亮
+{\fs10}He's from Cornwall. Yeah, it's really pretty.{\r}
+
+903
+00:53:36,460 --> 00:53:40,130
+就是西南端鞋子形状的那块地方
+{\fs10}It's that little bit right at the end, sort of looks like a shoe.{\r}
+
+904
+00:53:40,800 --> 00:53:42,260
+你是个律师  对吗
+{\fs10}And you're a lawyer, is that right?{\r}
+
+905
+00:53:43,130 --> 00:53:45,260
+是的  没错  他从没输过
+{\fs10}Yep, that's right. And he never loses.{\r}
+
+906
+00:53:45,340 --> 00:53:46,640
+有时候你以为他肯定赢不了了
+{\fs10}You don't think he's gonna win,{\r}
+
+907
+00:53:46,640 --> 00:53:48,640
+但他总能想出个妙招
+{\fs10}then he just pulls something out of the bag and,{\r}
+
+908
+00:53:48,640 --> 00:53:49,930
+然后就赢了
+{\fs10}what do you know, he wins again.{\r}
+
+909
+00:53:50,010 --> 00:53:53,310
+你会自己回答问题吗
+{\fs10}Do you ever answer any of your own questions?{\r}
+
+910
+00:53:54,970 --> 00:53:57,850
+-我...-他会的  他一般都自己回答
+{\fs10}- I... - Yes, he does. Usually he does,{\r}
+
+911
+00:53:57,980 --> 00:53:59,220
+但今天不行  因为我一直说个不停
+{\fs10}but not today because I'm doing all the talking{\r}
+
+912
+00:53:59,320 --> 00:54:00,960
+因为我很紧张
+{\fs10}because I'm really nervous{\r}
+
+913
+00:54:01,280 --> 00:54:05,990
+我太喜欢他了  我希望你们也能喜欢他
+{\fs10}and I kinda love him and I just... I want you to, too.{\r}
+
+914
+00:54:06,110 --> 00:54:07,660
+宝贝
+{\fs10}Honey.{\r}
+
+915
+00:54:07,950 --> 00:54:10,450
+抱歉  蒂姆  你自己来吧
+{\fs10}Sorry. Tim. Over to you.{\r}
+
+916
+00:54:10,950 --> 00:54:11,950
+说吧
+{\fs10}Shoot.{\r}
+
+917
+00:54:13,660 --> 00:54:15,190
+-我想我爸爸...-我再说一句好吗
+{\fs10}- Yeah, I think my dad... - Can I just say one more thing?{\r}
+
+918
+00:54:15,190 --> 00:54:15,390
+好
+{\fs10}Yep.{\r}
+
+919
+00:54:18,130 --> 00:54:19,540
+谢天谢地  终于结束了
+{\fs10}Thank God that's over.{\r}
+
+920
+00:54:19,670 --> 00:54:22,130
+我拿到两张国家剧院的票  明天的
+{\fs10}I got given two tickets for the National Theatre tomorrow.{\r}
+
+921
+00:54:22,130 --> 00:54:23,250
+一起去吗
+{\fs10}Do you wanna come?{\r}
+
+922
+00:54:23,340 --> 00:54:27,340
+不去了  我要睡一整天
+{\fs10}No, so not. I'm just gonna sleep all day.{\r}
+
+923
+00:54:27,800 --> 00:54:31,350
+我不明白了  去剧院对睡觉有影响吗
+{\fs10}I don't see why going to the theatre should get in the way of that.{\r}
+
+924
+00:54:31,470 --> 00:54:32,680
+我最好的几次睡眠
+{\fs10}Many of the best sleeps of my life{\r}
+
+925
+00:54:32,680 --> 00:54:34,850
+都是在皇家莎士比亚剧院
+{\fs10}have happened in the Royal Shakespeare Company.{\r}
+
+926
+00:54:35,310 --> 00:54:37,520
+不了  你带别人一起去吧
+{\fs10}No, you take someone else.{\r}
+
+927
+00:54:37,690 --> 00:54:41,520
+我喜欢窝床上  不喜欢剧院
+{\fs10}I really like bed and I really hate theatre.{\r}
+
+928
+00:54:41,980 --> 00:54:43,360
+好吧
+{\fs10}Quite right.{\r}
+
+929
+00:54:44,490 --> 00:54:48,150
+哪个可怜鬼会周六晚上没有活动
+{\fs10}But what kind of sad act is gonna be free on a Saturday night{\r}
+
+930
+00:54:48,740 --> 00:54:50,780
+还随叫随到
+{\fs10}with no day's notice?{\r}
+
+931
+00:54:52,030 --> 00:54:53,030
+太棒了
+{\fs10}Bravo.{\r}
+
+932
+00:54:55,750 --> 00:54:58,210
+-天哪  是夏洛特  -谁
+{\fs10}- My God. It's Charlotte. - Who?{\r}
+
+933
+00:54:58,710 --> 00:55:00,540
+-我的初恋  -在哪
+{\fs10}- It was my first love. - Where?{\r}
+
+934
+00:55:00,710 --> 00:55:02,670
+那边  出口标志下面
+{\fs10}There. Under the "Exit" sign.{\r}
+
+935
+00:55:02,750 --> 00:55:04,420
+-那个老女人吗  -不  不是那个老女人
+{\fs10}- The old woman? - No, not the old woman.{\r}
+
+936
+00:55:04,510 --> 00:55:05,760
+那个金发美女
+{\fs10}The astonishing blonde.{\r}
+
+937
+00:55:05,840 --> 00:55:07,510
+-黑头发的吗  -不是  金发的
+{\fs10}- The one with the dark hair? - No, blonde.{\r}
+
+938
+00:55:07,590 --> 00:55:09,220
+金发就是金色的头发  听不明白吗
+{\fs10}Blonde means blonde hair, doesn't it?{\r}
+
+939
+00:55:10,390 --> 00:55:11,930
+在台下
+{\fs10}Off the stage.{\r}
+
+940
+00:55:12,350 --> 00:55:14,600
+好  你待在这别动  说真的  待着
+{\fs10}Okay, you stay there. I mean it, stay!{\r}
+
+941
+00:55:27,030 --> 00:55:28,030
+夏洛特
+{\fs10}Charlotte.{\r}
+
+942
+00:55:29,070 --> 00:55:31,070
+天哪  蒂姆
+{\fs10}My God. Tim.{\r}
+
+943
+00:55:31,620 --> 00:55:34,120
+见到你真好
+{\fs10}How fabulous to see you.{\r}
+
+944
+00:55:35,120 --> 00:55:38,370
+我...这是我的女朋友  蒂娜
+{\fs10}Wow. I... This is my girlfriend Tina.{\r}
+
+945
+00:55:38,460 --> 00:55:39,750
+不是吧
+{\fs10}No.{\r}
+
+946
+00:55:41,460 --> 00:55:44,040
+太棒了  你好  蒂娜
+{\fs10}That is so brilliant. Well, hello, Tina.{\r}
+
+947
+00:55:44,130 --> 00:55:45,750
+什么太棒了
+{\fs10}Why is it brilliant?{\r}
+
+948
+00:55:45,880 --> 00:55:47,720
+生命里总会有一些时刻
+{\fs10}Well, you know, there are certain moments in your life{\r}
+
+949
+00:55:47,720 --> 00:55:49,030
+会留下永久的创伤
+{\fs10}that scar you for life.{\r}
+
+950
+00:55:49,060 --> 00:55:52,060
+夏洛特对我的拒绝  就是这样
+{\fs10}Charlotte's rejection of me was one of those moments,{\r}
+
+951
+00:55:52,130 --> 00:55:54,750
+不过现在我知道她有"女朋友"了
+{\fs10}but now I know she's got a "girlfriend", well,{\r}
+
+952
+00:55:54,840 --> 00:55:57,320
+这就让我松了一大口气了
+{\fs10}that's just a huge burden suddenly lifted off my mind.{\r}
+
+953
+00:55:57,410 --> 00:56:00,110
+我可以重新做个自信的异性恋了
+{\fs10}I can be a confident heterosexual all over again.{\r}
+
+954
+00:56:01,940 --> 00:56:04,560
+不是那种女朋友
+{\fs10}Not that kind of girlfriend.{\r}
+
+955
+00:56:06,230 --> 00:56:07,230
+什么
+{\fs10}What?{\r}
+
+956
+00:56:07,990 --> 00:56:09,610
+你以为我是同性恋吗
+{\fs10}You think I'm gay?{\r}
+
+957
+00:56:10,740 --> 00:56:11,740
+不是
+{\fs10}No.{\r}
+
+958
+00:56:12,240 --> 00:56:13,890
+不  当然不是
+{\fs10}No, of course not.{\r}
+
+959
+00:56:13,890 --> 00:56:15,910
+不  应该是女性朋友
+{\fs10}No. It's girl friend.{\r}
+
+960
+00:56:15,990 --> 00:56:17,910
+是的  不是
+{\fs10}Yes. No. Wow.{\r}
+
+961
+00:56:18,000 --> 00:56:21,460
+女性的朋友  就是这样
+{\fs10}Yeah, friend who is a girl, which you so clearly are.{\r}
+
+962
+00:56:21,620 --> 00:56:25,420
+我得去找一下我的男朋友  是个男的...
+{\fs10}I'm just gonna go and get my boyfriend, who is a boy...{\r}
+
+963
+00:56:31,590 --> 00:56:33,760
+我的天啊  蒂姆
+{\fs10}My God. Tim.{\r}
+
+964
+00:56:34,300 --> 00:56:37,100
+见到你真好  看看你
+{\fs10}How lovely to see you. Look at you. Wow.{\r}
+
+965
+00:56:37,180 --> 00:56:38,890
+这是我的女朋友  蒂娜
+{\fs10}This is my girlfriend Tina.{\r}
+
+966
+00:56:40,600 --> 00:56:41,250
+你好  蒂娜
+{\fs10}Hello, Tina.{\r}
+
+967
+00:56:41,250 --> 00:56:44,150
+不过  你最好注意下用词
+{\fs10}Although you should be a little careful with that, by the way.{\r}
+
+968
+00:56:44,270 --> 00:56:47,320
+还是会有很多守旧的人
+{\fs10}There are still quite a lot of us old fashioned types about{\r}
+
+969
+00:56:47,440 --> 00:56:49,650
+会把"女朋友"理解成"同性恋"
+{\fs10}who interpret "girlfriend" as meaning "gay".{\r}
+
+970
+00:56:49,780 --> 00:56:51,510
+如果你说蒂娜是你女朋友
+{\fs10}So if you say that Tina's your girlfriend,{\r}
+
+971
+00:56:51,510 --> 00:56:53,040
+别人就会以为你们是"同性恋"
+{\fs10}people will assume that you're "gay".{\r}
+
+972
+00:56:53,990 --> 00:56:55,450
+我就是"同性恋"
+{\fs10}I am "gay".{\r}
+
+973
+00:56:56,450 --> 00:56:57,660
+是吗
+{\fs10}Are you?{\r}
+
+974
+00:56:57,830 --> 00:56:59,070
+你有意见吗
+{\fs10}Do you have a problem with that?{\r}
+
+975
+00:56:59,830 --> 00:57:02,710
+不  不是  我可喜欢了
+{\fs10}No, I don't. I love that stuff.{\r}
+
+976
+00:57:03,500 --> 00:57:04,670
+我去一下...
+{\fs10}I'm just gonna...{\r}
+
+977
+00:57:08,670 --> 00:57:11,510
+我看见三年前那个夏天让我心碎的女孩了
+{\fs10}I've just seen the girl who broke my heart three summers ago.{\r}
+
+978
+00:57:11,630 --> 00:57:13,510
+去打个招呼吧
+{\fs10}Let's go say hello.{\r}
+
+979
+00:57:13,630 --> 00:57:15,510
+不  还是别找麻烦了  走吧
+{\fs10}No. Best let sleeping dogs lie. Come on.{\r}
+
+980
+00:57:15,680 --> 00:57:18,050
+今晚真是妙极了  我很喜欢这里
+{\fs10}Best night of my life. I always love this area.{\r}
+
+981
+00:57:18,140 --> 00:57:20,520
+很热闹  还有那些色彩艳丽的画
+{\fs10}It's so bustling and I mean those pictures, full of colour.{\r}
+
+982
+00:57:20,680 --> 00:57:22,720
+每次来这里都很开心
+{\fs10}Just makes me so happy when I'm round here,{\r}
+
+983
+00:57:22,720 --> 00:57:23,770
+-这么多色彩  -蒂姆
+{\fs10}- all the colour... - Tim.{\r}
+
+984
+00:57:23,850 --> 00:57:25,190
+夏洛特
+{\fs10}Charlotte!{\r}
+
+985
+00:57:25,310 --> 00:57:26,690
+蒂姆  见到你真好
+{\fs10}Tim, how lovely to see you.{\r}
+
+986
+00:57:26,810 --> 00:57:28,310
+真是个惊喜啊
+{\fs10}What a surprise.{\r}
+
+987
+00:57:28,400 --> 00:57:31,360
+抱歉  这是我的女朋友  蒂娜
+{\fs10}Wow. Sorry. This is my girlfriend, Tina.{\r}
+
+988
+00:57:31,530 --> 00:57:33,360
+-她是同性恋  -闭嘴
+{\fs10}- She's gay. - Shut up.{\r}
+
+989
+00:57:33,490 --> 00:57:34,700
+蒂娜
+{\fs10}Hello, Tina.{\r}
+
+990
+00:57:34,820 --> 00:57:36,030
+瞧瞧你
+{\fs10}Look at you!{\r}
+
+991
+00:57:36,160 --> 00:57:37,990
+我都没想到
+{\fs10}It just never even occurred to me{\r}
+
+992
+00:57:38,120 --> 00:57:39,910
+能在康沃尔郡之外遇到你
+{\fs10}you existed outside of Cornwall.{\r}
+
+993
+00:57:40,700 --> 00:57:42,870
+我们正要去吃饭
+{\fs10}We're about to go and get dinner,{\r}
+
+994
+00:57:43,000 --> 00:57:45,080
+但有机会能一起出去就好了
+{\fs10}but it would be great to hang out sometime.{\r}
+
+995
+00:57:45,210 --> 00:57:47,040
+当然好  非常愿意
+{\fs10}Yeah, sure. I'd love that.{\r}
+
+996
+00:57:47,210 --> 00:57:49,000
+帮我跟奇巧带个好  她好吗
+{\fs10}Send my love to little Kit Kat. How is she?{\r}
+
+997
+00:57:49,550 --> 00:57:53,050
+她还行  其实她在伦敦也过得不容易
+{\fs10}She's okay. She's not finding London totally easy actually.{\r}
+
+998
+00:57:53,220 --> 00:57:55,380
+是啊  吉米说他有时候会见她
+{\fs10}Right. Well, Jimmy says he sees her sometimes.{\r}
+
+999
+00:57:55,680 --> 00:57:57,090
+是吗  从什么时候开始的
+{\fs10}Really? Since when?{\r}
+
+1000
+00:57:57,220 --> 00:57:59,260
+你也知道  他俩一直纠缠不清
+{\fs10}You knew there was always something there.{\r}
+
+1001
+00:57:59,390 --> 00:58:01,060
+不好意思  你是
+{\fs10}Sorry, you are?{\r}
+
+1002
+00:58:01,220 --> 00:58:02,220
+我很好  谢谢
+{\fs10}Very well, thank you.{\r}
+
+1003
+00:58:02,390 --> 00:58:03,430
+她是问你的名字
+{\fs10}Well, she means your name.{\r}
+
+1004
+00:58:03,560 --> 00:58:04,890
+-罗杰  -不对
+{\fs10}- Roger. - No, it's not.{\r}
+
+1005
+00:58:05,020 --> 00:58:07,350
+不是罗杰  我叫罗利
+{\fs10}No, it's not. it's Rory.{\r}
+
+1006
+00:58:07,440 --> 00:58:09,360
+-很高兴认识你  罗利  -嗯
+{\fs10}- Nice to meet you, Rory. - Yeah.{\r}
+
+1007
+00:58:10,070 --> 00:58:11,770
+对了  对不起  我们该走了
+{\fs10}Right. Sorry, we should get going.{\r}
+
+1008
+00:58:11,900 --> 00:58:13,230
+真的很高兴见到你
+{\fs10}It was really great to see you.{\r}
+
+1009
+00:58:13,320 --> 00:58:14,740
+-我们再见吧  -再见
+{\fs10}- I'll see you soon. - You, too. Yeah.{\r}
+
+1010
+00:58:15,240 --> 00:58:16,240
+再见
+{\fs10}Bye.{\r}
+
+1011
+00:58:16,610 --> 00:58:18,450
+天哪  她真美
+{\fs10}God, she is beautiful.{\r}
+
+1012
+00:58:19,910 --> 00:58:23,580
+她太美了  要是你跟她上床你会死的
+{\fs10}She's so beautiful, if you had sex with her, you'd die. You'd just die.{\r}
+
+1013
+00:58:23,700 --> 00:58:27,080
+脱她的衣服  看她的胸眼睛都会爆炸
+{\fs10}You'd open her shirt, see her breasts and your eyes would explode.{\r}
+
+1014
+00:58:27,210 --> 00:58:29,490
+你就得瞎着跟她做爱  然后就死了
+{\fs10}You'd have to have sex with her blind. And then you'd die.{\r}
+
+1015
+00:58:29,590 --> 00:58:32,130
+注意到了吗  她没给我她的号码
+{\fs10}You notice she didn't give me her number...{\r}
+
+1016
+00:58:32,250 --> 00:58:36,130
+我让蒂娜自己去吃饭了  你饿吗
+{\fs10}I told Tina to go have dinner on her own. Are you hungry?{\r}
+
+1017
+00:58:36,260 --> 00:58:38,760
+-饿  当然饿  -太好了
+{\fs10}- Yeah. Of course. - Great.{\r}
+
+1018
+00:58:39,220 --> 00:58:40,760
+再见  罗杰
+{\fs10}Bye, Roger.{\r}
+
+1019
+00:58:41,050 --> 00:58:42,720
+好  太棒了
+{\fs10}Yeah, excellent.{\r}
+
+1020
+00:58:43,100 --> 00:58:45,110
+再次谢谢你带我来看表演  祝你凯旋
+{\fs10}Thanks again for the play. Triumph.{\r}
+
+1021
+00:58:45,110 --> 00:58:45,590
+你想去哪
+{\fs10}Where do you wanna go?{\r}
+
+1022
+00:58:45,810 --> 00:58:48,230
+你喜欢的就行
+{\fs10}Well, wherever you like really.{\r}
+
+1023
+00:58:48,310 --> 00:58:50,770
+我比不了
+{\fs10}I can't compete.{\r}
+
+1024
+00:59:02,240 --> 00:59:03,330
+知道吗
+{\fs10}You know,{\r}
+
+1025
+00:59:03,660 --> 00:59:07,620
+我开始有点觉得我们浪费了那个暑假
+{\fs10}I'm starting to think we slightly wasted that summer holiday.{\r}
+
+1026
+00:59:08,460 --> 00:59:11,170
+要是我们能穿越回去
+{\fs10}If we could travel back in time,{\r}
+
+1027
+00:59:11,290 --> 00:59:13,840
+也许我不会拒绝
+{\fs10}maybe I wouldn't have said no.{\r}
+
+1028
+00:59:15,760 --> 00:59:16,760
+我
+{\fs10}I'm...{\r}
+
+1029
+00:59:17,630 --> 00:59:19,630
+我就住在拐角
+{\fs10}I'm just staying round the corner.{\r}
+
+1030
+00:59:19,760 --> 00:59:21,300
+能送我上楼吗
+{\fs10}Can you walk me home?{\r}
+
+1031
+00:59:22,930 --> 00:59:23,930
+好
+{\fs10}Yeah.{\r}
+
+1032
+00:59:24,510 --> 00:59:26,350
+-可以吗  -当然可以
+{\fs10}- Yeah? - Yeah, of course, yeah.{\r}
+
+1033
+00:59:36,320 --> 00:59:38,780
+我们到了
+{\fs10}Well, here we are.{\r}
+
+1034
+00:59:44,160 --> 00:59:45,990
+里面
+{\fs10}It's a lot nicer{\r}
+
+1035
+00:59:46,410 --> 00:59:47,580
+更好
+{\fs10}inside.{\r}
+
+1036
+00:59:48,290 --> 00:59:49,830
+我觉得也是
+{\fs10}I'm sure it is.{\r}
+
+1037
+00:59:57,010 --> 00:59:59,010
+那...那么
+{\fs10}So... So...{\r}
+
+1038
+01:00:00,180 --> 01:00:01,180
+那
+{\fs10}So...{\r}
+
+1039
+01:00:03,350 --> 01:00:04,350
+那
+{\fs10}So,{\r}
+
+1040
+01:00:04,760 --> 01:00:06,100
+很高兴
+{\fs10}lovely{\r}
+
+1041
+01:00:07,430 --> 01:00:09,350
+见到你  夏洛特
+{\fs10}to see you, Charlotte.{\r}
+
+1042
+01:00:09,480 --> 01:00:13,190
+真是美好的夜晚  很开心
+{\fs10}What a night. Total joy, but I've gotta{\r}
+
+1043
+01:00:14,190 --> 01:00:15,690
+但我得回去了
+{\fs10}get back{\r}
+
+1044
+01:00:16,530 --> 01:00:19,860
+因为我有件很重要的事要做  立刻做
+{\fs10}because there's something very important that I have to do. Right now.{\r}
+
+1045
+01:00:53,060 --> 01:00:56,360
+-醒醒  醒醒  -什么
+{\fs10}- Wake up. Wake up. - What?{\r}
+
+1046
+01:00:56,520 --> 01:00:57,520
+玛丽
+{\fs10}Mary.{\r}
+
+1047
+01:00:58,900 --> 01:01:00,650
+你愿意嫁给我吗
+{\fs10}Would you like to marry me?{\r}
+
+1048
+01:01:02,240 --> 01:01:06,240
+别那么自私  我在睡觉呢  真差劲
+{\fs10}Don't be so selfish, I'm sleeping. It's bad.{\r}
+
+1049
+01:01:08,370 --> 01:01:09,370
+对
+{\fs10}Right.{\r}
+
+1050
+01:01:10,330 --> 01:01:12,160
+真顺利
+{\fs10}That went very well.{\r}
+
+1051
+01:01:19,670 --> 01:01:20,920
+醒醒
+{\fs10}Wake up.{\r}
+
+1052
+01:01:21,090 --> 01:01:22,090
+什么
+{\fs10}What?{\r}
+
+1053
+01:01:23,680 --> 01:01:25,680
+醒醒  来聊聊天
+{\fs10}Wake up. Come and have a chat.{\r}
+
+1054
+01:01:25,760 --> 01:01:26,760
+干什么
+{\fs10}Why?{\r}
+
+1055
+01:01:27,930 --> 01:01:30,350
+我有件很重要的事要问你
+{\fs10}I've got something important to ask you.{\r}
+
+1056
+01:01:33,190 --> 01:01:35,270
+不能等明早吗
+{\fs10}Can't it wait till morning?{\r}
+
+1057
+01:01:35,600 --> 01:01:37,230
+不行
+{\fs10}Not really.{\r}
+
+1058
+01:01:38,190 --> 01:01:41,190
+可是我好舒服
+{\fs10}But I'm so comfy.{\r}
+
+1059
+01:01:41,690 --> 01:01:44,360
+我正在做最美的梦
+{\fs10}I was having the loveliest dream.{\r}
+
+1060
+01:01:45,110 --> 01:01:46,740
+什么事
+{\fs10}What is it?{\r}
+
+1061
+01:01:47,450 --> 01:01:49,950
+为什么有音乐
+{\fs10}Why is there music on?{\r}
+
+1062
+01:01:50,410 --> 01:01:53,120
+跟我要问你的事有关
+{\fs10}It's got something to do with what I want to ask you.{\r}
+
+1063
+01:01:54,790 --> 01:01:56,620
+等一下
+{\fs10}Wait a minute.{\r}
+
+1064
+01:01:57,460 --> 01:01:59,420
+浪漫音乐
+{\fs10}Romantic music.{\r}
+
+1065
+01:02:00,800 --> 01:02:03,300
+有重要问题的男人
+{\fs10}Guy with important question.{\r}
+
+1066
+01:02:03,470 --> 01:02:05,090
+你跪下了吗
+{\fs10}Are you on your knees?{\r}
+
+1067
+01:02:05,590 --> 01:02:07,590
+跪着
+{\fs10}On his knees.{\r}
+
+1068
+01:02:09,470 --> 01:02:12,260
+你看表演看太无聊了  就决定
+{\fs10}Were you so bored in the play you decided{\r}
+
+1069
+01:02:12,390 --> 01:02:15,140
+结束后来跟我求婚吗
+{\fs10}to ask me to marry you afterwards?{\r}
+
+1070
+01:02:17,440 --> 01:02:19,110
+差不多
+{\fs10}Something like that.{\r}
+
+1071
+01:02:22,400 --> 01:02:24,400
+对  完全正确
+{\fs10}Yeah. Exactly that.{\r}
+
+1072
+01:02:25,780 --> 01:02:27,110
+说真的
+{\fs10}In fact,{\r}
+
+1073
+01:02:30,160 --> 01:02:31,990
+你愿意嫁给我吗
+{\fs10}will you marry me?{\r}
+
+1074
+01:02:38,500 --> 01:02:40,500
+有想过这个问题的答案吗
+{\fs10}Any thoughts on the answer?{\r}
+
+1075
+01:02:41,130 --> 01:02:44,610
+"愿意"  "不愿意"  "滚出我的生活  废物"
+{\fs10}"Yes?", "No?", "Get out of my life, loser.",{\r}
+
+1076
+01:02:44,620 --> 01:02:45,130
+都有可能
+{\fs10}they're all possible.{\r}
+
+1077
+01:02:48,680 --> 01:02:51,350
+我想我会选
+{\fs10}I think I'll go for{\r}
+
+1078
+01:02:53,010 --> 01:02:54,010
+愿意
+{\fs10}"yes."{\r}
+
+1079
+01:02:59,810 --> 01:03:01,980
+谢谢你跟我求婚
+{\fs10}Thank you for asking me.{\r}
+
+1080
+01:03:02,520 --> 01:03:07,150
+还要谢谢你没有搞得很戏剧性
+{\fs10}And thank you for not going for one of those melodramatic proposals{\r}
+
+1081
+01:03:07,280 --> 01:03:09,660
+一大群人围着的那种
+{\fs10}with lots of people around.{\r}
+
+1082
+01:03:10,200 --> 01:03:12,120
+我讨厌有别人
+{\fs10}I hate other people.{\r}
+
+1083
+01:03:12,530 --> 01:03:13,830
+我也是
+{\fs10}Me, too.{\r}
+
+1084
+01:03:14,540 --> 01:03:15,540
+对
+{\fs10}Yeah.{\r}
+
+1085
+01:03:17,160 --> 01:03:19,370
+我去把收音机关掉
+{\fs10}I'm just gonna turn off the radio.{\r}
+
+1086
+01:03:19,830 --> 01:03:22,040
+好的  好主意
+{\fs10}Okay. Good idea.{\r}
+
+1087
+01:03:29,720 --> 01:03:32,890
+谢谢大家  抱歉  她有点累
+{\fs10}Thanks, guys. Sorry, she's a bit tired.{\r}
+
+1088
+01:03:33,720 --> 01:03:37,810
+但是非常感谢  你们能走吗
+{\fs10}But we really appreciate it. Can you go?{\r}
+
+1089
+01:03:48,570 --> 01:03:50,570
+太美了
+{\fs10}That's so beautiful.{\r}
+
+1090
+01:03:50,700 --> 01:03:53,320
+可是我觉得我们不能住一个房间
+{\fs10}I don't think we'll be staying in the same room, somehow.{\r}
+
+1091
+01:03:53,410 --> 01:03:54,660
+真的吗
+{\fs10}Really?{\r}
+
+1092
+01:03:54,740 --> 01:03:57,750
+要是他们让你喝茶  就拒绝
+{\fs10}If they offer you tea, just say no.{\r}
+
+1093
+01:04:00,040 --> 01:04:01,420
+妈妈  这是玛丽
+{\fs10}Mum, this is Mary.{\r}
+
+1094
+01:04:01,540 --> 01:04:02,880
+玛丽
+{\fs10}Mary!{\r}
+
+1095
+01:04:03,000 --> 01:04:04,590
+我的天哪  你真漂亮
+{\fs10}Good Lord, you're pretty.{\r}
+
+1096
+01:04:04,750 --> 01:04:06,340
+不  我就是
+{\fs10}No, it's just{\r}
+
+1097
+01:04:06,760 --> 01:04:09,260
+妆画得比较浓
+{\fs10}I've got a lot of mascara and lipstick on.{\r}
+
+1098
+01:04:09,380 --> 01:04:10,760
+我看看
+{\fs10}Let's have a look.{\r}
+
+1099
+01:04:10,880 --> 01:04:13,430
+是哦  很好
+{\fs10}Yes. Good.{\r}
+
+1100
+01:04:13,890 --> 01:04:17,350
+女孩太漂亮不好
+{\fs10}It's very bad for a girl to be too pretty.{\r}
+
+1101
+01:04:17,430 --> 01:04:21,600
+太漂亮就没有幽默感  或者没特色
+{\fs10}It stops her developing a sense of humour. Or a personality.{\r}
+
+1102
+01:04:22,350 --> 01:04:23,350
+喝茶吗
+{\fs10}Tea?{\r}
+
+1103
+01:04:23,770 --> 01:04:25,310
+非常愿意
+{\fs10}I'd love a cup of tea.{\r}
+
+1104
+01:04:25,440 --> 01:04:27,020
+天哪  一整天的时间都要没了
+{\fs10}Christ, that's the whole day gone.{\r}
+
+1105
+01:04:27,730 --> 01:04:29,390
+她是位很特别的客人
+{\fs10}She's a very special guest.{\r}
+
+1106
+01:04:29,400 --> 01:04:30,780
+只要茶  不要饼干
+{\fs10}Cup without the crack.{\r}
+
+1107
+01:04:30,900 --> 01:04:32,150
+打水漂
+{\fs10}Skipping stones.{\r}
+
+1108
+01:04:32,240 --> 01:04:34,950
+他们从他这么高的时候就一直玩这个
+{\fs10}They've been doing this since he was about this high.{\r}
+
+1109
+01:04:35,280 --> 01:04:38,740
+你有什么缺点  就是小弱点
+{\fs10}And what are your faults? I mean, little weaknesses.{\r}
+
+1110
+01:04:41,620 --> 01:04:43,710
+我
+{\fs10}I...{\r}
+
+1111
+01:04:45,540 --> 01:04:47,550
+我非常没安全感
+{\fs10}Well, I'm very insecure.{\r}
+
+1112
+01:04:47,800 --> 01:04:49,090
+很好
+{\fs10}Sweet.{\r}
+
+1113
+01:04:50,050 --> 01:04:54,090
+好的  我有时候脾气很差
+{\fs10}Okay. I've a very bad temper sometimes.{\r}
+
+1114
+01:04:54,220 --> 01:04:55,890
+很重要  不然怎么让
+{\fs10}Crucial. How else are you gonna{\r}
+
+1115
+01:04:56,010 --> 01:04:57,720
+男人听你的呢
+{\fs10}get a fella to do what you want?{\r}
+
+1116
+01:05:00,140 --> 01:05:02,310
+当然  我还有一个软肋
+{\fs10}And, of course, I have...{\r}
+
+1117
+01:05:02,730 --> 01:05:04,100
+那就是你的儿子
+{\fs10}I have a weakness for your son.{\r}
+
+1118
+01:05:04,230 --> 01:05:05,600
+我也是
+{\fs10}So do I.{\r}
+
+1119
+01:05:05,980 --> 01:05:09,650
+但是最好别告诉他  别让他骄傲了
+{\fs10}But best not to tell him. Don't want him getting cocky.{\r}
+
+1120
+01:05:14,820 --> 01:05:17,160
+没球的时候我好厉害
+{\fs10}I'm so good without the ball. Pow!{\r}
+
+1121
+01:05:18,990 --> 01:05:20,410
+觉得她如何
+{\fs10}What do you think of her?{\r}
+
+1122
+01:05:20,500 --> 01:05:22,120
+比起你  我已经更喜欢她了
+{\fs10}I like her more than you already.{\r}
+
+1123
+01:05:24,460 --> 01:05:28,500
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}意大利演员  编曲家及作词家
+
+1124
+01:05:24,460 --> 01:05:28,500
+瞧  我都忘了这个  吉米·丰塔纳的《世界》
+{\fs10}Look, I'd forgotten this. Jimmy Fontana Il Mondo.{\r}
+
+1125
+01:05:28,630 --> 01:05:30,590
+脑袋上像顶了个死獾的意大利人
+{\fs10}Greatest record ever recorded by an Italian{\r}
+
+1126
+01:05:30,670 --> 01:05:32,770
+录得世界上最棒的唱片
+{\fs10}who looks like he's got a dead badger on his head.{\r}
+
+1127
+01:05:32,810 --> 01:05:33,840
+你还有唱片集
+{\fs10}And you've got the album.{\r}
+
+1128
+01:05:33,930 --> 01:05:35,130
+太好了
+{\fs10}Yes!{\r}
+
+1129
+01:05:35,260 --> 01:05:36,840
+看那眼镜
+{\fs10}Check out those specs!{\r}
+
+1130
+01:05:39,350 --> 01:05:42,520
+快点  比赛开始了  对
+{\fs10}Come on, on with the game! Right.{\r}
+
+1131
+01:05:42,850 --> 01:05:44,770
+多么出色的一场比赛
+{\fs10}And what an extraordinary game this is.{\r}
+
+1132
+01:05:44,890 --> 01:05:46,810
+世界乒乓大赛上
+{\fs10}For the first time a father and son{\r}
+
+1133
+01:05:46,940 --> 01:05:48,690
+第一次有父子对战
+{\fs10}are playing each other in the World Table{\r}
+
+1134
+01:05:48,860 --> 01:05:50,620
+他俩还都不是中国人
+{\fs10}Tennis Final and neither of them are Chinese.{\r}
+
+1135
+01:05:50,690 --> 01:05:53,280
+这是原世界冠军和他的儿子之间的终极对决
+{\fs10}Tremendous play from the old World Champion and his son,{\r}
+
+1136
+01:05:53,360 --> 01:05:56,030
+儿子是英国首位红发乒乓球手
+{\fs10}the first openly ginger British table tennis player{\r}
+
+1137
+01:05:56,200 --> 01:05:58,290
+但是年轻人已经显露出不敌对手的形势
+{\fs10}but there are signs the youngster's beginning to crack.{\r}
+
+1138
+01:05:58,320 --> 01:06:00,740
+-他眼中有泪  -并没有
+{\fs10}- There are tears in his eyes. - There are not!{\r}
+
+1139
+01:06:00,870 --> 01:06:02,330
+马上就有了
+{\fs10}There soon will be!{\r}
+
+1140
+01:06:09,290 --> 01:06:11,170
+我不知道你在
+{\fs10}Hey! I didn't know you were here.{\r}
+
+1141
+01:06:11,840 --> 01:06:14,300
+我刚下来
+{\fs10}Yeah. I just popped down for a while.{\r}
+
+1142
+01:06:14,380 --> 01:06:15,550
+好的
+{\fs10}Okay.{\r}
+
+1143
+01:06:15,880 --> 01:06:17,130
+工作呢
+{\fs10}What about the job?{\r}
+
+1144
+01:06:19,140 --> 01:06:20,470
+那你来了多久了
+{\fs10}So how long have you been here?{\r}
+
+1145
+01:06:20,560 --> 01:06:22,350
+几个星期
+{\fs10}Couple of weeks.{\r}
+
+1146
+01:06:22,470 --> 01:06:24,730
+那伦敦的生活呢
+{\fs10}Gosh! So, life in London...{\r}
+
+1147
+01:06:25,560 --> 01:06:26,730
+很糟糕
+{\fs10}Horrid.{\r}
+
+1148
+01:06:26,900 --> 01:06:27,900
+好的
+{\fs10}Okay.{\r}
+
+1149
+01:06:29,650 --> 01:06:31,150
+玛丽在吗
+{\fs10}Is Mary here?{\r}
+
+1150
+01:06:31,230 --> 01:06:32,400
+在
+{\fs10}Yes.{\r}
+
+1151
+01:06:32,570 --> 01:06:34,070
+哪里  楼下
+{\fs10}Where? Downstairs.{\r}
+
+1152
+01:06:35,240 --> 01:06:37,240
+你温柔点
+{\fs10}You be gentle.{\r}
+
+1153
+01:06:38,240 --> 01:06:39,740
+温柔点
+{\fs10}Be gentle!{\r}
+
+1154
+01:06:44,040 --> 01:06:45,370
+小心
+{\fs10}Careful!{\r}
+
+1155
+01:06:46,250 --> 01:06:50,540
+我也很高兴见到你  我在努力留个好印象
+{\fs10}Yeah, nice to see you, too. I'm trying to make a good impression...{\r}
+
+1156
+01:06:53,510 --> 01:06:55,260
+对  抱歉抱歉
+{\fs10}Right, sorry. Sorry.{\r}
+
+1157
+01:06:55,380 --> 01:06:57,930
+我有件重要的事要宣布
+{\fs10}I've got an important announcement to make.{\r}
+
+1158
+01:06:58,050 --> 01:06:59,760
+好兴奋
+{\fs10}Exciting.{\r}
+
+1159
+01:07:00,930 --> 01:07:03,470
+经过一点点考虑  我们决定要结婚
+{\fs10}We've decided, after a little bit of thought, to get married.{\r}
+
+1160
+01:07:06,730 --> 01:07:09,100
+真是个好消息
+{\fs10}That's wonderful news.{\r}
+
+1161
+01:07:09,270 --> 01:07:10,900
+你要跟谁结婚
+{\fs10}Who are you getting married to?{\r}
+
+1162
+01:07:11,940 --> 01:07:13,900
+跟玛丽  那个
+{\fs10}To Mary. Over there.{\r}
+
+1163
+01:07:14,030 --> 01:07:16,030
+谢天谢地
+{\fs10}Thank God for that.{\r}
+
+1164
+01:07:16,240 --> 01:07:19,240
+要是别的姑娘就尴尬了  你想想
+{\fs10}Jolly embarrassing if it had been another girl. Imagine that.{\r}
+
+1165
+01:07:19,740 --> 01:07:21,450
+我们太高兴了
+{\fs10}We're so pleased.{\r}
+
+1166
+01:07:21,950 --> 01:07:23,580
+不  对不起  对
+{\fs10}No, sorry. Yeah.{\r}
+
+1167
+01:07:23,700 --> 01:07:26,790
+顺便说一句  婚礼很快就举行了
+{\fs10}By the way, the wedding will be quite soon{\r}
+
+1168
+01:07:27,790 --> 01:07:29,710
+因为我们也快有孩子了
+{\fs10}because we're having a baby, too.{\r}
+
+1169
+01:07:37,300 --> 01:07:38,470
+你怀孕了吗
+{\fs10}You're pregnant?{\r}
+
+1170
+01:07:38,590 --> 01:07:39,760
+对
+{\fs10}Yes.{\r}
+
+1171
+01:07:40,050 --> 01:07:41,470
+谁的孩子
+{\fs10}Who's the father?{\r}
+
+1172
+01:07:42,100 --> 01:07:43,800
+我希望是蒂姆的
+{\fs10}Well, Tim, I hope.{\r}
+
+1173
+01:07:44,220 --> 01:07:48,230
+谢天谢地  要是喜当爹就尴尬了
+{\fs10}Thank God for that. Jolly awkward if it had been another fellow.{\r}
+
+1174
+01:07:51,980 --> 01:07:53,480
+我们得今晚决定
+{\fs10}We have to decide tonight.{\r}
+
+1175
+01:07:53,610 --> 01:07:55,320
+-什么  -所有事情
+{\fs10}- What? - Everything.{\r}
+
+1176
+01:07:55,570 --> 01:07:58,150
+我们的婚礼
+{\fs10}The only thing you've decided about our{\r}
+
+1177
+01:07:58,240 --> 01:08:00,150
+你唯一决定的事就是
+{\fs10}wedding is that I'm coming down the aisle{\r}
+
+1178
+01:08:00,240 --> 01:08:02,450
+我穿过教堂走到你跟前时
+{\fs10}to the sound of some Italian weirdo{\r}
+
+1179
+01:08:02,570 --> 01:08:04,740
+要放那个意大利怪人唱的《世界》
+{\fs10}singing a song called Il Mondo.{\r}
+
+1180
+01:08:04,830 --> 01:08:05,740
+多好的歌
+{\fs10}Excellent song.{\r}
+
+1181
+01:08:05,830 --> 01:08:08,080
+就是我说坚决不行的那首
+{\fs10}To which I've said a definitive "no".{\r}
+
+1182
+01:08:08,160 --> 01:08:09,830
+所以这样吧
+{\fs10}So here's the deal.{\r}
+
+1183
+01:08:10,000 --> 01:08:13,500
+你决定一件事  我就脱一件衣服
+{\fs10}I will take off one item of clothing for every decision you make.{\r}
+
+1184
+01:08:14,670 --> 01:08:17,670
+好的  我了解了  年轻的女士
+{\fs10}Okay. You have my attention, young lady.{\r}
+
+1185
+01:08:17,960 --> 01:08:19,300
+好的
+{\fs10}Right, um,{\r}
+
+1186
+01:08:20,430 --> 01:08:22,050
+你想在哪办婚礼
+{\fs10}where would you like to get married?{\r}
+
+1187
+01:08:23,510 --> 01:08:25,970
+家  我讨厌别的地方
+{\fs10}Home. I'd hate anywhere else.{\r}
+
+1188
+01:08:26,100 --> 01:08:27,100
+好的
+{\fs10}Okay.{\r}
+
+1189
+01:08:27,810 --> 01:08:29,640
+天哪  很好
+{\fs10}My God. Good.{\r}
+
+1190
+01:08:29,770 --> 01:08:31,100
+应该找哪位神父
+{\fs10}Who should the priest be?{\r}
+
+1191
+01:08:31,190 --> 01:08:32,690
+得是有一口黄牙
+{\fs10}It'll have to be the local bloke{\r}
+
+1192
+01:08:32,810 --> 01:08:34,450
+和一堆连心眉的当地人
+{\fs10}with yellow teeth and the massive unibrow.{\r}
+
+1193
+01:08:34,690 --> 01:08:35,690
+好的
+{\fs10}Okay.{\r}
+
+1194
+01:08:36,190 --> 01:08:38,820
+那就决定找海格
+{\fs10}That's a lock for Hagrid.{\r}
+
+1195
+01:08:41,700 --> 01:08:42,780
+伴郎呢
+{\fs10}Best Man?{\r}
+
+1196
+01:08:42,910 --> 01:08:43,990
+该死
+{\fs10}Damn.{\r}
+
+1197
+01:08:44,120 --> 01:08:45,780
+伴郎  快决定
+{\fs10}Best Man. Now.{\r}
+
+1198
+01:08:45,910 --> 01:08:47,520
+不  太难了  这是双输
+{\fs10}No, this is so hard.{\r}
+
+1199
+01:08:47,520 --> 01:08:48,560
+会气坏所有没选的人
+{\fs10}It's lose-lose you know You piss off all the{\r}
+
+1200
+01:08:48,600 --> 01:08:51,060
+最后还会憎恨你选的那个人
+{\fs10}ones you don't pick, and you end up hating the one you do pick{\r}
+
+1201
+01:08:51,230 --> 01:08:53,270
+因为他的演讲乱七八糟  把婚礼搞砸了
+{\fs10}because he makes a bad speech and ruins the day.{\r}
+
+1202
+01:08:53,360 --> 01:08:54,900
+你想不想见这对小可爱嘛
+{\fs10}Do you wanna see these puppies or not?{\r}
+
+1203
+01:08:54,930 --> 01:08:56,470
+想
+{\fs10}Yes, I do.{\r}
+
+1204
+01:08:56,960 --> 01:08:58,680
+-杰  -你决定
+{\fs10}- Jay. - It's your choice.{\r}
+
+1205
+01:08:59,010 --> 01:09:00,490
+他是我最好的朋友  但他是个傻子
+{\fs10}He's my best friend, but he's a moron.{\r}
+
+1206
+01:09:00,550 --> 01:09:01,970
+对  他会把所有事都搞砸
+{\fs10}Yeah, he will mess up everything.{\r}
+
+1207
+01:09:02,050 --> 01:09:03,380
+-罗利  -确定吗
+{\fs10}- Rory. - Sure?{\r}
+
+1208
+01:09:03,510 --> 01:09:04,840
+不  哈利吧
+{\fs10}No, Harry.{\r}
+
+1209
+01:09:04,970 --> 01:09:06,300
+那就哈利了  来吧
+{\fs10}Harry it is. Let's do this.{\r}
+
+1210
+01:09:08,390 --> 01:09:09,850
+罗利  抱歉
+{\fs10}Rory. Sorry.{\r}
+
+1211
+01:09:09,970 --> 01:09:11,390
+什么  真会作弊
+{\fs10}What? That's such a cheat.{\r}
+
+1212
+01:09:12,890 --> 01:09:14,020
+好吧
+{\fs10}Okay, fine.{\r}
+
+1213
+01:09:14,150 --> 01:09:15,520
+蜜月呢
+{\fs10}Honeymoon?{\r}
+
+1214
+01:09:15,980 --> 01:09:17,650
+去苏格兰  住小旅馆
+{\fs10}Bed and breakfast in Scotland.{\r}
+
+1215
+01:09:17,730 --> 01:09:20,190
+苏格兰可不值得让我脱掉小裤裤
+{\fs10}I am not taking my pants off for Scotland.{\r}
+
+1216
+01:09:20,320 --> 01:09:22,820
+但是我们的钱只够去那  快  脱掉内裤
+{\fs10}But it's all we can afford. Take off your pants.{\r}
+
+1217
+01:09:22,900 --> 01:09:24,030
+不脱
+{\fs10}I will not.{\r}
+
+1218
+01:09:24,160 --> 01:09:25,240
+脱掉内裤
+{\fs10}Take off your pants!{\r}
+
+1219
+01:09:25,410 --> 01:09:27,700
+我想去巴厘岛待两个星期
+{\fs10}I want two weeks in Bali!{\r}
+
+1220
+01:09:27,830 --> 01:09:29,160
+脱掉内裤
+{\fs10}Take off those pants!{\r}
+
+1221
+01:09:36,210 --> 01:09:38,040
+-你计划间歇了吗   -没有
+{\fs10}- Have you planned a break? - No.{\r}
+
+1222
+01:09:47,930 --> 01:09:51,680
+不  是你吗  不是我
+{\fs10}No! Is that you? It wasn't me.{\r}
+
+1223
+01:10:11,740 --> 01:10:13,290
+这是给你的
+{\fs10}It's for you.{\r}
+
+1224
+01:10:47,200 --> 01:10:49,110
+不  我被勾住了  我来我来
+{\fs10}No, I'm caught! I've got it. I've got it!{\r}
+
+1225
+01:10:49,530 --> 01:10:50,660
+帮帮我
+{\fs10}Help me!{\r}
+
+1226
+01:10:55,500 --> 01:10:56,790
+好
+{\fs10}Yes!{\r}
+
+1227
+01:11:00,380 --> 01:11:01,920
+对  跟着我
+{\fs10}Right, follow me!{\r}
+
+1228
+01:11:04,340 --> 01:11:05,840
+天哪
+{\fs10}My gosh!{\r}
+
+1229
+01:11:07,800 --> 01:11:09,180
+天哪
+{\fs10}My God!{\r}
+
+1230
+01:11:11,970 --> 01:11:12,970
+神哪
+{\fs10}God!{\r}
+
+1231
+01:11:20,020 --> 01:11:21,230
+真是个玩笑
+{\fs10}It's a joke!{\r}
+
+1232
+01:11:24,860 --> 01:11:25,860
+给
+{\fs10}Here.{\r}
+
+1233
+01:11:30,870 --> 01:11:32,490
+对  快来
+{\fs10}Yes, come on.{\r}
+
+1234
+01:11:32,830 --> 01:11:34,030
+这边
+{\fs10}This way.{\r}
+
+1235
+01:11:49,180 --> 01:11:50,880
+天哪
+{\fs10}My God!{\r}
+
+1236
+01:12:18,660 --> 01:12:20,160
+我是罗利
+{\fs10}I'm Rory.{\r}
+
+1237
+01:12:21,210 --> 01:12:25,710
+蒂姆让我当他的伴郎的时候  我吓坏了
+{\fs10}When Tim asked me to be his Best Man, I was terrified.{\r}
+
+1238
+01:12:25,840 --> 01:12:28,550
+所以我想最好是去找一本
+{\fs10}So I thought best thing is to find{\r}
+
+1239
+01:12:28,670 --> 01:12:31,380
+关于演讲的书  这本就是
+{\fs10}a book about speeches. And here it is.{\r}
+
+1240
+01:12:32,180 --> 01:12:35,930
+书上说想想有趣的轶事
+{\fs10}And it says think of really funny anecdotes.{\r}
+
+1241
+01:12:36,850 --> 01:12:41,810
+工作时候  有件非常好笑的事
+{\fs10}And there is a very hilarious story, actually from work.{\r}
+
+1242
+01:12:42,520 --> 01:12:45,480
+这个笑话基于一个挺复杂的案子
+{\fs10}It was quite a complicated case based on an issue of{\r}
+
+1243
+01:12:45,610 --> 01:12:47,440
+有关离婚后
+{\fs10}cross-amortisation of ownership of{\r}
+
+1244
+01:12:47,530 --> 01:12:49,110
+财产所有权跨摊销
+{\fs10}post-divorce properties and, um...{\r}
+
+1245
+01:12:51,240 --> 01:12:54,070
+我解释一下背景  被告...
+{\fs10}Let me just explain the context. The Defendant...{\r}
+
+1246
+01:12:57,870 --> 01:13:00,120
+蒂姆让我做伴郎演讲时
+{\fs10}When Tim asked me to do his Best Man speech,{\r}
+
+1247
+01:13:00,250 --> 01:13:02,500
+我当即的反应是
+{\fs10}my immediate reaction was,{\r}
+
+1248
+01:13:02,620 --> 01:13:04,540
+你要付我多少钱  小混球
+{\fs10}"How much are you gonna pay me, you little shit?{\r}
+
+1249
+01:13:04,630 --> 01:13:06,920
+我写的东西可得花钱买
+{\fs10}"I don't write for free, you know."{\r}
+
+1250
+01:13:07,000 --> 01:13:10,130
+这些是那时他有机可趁的姑娘们
+{\fs10}These were the girls available to him at that time.{\r}
+
+1251
+01:13:10,260 --> 01:13:13,510
+姑娘们好  而这是他跟她们的距离
+{\fs10}"Hello, girls." And this is how far he got with each of them.{\r}
+
+1252
+01:13:13,630 --> 01:13:16,720
+我来解释编号的含义  5代表口交
+{\fs10}Let me explain the code. 5, blow job.{\r}
+
+1253
+01:13:19,430 --> 01:13:22,040
+8代表完全深入...
+{\fs10}8, full penetrative...{\r}
+
+1254
+01:13:22,040 --> 01:13:23,640
+那么我们敬一杯
+{\fs10}And so a toast{\r}
+
+1255
+01:13:23,770 --> 01:13:25,730
+给这间屋子发型最糟糕
+{\fs10}to the man with the worst haircut{\r}
+
+1256
+01:13:25,860 --> 01:13:27,810
+但是人最好的新郎
+{\fs10}but the best bride in the room.{\r}
+
+1257
+01:13:28,270 --> 01:13:30,030
+女士们先生们  蒂姆和玛丽
+{\fs10}Ladies and gentlemen, Tim and Mary.{\r}
+
+1258
+01:13:30,150 --> 01:13:32,150
+蒂姆和玛丽
+{\fs10}Tim and Mary.{\r}
+
+1259
+01:13:32,950 --> 01:13:34,030
+是我们
+{\fs10}That's us.{\r}
+
+1260
+01:13:34,990 --> 01:13:36,950
+我要是说了"我爱你"就好了
+{\fs10}I wish I'd said "I love you".{\r}
+
+1261
+01:13:37,080 --> 01:13:38,740
+你说了  爸爸
+{\fs10}You did, Dad.{\r}
+
+1262
+01:13:39,160 --> 01:13:40,410
+话里的意思就是
+{\fs10}It was implied.{\r}
+
+1263
+01:13:40,540 --> 01:13:44,620
+我觉得婚礼上搞"话中话"不大好
+{\fs10}I'm not sure "implied" is good enough for a wedding day, are you?{\r}
+
+1264
+01:13:44,750 --> 01:13:46,920
+不  别那么做  这样就好
+{\fs10}No, don't do it, it's fine.{\r}
+
+1265
+01:13:47,040 --> 01:13:50,880
+现在这样我就很高兴  真的不用
+{\fs10}I'm so happy with it as it was. You really don't have to.{\r}
+
+1266
+01:13:51,010 --> 01:13:53,300
+我要按我想的做  小伙子
+{\fs10}I'll do what I wanna do, young man.{\r}
+
+1267
+01:13:53,420 --> 01:13:55,680
+我能先离开一下吗
+{\fs10}Will you excuse me for just one moment?{\r}
+
+1268
+01:13:57,600 --> 01:14:00,510
+待会儿我会给你们讲述
+{\fs10}Later on I may tell you about{\r}
+
+1269
+01:14:00,640 --> 01:14:05,020
+蒂姆作为男人以及乒乓球选手的许多失败故事
+{\fs10}Tim's many failings as a man and as a table tennis player.{\r}
+
+1270
+01:14:05,140 --> 01:14:06,140
+但是
+{\fs10}But,{\r}
+
+1271
+01:14:06,440 --> 01:14:08,770
+重要的是先说一件大事
+{\fs10}important first to say the one{\r}
+
+1272
+01:14:10,570 --> 01:14:13,280
+我一生中
+{\fs10}big thing, I've only loved{\r}
+
+1273
+01:14:13,400 --> 01:14:16,740
+只爱过三个男人
+{\fs10}three men in my life.{\r}
+
+1274
+01:14:17,200 --> 01:14:19,240
+我爸爸是个冷酷的讨厌鬼
+{\fs10}My dad was a frosty bugger so that{\r}
+
+1275
+01:14:19,370 --> 01:14:21,410
+所以第一位是亲爱的德斯蒙德叔叔
+{\fs10}only leaves dear Uncle Desmond,{\r}
+
+1276
+01:14:23,960 --> 01:14:27,710
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}美国布鲁斯吉他手和歌曲作者  2003滚石杂志排名第三吉他手
+最伟大的布鲁斯音乐家之一  外号"布鲁斯之王"
+
+1277
+01:14:23,960 --> 01:14:26,170
+第二位当然是B·B·金
+{\fs10}B.B. King, obviously,{\r}
+
+1278
+01:14:26,170 --> 01:14:27,710
+还有就是这个小伙子
+{\fs10}and this young man here.{\r}
+
+1279
+01:14:28,420 --> 01:14:32,750
+我只给将结婚的人一条建议
+{\fs10}I'd only give one piece of advice to anyone marrying.{\r}
+
+1280
+01:14:33,460 --> 01:14:36,300
+我们最终都差不多
+{\fs10}We're all quite similar in the end.{\r}
+
+1281
+01:14:36,430 --> 01:14:40,050
+我们年华老去  境况大同小异
+{\fs10}We all get old and tell the same tales too many times.{\r}
+
+1282
+01:14:40,140 --> 01:14:43,470
+但是试着跟一个
+{\fs10}But try and marry someone{\r}
+
+1283
+01:14:44,890 --> 01:14:45,890
+善良的人结合
+{\fs10}kind.{\r}
+
+1284
+01:14:46,640 --> 01:14:48,980
+而这是一位有着好心肠的
+{\fs10}And this is a kind man{\r}
+
+1285
+01:14:49,650 --> 01:14:51,400
+善良男人
+{\fs10}with a good heart.{\r}
+
+1286
+01:14:51,770 --> 01:14:54,650
+我一生中没有很多
+{\fs10}I'm not particularly proud{\r}
+
+1287
+01:14:54,780 --> 01:14:58,410
+特别自豪的事  但是作为他的父亲
+{\fs10}of many things in my life, but I am very proud{\r}
+
+1288
+01:15:00,070 --> 01:15:02,080
+我十分自豪
+{\fs10}to be the father of my son.{\r}
+
+1289
+01:15:05,580 --> 01:15:09,920
+很抱歉打断你  但能跟你要个签名吗
+{\fs10}I'm so sorry to disturb you, but I wonder if I could have your autograph.{\r}
+
+1290
+01:15:10,000 --> 01:15:12,040
+不  不行
+{\fs10}No. No.{\r}
+
+1291
+01:15:12,630 --> 01:15:13,910
+我在婚礼上呢  老天啊
+{\fs10}I'm at a wedding, for God's sake.{\r}
+
+1292
+01:15:13,960 --> 01:15:16,300
+我在这里庆祝真爱  而不是
+{\fs10}I'm here to celebrate true love not{\r}
+
+1293
+01:15:16,420 --> 01:15:18,800
+在一张纸上随便签个名
+{\fs10}scribble my illegible signature on stupid{\r}
+
+1294
+01:15:18,930 --> 01:15:21,300
+好让你放到网上拍卖
+{\fs10}bits of paper that you can flog on eBay{\r}
+
+1295
+01:15:21,430 --> 01:15:24,600
+换点钱买个不这么丑的帽子戴
+{\fs10}so that at the next wedding you can wear a less hideous hat.{\r}
+
+1296
+01:15:24,770 --> 01:15:27,100
+你好像见过我的梅姑姑了
+{\fs10}I see you've met my Aunt May.{\r}
+
+1297
+01:15:27,190 --> 01:15:30,980
+神啊  大家要是都戴着姓名牌就好了
+{\fs10}God. People should wear name tags.{\r}
+
+1298
+01:15:32,110 --> 01:15:34,190
+下一个就是你了  琪凯
+{\fs10}You next, Kittle Kattle.{\r}
+
+1299
+01:15:35,440 --> 01:15:37,440
+我也不知道  D舅舅
+{\fs10}I don't know, Uncle D.{\r}
+
+1300
+01:15:39,280 --> 01:15:41,160
+男生对我都不怎么好
+{\fs10}Boys aren't very nice.{\r}
+
+1301
+01:15:41,700 --> 01:15:43,280
+真的吗  亲爱的
+{\fs10}Aren't they, darling?{\r}
+
+1302
+01:15:43,780 --> 01:15:45,660
+据我所知是这样的
+{\fs10}Not in my experience.{\r}
+
+1303
+01:15:46,790 --> 01:15:48,790
+他们永远都是随随便便的
+{\fs10}They're always taking liberties,{\r}
+
+1304
+01:15:48,960 --> 01:15:51,000
+不懂得报答别人
+{\fs10}not giving much back in return.{\r}
+
+1305
+01:15:54,840 --> 01:15:56,380
+-好吃  -是吗
+{\fs10}- It's yummy. - Yeah?{\r}
+
+1306
+01:15:56,510 --> 01:15:58,630
+我喜欢你说好吃的样子
+{\fs10}I like the way you say 'yummy'.{\r}
+
+1307
+01:16:06,470 --> 01:16:09,640
+你会不会希望我们当初挑了个晴朗的日子
+{\fs10}Do you wish we'd picked another less wet day?{\r}
+
+1308
+01:16:09,730 --> 01:16:10,730
+不会
+{\fs10}No.{\r}
+
+1309
+01:16:11,810 --> 01:16:13,690
+根本不会
+{\fs10}Not for the world.{\r}
+
+1310
+01:16:18,860 --> 01:16:21,200
+这就开始了
+{\fs10}And so it begins.{\r}
+
+1311
+01:16:21,660 --> 01:16:24,570
+丰富多彩的每日生活
+{\fs10}Lots and lots of types of days.{\r}
+
+1312
+01:16:25,490 --> 01:16:26,490
+多有趣
+{\fs10}Fun!{\r}
+
+1313
+01:16:33,000 --> 01:16:34,000
+叫波丝吧
+{\fs10}Posy.{\r}
+
+1314
+01:16:35,630 --> 01:16:37,340
+听你的
+{\fs10}Posy she is.{\r}
+
+1315
+01:16:37,960 --> 01:16:40,170
+世界上最漂亮的小姑娘
+{\fs10}The most beautiful girl in the world.{\r}
+
+1316
+01:16:43,550 --> 01:16:47,560
+想让爸爸抱了吧  我懂你的
+{\fs10}You want your daddy. Yes, I know.{\r}
+
+1317
+01:16:50,850 --> 01:16:51,850
+好嘞
+{\fs10}Yeah.{\r}
+
+1318
+01:16:54,900 --> 01:16:56,280
+没人能帮你做准备
+{\fs10}No one can ever prepare you for{\r}
+
+1319
+01:16:56,320 --> 01:16:58,530
+迎接即将到来的婴儿
+{\fs10}what happens when you have a child.{\r}
+
+1320
+01:16:58,690 --> 01:17:00,280
+当看到怀中的小孩子
+{\fs10}When you see the baby in your arms{\r}
+
+1321
+01:17:00,360 --> 01:17:02,990
+你就会明白现在这就是你的责任了
+{\fs10}and you know that it's your job now.{\r}
+
+1322
+01:17:03,910 --> 01:17:07,740
+你无法对未知的爱与恐惧做好心理准备
+{\fs10}No one can prepare you for the love and the fear.{\r}
+
+1323
+01:17:09,370 --> 01:17:11,330
+她真可爱
+{\fs10}She's lovely.{\r}
+
+1324
+01:17:12,370 --> 01:17:14,370
+你刚出生时可丑了
+{\fs10}You were such an ugly baby.{\r}
+
+1325
+01:17:14,710 --> 01:17:16,380
+不像小孩  像黑猩猩
+{\fs10}More chimpanzee than child.{\r}
+
+1326
+01:17:17,040 --> 01:17:18,550
+我还记得第一次见到你的时候
+{\fs10}I remember the first time I saw you,{\r}
+
+1327
+01:17:18,630 --> 01:17:21,020
+我很感谢上帝我们离伦敦动物园不远
+{\fs10}I thanked God we were in{\r}
+
+1328
+01:17:21,020 --> 01:17:21,550
+开车就到
+{\fs10}driving distance of London Zoo.{\r}
+
+1329
+01:17:22,760 --> 01:17:24,260
+来来  把这个小家伙抱过来
+{\fs10}Come on, hand over the little bugger,{\r}
+
+1330
+01:17:24,340 --> 01:17:25,840
+看看她会不会扭来扭去
+{\fs10}let's see if she bounces.{\r}
+
+1331
+01:17:25,930 --> 01:17:27,720
+当然啦  她肯定会扭
+{\fs10}Yeah, she definitely will bounce.{\r}
+
+1332
+01:17:27,890 --> 01:17:29,010
+看啊
+{\fs10}Look.{\r}
+
+1333
+01:17:29,140 --> 01:17:30,270
+她什么都做得到
+{\fs10}She can do anything.{\r}
+
+1334
+01:17:30,390 --> 01:17:32,350
+看啊  你好啊
+{\fs10}Look. Hello.{\r}
+
+1335
+01:17:34,560 --> 01:17:36,020
+小宝贝
+{\fs10}Sweetheart.{\r}
+
+1336
+01:17:37,060 --> 01:17:38,770
+你无法预料自己所爱的人们
+{\fs10}No one can prepare you for the love{\r}
+
+1337
+01:17:38,900 --> 01:17:40,690
+会感受到什么样的爱
+{\fs10}people you love can feel for them.{\r}
+
+1338
+01:17:42,900 --> 01:17:44,320
+而且也没法预料
+{\fs10}And nothing can prepare you for{\r}
+
+1339
+01:17:44,410 --> 01:17:46,370
+那些没生小孩的朋友们的冷漠
+{\fs10}the indifference of friends who don't have babies.{\r}
+
+1340
+01:17:46,450 --> 01:17:48,240
+想让杰叔叔抱抱吗
+{\fs10}Do you wanna go to Uncle Jay?{\r}
+
+1341
+01:17:48,410 --> 01:17:50,240
+不用了  谢谢  我这样很好
+{\fs10}No, thanks, it's fine. It's great.{\r}
+
+1342
+01:17:50,580 --> 01:17:52,790
+你还会惊讶这么快就得
+{\fs10}And it's a shock how quickly you have to move{\r}
+
+1343
+01:17:52,870 --> 01:17:55,710
+搬到一个费用不菲的的新家
+{\fs10}to a new place you completely can't afford.{\r}
+
+1344
+01:17:56,290 --> 01:17:57,750
+瞧这是什么
+{\fs10}Look what we found.{\r}
+
+1345
+01:17:57,880 --> 01:17:59,290
+快看它是谁
+{\fs10}Look who it is!{\r}
+
+1346
+01:17:59,880 --> 01:18:00,960
+亲爱的
+{\fs10}Honey!{\r}
+
+1347
+01:18:01,090 --> 01:18:02,210
+抱歉
+{\fs10}Sorry.{\r}
+
+1348
+01:18:04,930 --> 01:18:08,600
+突然之间  时空旅行好似毫无必要
+{\fs10}Suddenly, time travel seems almost unnecessary,{\r}
+
+1349
+01:18:08,720 --> 01:18:10,760
+因为生活中的其他部分都如此令人振奋
+{\fs10}because every detail of life is so delightful.{\r}
+
+1350
+01:18:18,270 --> 01:18:19,730
+它叫什么名字
+{\fs10}What's his name?{\r}
+
+1351
+01:18:19,820 --> 01:18:20,940
+霍勒斯  我猜的
+{\fs10}Horace, I think.{\r}
+
+1352
+01:18:21,110 --> 01:18:22,230
+那肯定就叫这个
+{\fs10}Of course it is.{\r}
+
+1353
+01:18:22,320 --> 01:18:24,530
+我听说  作为教父唯一的重点就是
+{\fs10}Only one important thing for a godfather, I'm told,{\r}
+
+1354
+01:18:24,610 --> 01:18:26,950
+永远不要给小孩买比它身体还小的礼物
+{\fs10}never bring a present smaller than the child.{\r}
+
+1355
+01:18:27,110 --> 01:18:29,450
+闭嘴吧  你这个自以为是的混蛋
+{\fs10}Shut up, you smug bastard.{\r}
+
+1356
+01:18:29,580 --> 01:18:31,450
+别担心了  我什么东西都没带
+{\fs10}Don't worry, I didn't bring anything at all.{\r}
+
+1357
+01:18:31,620 --> 01:18:33,500
+她不会注意到的  脑子还没发育呢
+{\fs10}She'll never know. Hasn't got a brain yet.{\r}
+
+1358
+01:18:33,620 --> 01:18:35,620
+没想到在这里能见到你  哈利
+{\fs10}I didn't expect to see you here, Harry.{\r}
+
+1359
+01:18:35,790 --> 01:18:37,790
+儿童聚会好像不是你的风格
+{\fs10}Children's party's not exactly your style.{\r}
+
+1360
+01:18:37,960 --> 01:18:39,600
+没错  玛丽  我被骗了
+{\fs10}No, Mary, I was tricked.{\r}
+
+1361
+01:18:39,600 --> 01:18:41,130
+他们跟我说有免费酒喝的
+{\fs10}I was told there would be free booze.{\r}
+
+1362
+01:18:43,010 --> 01:18:45,130
+我讨厌小孩子  你知道的
+{\fs10}I hate kids, as you know.{\r}
+
+1363
+01:18:45,300 --> 01:18:46,930
+话说奇巧去哪了
+{\fs10}Where's Kit Kat, by the way?{\r}
+
+1364
+01:18:47,260 --> 01:18:50,260
+不知道  她说3点左右过来
+{\fs10}I don't know, she said she'd be here around 3:00.{\r}
+
+1365
+01:18:50,350 --> 01:18:53,680
+你看我们还特别为她准备了紫色蛋糕
+{\fs10}And you know we got purple cupcakes for her especially.{\r}
+
+1366
+01:18:53,770 --> 01:18:55,480
+她来了
+{\fs10}Here she is!{\r}
+
+1367
+01:18:55,640 --> 01:18:57,080
+说曹操  曹操到
+{\fs10}Speak of the devil, that will be her.{\r}
+
+1368
+01:18:58,810 --> 01:19:01,310
+我们等奇巧姑姑来了再吃
+{\fs10}We'll wait till Aunty Kit Kat gets here.{\r}
+
+1369
+01:19:02,320 --> 01:19:03,820
+你好  吉米
+{\fs10}Hey. Jimmy.{\r}
+
+1370
+01:19:03,980 --> 01:19:05,490
+我妹妹呢
+{\fs10}Where's my sister?{\r}
+
+1371
+01:19:06,820 --> 01:19:07,820
+我还以为她在这里
+{\fs10}Thought she was here.{\r}
+
+1372
+01:19:07,950 --> 01:19:08,990
+没有  她还没到
+{\fs10}No, she hasn't arrived.{\r}
+
+1373
+01:19:10,870 --> 01:19:12,410
+这可不妙
+{\fs10}That's not good.{\r}
+
+1374
+01:19:12,910 --> 01:19:14,580
+你什么意思
+{\fs10}What does that mean?{\r}
+
+1375
+01:19:14,700 --> 01:19:18,210
+我们今天早上吵了一架
+{\fs10}Um... We had an argument this morning.{\r}
+
+1376
+01:19:18,330 --> 01:19:20,580
+就鸡毛蒜皮的小事  但她喝醉了
+{\fs10}Over nothing, but she'd been drinking, so...{\r}
+
+1377
+01:19:21,500 --> 01:19:25,050
+然后她就跑出家门开车来这
+{\fs10}And then she ran out to get the car to come here and{\r}
+
+1378
+01:19:25,170 --> 01:19:27,550
+我跟她说在这里碰面
+{\fs10}I told her to meet me here so...{\r}
+
+1379
+01:19:27,930 --> 01:19:31,340
+有一首巴兹·鲁尔曼的歌叫防晒霜
+{\fs10}There's a song by Baz Luhrmann called Sunscreen.{\r}
+
+1380
+01:19:31,510 --> 01:19:33,680
+他说对未来的事情担忧
+{\fs10}He says worrying about the future{\r}
+
+1381
+01:19:33,760 --> 01:19:35,100
+就像用嚼口香糖
+{\fs10}is as effective as trying to solve{\r}
+
+1382
+01:19:35,180 --> 01:19:38,020
+解方程式一样  毫无意义
+{\fs10}an algebra equation by chewing bubble gum.{\r}
+
+1383
+01:19:38,690 --> 01:19:40,770
+生活中真正的麻烦
+{\fs10}The real troubles in your life{\r}
+
+1384
+01:19:40,900 --> 01:19:44,690
+永远是你意料之外的事情
+{\fs10}will always be things that never crossed your worried mind.{\r}
+
+1385
+01:19:58,250 --> 01:19:59,410
+怎么了
+{\fs10}What happened?{\r}
+
+1386
+01:20:01,210 --> 01:20:02,880
+我们吵架了
+{\fs10}We had a fight.{\r}
+
+1387
+01:20:03,380 --> 01:20:04,380
+然后
+{\fs10}And,{\r}
+
+1388
+01:20:05,710 --> 01:20:08,210
+大概我还没有完全清醒
+{\fs10}maybe I wasn't completely sober.{\r}
+
+1389
+01:20:10,050 --> 01:20:11,930
+-她怎么样  -不太好
+{\fs10}- How is she? - Not good.{\r}
+
+1390
+01:20:12,220 --> 01:20:14,390
+她什么时候从哪里走的
+{\fs10}When did she leave you? From where?{\r}
+
+1391
+01:20:14,560 --> 01:20:16,760
+我要精确的时间和地址
+{\fs10}I want it exact. Exact time. Exact address.{\r}
+
+1392
+01:20:26,570 --> 01:20:29,110
+我们回来了  抱歉  抱歉
+{\fs10}Here we are. Sorry, sorry.{\r}
+
+1393
+01:20:29,400 --> 01:20:30,650
+来吧
+{\fs10}Come on.{\r}
+
+1394
+01:20:31,660 --> 01:20:33,240
+天啊
+{\fs10}God.{\r}
+
+1395
+01:20:33,570 --> 01:20:35,580
+-你好  -把她接来了
+{\fs10}- Hi. - There she is.{\r}
+
+1396
+01:20:35,910 --> 01:20:37,910
+小婴儿住在这里吗
+{\fs10}Does a small baby live here?{\r}
+
+1397
+01:20:38,080 --> 01:20:42,250
+在  她可兴奋了  就在楼下
+{\fs10}Yes, and she's so excited. She's downstairs.{\r}
+
+1398
+01:20:42,830 --> 01:20:44,920
+生日快乐  波丝
+{\fs10}Happy birthday, Posy.{\r}
+
+1399
+01:20:47,130 --> 01:20:49,670
+抱歉  我必须去接奇巧
+{\fs10}I'm sorry. I had to pick up Kit Kat.{\r}
+
+1400
+01:20:49,800 --> 01:20:51,590
+我以为她会自己开过来呢
+{\fs10}I thought she was gonna drive herself.{\r}
+
+1401
+01:20:51,720 --> 01:20:53,510
+结果还是不行
+{\fs10}Turns out she couldn't.{\r}
+
+1402
+01:20:54,760 --> 01:20:56,890
+-她没事吧  -再说吧
+{\fs10}- She okay? - Later.{\r}
+
+1403
+01:20:59,230 --> 01:21:01,180
+我很担心奇巧
+{\fs10}I'm worried about Kit Kat.{\r}
+
+1404
+01:21:03,190 --> 01:21:05,190
+我知道
+{\fs10}Yeah. I know.{\r}
+
+1405
+01:21:05,860 --> 01:21:08,860
+我们喝茶的时候她一个人狂灌红酒
+{\fs10}She was drinking wine while we were drinking tea.{\r}
+
+1406
+01:21:09,490 --> 01:21:11,900
+吉米对她不好
+{\fs10}And Jimmy wasn't nice to her.{\r}
+
+1407
+01:21:12,030 --> 01:21:15,110
+而且她根本对紫色蛋糕不理不睬
+{\fs10}And she spurned the purple cupcakes.{\r}
+
+1408
+01:21:15,910 --> 01:21:18,240
+我们得改变一下这个事实
+{\fs10}We have to do something to fix it.{\r}
+
+1409
+01:21:20,410 --> 01:21:21,410
+对
+{\fs10}Yeah.{\r}
+
+1410
+01:21:22,410 --> 01:21:24,080
+但是你要知道
+{\fs10}But, you know,{\r}
+
+1411
+01:21:24,790 --> 01:21:26,300
+就算要改变事实
+{\fs10}if it's gonna be fixed,{\r}
+
+1412
+01:21:26,300 --> 01:21:29,050
+也应该让她自己来改变
+{\fs10}I think she probably has to do it herself.{\r}
+
+1413
+01:21:30,460 --> 01:21:31,460
+也许是
+{\fs10}Maybe.{\r}
+
+1414
+01:21:32,510 --> 01:21:34,010
+也许不是
+{\fs10}Maybe not.{\r}
+
+1415
+01:21:37,970 --> 01:21:40,220
+亲爱的  发生了什么事
+{\fs10}My darling. What's happened?{\r}
+
+1416
+01:21:40,560 --> 01:21:42,890
+你是这个世界上最棒的人
+{\fs10}You're the best person in the world.{\r}
+
+1417
+01:21:43,020 --> 01:21:45,310
+对我来说和我妻子一样重要  我不懂你
+{\fs10}You're top equal with my wife. I don't get it.{\r}
+
+1418
+01:21:47,020 --> 01:21:48,980
+也许  只是也许
+{\fs10}Maybe, just maybe,{\r}
+
+1419
+01:21:50,110 --> 01:21:51,860
+我是个失败者
+{\fs10}I'm the faller.{\r}
+
+1420
+01:21:52,740 --> 01:21:56,490
+每个家族都有一个失败者
+{\fs10}Every family has, like, someone who falls,{\r}
+
+1421
+01:21:56,820 --> 01:21:59,780
+成绩差  不停犯错
+{\fs10}who doesn't make the grade, who stumbles,{\r}
+
+1422
+01:21:59,910 --> 01:22:01,910
+人生一团糟
+{\fs10}who life trips up.{\r}
+
+1423
+01:22:02,450 --> 01:22:04,540
+也许我就是咱家的失败者
+{\fs10}Maybe I'm our faller.{\r}
+
+1424
+01:22:05,670 --> 01:22:08,880
+不是这样的
+{\fs10}No.{\r}
+
+1425
+01:22:15,970 --> 01:22:18,970
+好吧  我要告诉你一个秘密
+{\fs10}Okay. I'm gonna tell you a secret.{\r}
+
+1426
+01:22:19,100 --> 01:22:21,350
+你得保证不会说出去
+{\fs10}And you have to promise to keep it.{\r}
+
+1427
+01:22:21,640 --> 01:22:23,020
+我们一直都互相保守秘密
+{\fs10}We've always kept secrets.{\r}
+
+1428
+01:22:23,140 --> 01:22:24,520
+是吗
+{\fs10}We have?{\r}
+
+1429
+01:22:24,940 --> 01:22:27,600
+你保证你永远  永远  永远
+{\fs10}You promise you won't ever, ever, ever,{\r}
+
+1430
+01:22:27,770 --> 01:22:30,020
+永远  永远  永远  永远
+{\fs10}ever, ever, ever, ever,{\r}
+
+1431
+01:22:30,650 --> 01:22:33,320
+永远  永远都不说出去吗
+{\fs10}ever, ever, ever, ever tell?{\r}
+
+1432
+01:22:33,610 --> 01:22:34,610
+好
+{\fs10}Yes.{\r}
+
+1433
+01:22:40,330 --> 01:22:42,740
+我能时空旅行
+{\fs10}I can travel in time.{\r}
+
+1434
+01:22:45,830 --> 01:22:48,120
+为什么咱们要站在楼梯下的柜橱里
+{\fs10}Why are we standing in the cupboard under the stairs?{\r}
+
+1435
+01:22:48,250 --> 01:22:49,580
+因为我们要回到过去
+{\fs10}Because we're gonna go back in{\r}
+
+1436
+01:22:49,580 --> 01:22:51,760
+让你对未来发生的事做出改变
+{\fs10}time and you're gonna do some things differently.{\r}
+
+1437
+01:22:51,800 --> 01:22:53,670
+我就喜欢你说笑话
+{\fs10}I love it when you're funny.{\r}
+
+1438
+01:22:53,800 --> 01:22:56,050
+抓住我的手  闭上眼睛
+{\fs10}Grab my hand. Close your eyes.{\r}
+
+1439
+01:23:13,070 --> 01:23:16,490
+上帝啊  上帝啊
+{\fs10}My God! My God!{\r}
+
+1440
+01:23:17,200 --> 01:23:21,030
+他妈见鬼的上帝啊
+{\fs10}My arsing God in a box.{\r}
+
+1441
+01:23:25,950 --> 01:23:27,000
+不是吧
+{\fs10}You're kidding?{\r}
+
+1442
+01:23:27,080 --> 01:23:28,460
+我可以回到任何时刻
+{\fs10}I can go anywhere in time and{\r}
+
+1443
+01:23:28,460 --> 01:23:30,790
+但你却偏偏把我带到史上最烂的一次聚会
+{\fs10}you bring me back to the worst party of all time.{\r}
+
+1444
+01:23:30,920 --> 01:23:33,000
+好像是  走吧
+{\fs10}'Fraid so. Let's go.{\r}
+
+1445
+01:23:35,920 --> 01:23:36,960
+我们还有事情要做
+{\fs10}We've got work to do.{\r}
+
+1446
+01:23:37,090 --> 01:23:38,170
+什么事
+{\fs10}What work?{\r}
+
+1447
+01:23:38,300 --> 01:23:41,300
+确保你不会遇见吉米·金凯德
+{\fs10}Making sure you do not meet Jimmy Kincade.{\r}
+
+1448
+01:23:41,430 --> 01:23:42,850
+快点  这里
+{\fs10}Quick, in here.{\r}
+
+1449
+01:23:44,770 --> 01:23:46,350
+但是他马上就要和我坠入爱河了
+{\fs10}But he's about to fall in love with me!{\r}
+
+1450
+01:23:46,480 --> 01:23:48,100
+这次不会了
+{\fs10}Not this time he isn't.{\r}
+
+1451
+01:23:57,860 --> 01:24:01,200
+这边的美女是谁啊  你叫詹妮弗是不是
+{\fs10}Who's the pretty looking girl? It's Jennifer, isn't it?{\r}
+
+1452
+01:24:01,320 --> 01:24:02,490
+是啊
+{\fs10}Yeah.{\r}
+
+1453
+01:24:02,620 --> 01:24:03,830
+真狂野
+{\fs10}Wild!{\r}
+
+1454
+01:24:03,950 --> 01:24:05,280
+我喜欢你的裙子  詹妮弗
+{\fs10}I like your skirt, Jennifer.{\r}
+
+1455
+01:24:05,410 --> 01:24:06,740
+谢谢
+{\fs10}Thank you.{\r}
+
+1456
+01:24:06,870 --> 01:24:09,330
+好吧  我懂了
+{\fs10}Right, I get it.{\r}
+
+1457
+01:24:09,460 --> 01:24:10,710
+如果他没有遇到我
+{\fs10}If he hadn't met me,{\r}
+
+1458
+01:24:10,710 --> 01:24:13,540
+他就会找个别的女人上床
+{\fs10}he would have just had sex with someone else.{\r}
+
+1459
+01:24:13,960 --> 01:24:15,880
+要防患于未然吗
+{\fs10}Nip it in the bud?{\r}
+
+1460
+01:24:18,880 --> 01:24:20,550
+不好意思  吉米
+{\fs10}Excuse me, Jimmy.{\r}
+
+1461
+01:24:21,640 --> 01:24:23,550
+抱歉  我认识你吗
+{\fs10}Sorry. Do I know you?{\r}
+
+1462
+01:24:23,680 --> 01:24:25,510
+对  你认识
+{\fs10}Yeah, you do.{\r}
+
+1463
+01:24:26,100 --> 01:24:28,770
+咱俩很熟  抱歉
+{\fs10}Very well. Sorry.{\r}
+
+1464
+01:24:28,890 --> 01:24:31,230
+我打一开始就应该这么做的
+{\fs10}And this is what I should have done right at the start.{\r}
+
+1465
+01:24:37,320 --> 01:24:40,490
+新年快乐  各位  新年快乐
+{\fs10}Happy New Year, everybody. Happy New Year.{\r}
+
+1466
+01:24:40,610 --> 01:24:42,530
+快回柜橱里去
+{\fs10}And back to the cupboard.{\r}
+
+1467
+01:24:45,030 --> 01:24:46,200
+真惊人
+{\fs10}Amazing!{\r}
+
+1468
+01:24:46,490 --> 01:24:47,790
+然后会发生什么
+{\fs10}What happens now?{\r}
+
+1469
+01:24:47,910 --> 01:24:49,200
+天知道
+{\fs10}God knows.{\r}
+
+1470
+01:24:49,330 --> 01:24:51,710
+我只希望从现在开始
+{\fs10}What I'm hoping is that from this moment on you avoid{\r}
+
+1471
+01:24:51,750 --> 01:24:54,040
+你不会再招惹上这种肮脏小人了
+{\fs10}the sleazy bad guys because they're sleazy and bad.{\r}
+
+1472
+01:24:54,380 --> 01:24:56,750
+你什么时候变得这么严肃了
+{\fs10}When did you get so serious?{\r}
+
+1473
+01:24:56,880 --> 01:24:59,210
+自从我差点失去你那一次起
+{\fs10}Since it occurred to me that I might lose you.{\r}
+
+1474
+01:25:01,970 --> 01:25:04,680
+准备好  接下来可能很奇怪
+{\fs10}Brace yourself, this could be weird.{\r}
+
+1475
+01:25:05,220 --> 01:25:07,180
+一切都会被改变
+{\fs10}Things will have changed.{\r}
+
+1476
+01:25:13,560 --> 01:25:14,900
+上帝啊
+{\fs10}My God.{\r}
+
+1477
+01:25:15,020 --> 01:25:16,020
+什么
+{\fs10}What?{\r}
+
+1478
+01:25:16,190 --> 01:25:17,230
+是杰
+{\fs10}Jay.{\r}
+
+1479
+01:25:17,360 --> 01:25:19,150
+-你说的是那个杰吗  -对
+{\fs10}- Jay Jay? - Yes.{\r}
+
+1480
+01:25:19,820 --> 01:25:23,200
+他很迷人  天啊
+{\fs10}And he's adorable. My God.{\r}
+
+1481
+01:25:24,780 --> 01:25:25,780
+好吧
+{\fs10}Right,{\r}
+
+1482
+01:25:26,410 --> 01:25:27,910
+就这么办
+{\fs10}let's do this.{\r}
+
+1483
+01:25:33,870 --> 01:25:35,370
+你们俩快点
+{\fs10}Come on, you two.{\r}
+
+1484
+01:25:36,040 --> 01:25:39,090
+妈妈刚开了一包饼干
+{\fs10}Mum's just cracked open a packet of biscuits.{\r}
+
+1485
+01:25:44,380 --> 01:25:47,010
+我想起来有东西要给你
+{\fs10}I've got something in mind for you.{\r}
+
+1486
+01:25:47,100 --> 01:25:48,420
+我知道你准备说什么
+{\fs10}I know what you're gonna say.{\r}
+
+1487
+01:25:48,560 --> 01:25:49,960
+吃块饼干  然后来帮我个忙
+{\fs10}Have a biscuit and come and help me.{\r}
+
+1488
+01:25:51,430 --> 01:25:53,770
+剩下的留给D舅舅
+{\fs10}But leave the rest for Uncle D.{\r}
+
+1489
+01:25:56,230 --> 01:25:58,520
+其实只是收拾一下屋子
+{\fs10}It's just tidying really.{\r}
+
+1490
+01:25:58,900 --> 01:26:00,900
+-你还好吗  我很想你  -很好
+{\fs10}- You all right? I missed you. - Yeah.{\r}
+
+1491
+01:26:01,440 --> 01:26:04,070
+-你妈妈想让我去花园里帮忙  -好
+{\fs10}- Your mum wants me to do some gardening. - Okay.{\r}
+
+1492
+01:26:06,280 --> 01:26:09,160
+就是清理一下  长得乱糟糟的
+{\fs10}It's tidying up, it's all a bit out of control.{\r}
+
+1493
+01:26:09,240 --> 01:26:11,080
+所有死了的植物都清出去
+{\fs10}Anything that looks dead, out.{\r}
+
+1494
+01:26:11,250 --> 01:26:14,080
+我们要找这个  看到了吗  全部都要
+{\fs10}This is what we're looking for. Okay? All this.{\r}
+
+1495
+01:26:14,250 --> 01:26:15,580
+死掉的东西  看这个
+{\fs10}Dead stuff. See this.{\r}
+
+1496
+01:26:18,290 --> 01:26:20,710
+都被撕成碎片了  是不是
+{\fs10}They've torn them to shreds, haven't they?{\r}
+
+1497
+01:26:33,640 --> 01:26:35,430
+一切进展如何
+{\fs10}How did everything go?{\r}
+
+1498
+01:26:35,560 --> 01:26:37,310
+非常令人满意
+{\fs10}Immensely satisfactory.{\r}
+
+1499
+01:26:37,730 --> 01:26:41,230
+太好了  发生的所有事情都要告诉我
+{\fs10}I'm so happy. I wanna hear all about it.{\r}
+
+1500
+01:26:41,320 --> 01:26:43,530
+你能给我们做晚饭吗  因为我有点事
+{\fs10}Will you do dinner for us because there's something{\r}
+
+1501
+01:26:43,570 --> 01:26:45,410
+6点前必须完成  不然就要被炒了
+{\fs10}I have to do before 6:00 or I'll get fired?{\r}
+
+1502
+01:26:45,450 --> 01:26:48,740
+好的  乐意之至
+{\fs10}Yeah. I can't think of anything I'd love to do more.{\r}
+
+1503
+01:26:48,870 --> 01:26:51,950
+好啦  世界上最漂亮的小美人在哪里
+{\fs10}Okay, where is the most fabulous person in the world?{\r}
+
+1504
+01:26:52,120 --> 01:26:56,960
+过来让爸爸喂你吃米粉糊糊
+{\fs10}Come to your dad and get mashed up food shoved into your mouth!{\r}
+
+1505
+01:27:04,090 --> 01:27:05,550
+你好啊  小伙子
+{\fs10}Hello there, little boy.{\r}
+
+1506
+01:27:09,470 --> 01:27:10,930
+你就
+{\fs10}You just{\r}
+
+1507
+01:27:11,050 --> 01:27:13,470
+站在这里不要动  我马上回来
+{\fs10}wait there and I'll be back in a minute.{\r}
+
+1508
+01:27:25,820 --> 01:27:27,740
+爸  我能跟你稍微谈一下吗
+{\fs10}Dad, can I have a quick word?{\r}
+
+1509
+01:27:27,820 --> 01:27:29,660
+好的  没问题
+{\fs10}Yeah. Sure.{\r}
+
+1510
+01:27:31,660 --> 01:27:33,490
+我不能回到出生以前的时间了  是不是
+{\fs10}I can't go back past the birth again, can I?{\r}
+
+1511
+01:27:33,620 --> 01:27:35,410
+不行  我应该跟你说的
+{\fs10}No. I should have mentioned that.{\r}
+
+1512
+01:27:35,500 --> 01:27:38,040
+出生之前都没关系  但那个特定的时间点
+{\fs10}You're okay till it comes out but the exact{\r}
+
+1513
+01:27:38,170 --> 01:27:40,670
+一个特定的精子让你们有了
+{\fs10}sperm at the exact moment got you this{\r}
+
+1514
+01:27:40,830 --> 01:27:42,080
+这个孩子
+{\fs10}particular baby,{\r}
+
+1515
+01:27:42,170 --> 01:27:43,920
+所以如果你造成了任何一点细微变化
+{\fs10}so if you do anything the tiniest bit{\r}
+
+1516
+01:27:44,050 --> 01:27:45,800
+你生出来的孩子就会不同
+{\fs10}different, you'll have a different child.{\r}
+
+1517
+01:27:47,930 --> 01:27:52,600
+那昨天以前就再也不能变了吗  定格了
+{\fs10}So, every day up 'til yesterday is as it will always be? Lost?{\r}
+
+1518
+01:27:53,510 --> 01:27:55,810
+和其他人一样
+{\fs10}Just like for everyone else.{\r}
+
+1519
+01:27:55,970 --> 01:27:57,850
+好吧  很有意思
+{\fs10}Okay. Interesting.{\r}
+
+1520
+01:27:58,640 --> 01:28:01,310
+真难办  我爱你  爸爸  我得走了
+{\fs10}Tough. I love you, Dad. I've gotta go.{\r}
+
+1521
+01:28:25,710 --> 01:28:27,630
+回去吧
+{\fs10}Go home.{\r}
+
+1522
+01:28:27,710 --> 01:28:29,320
+除非能保证这种事情再也不发生
+{\fs10}We're not leaving this room until we find{\r}
+
+1523
+01:28:29,380 --> 01:28:33,180
+否则我们绝对不会离开这个房间一步
+{\fs10}a way of making sure this never happens again.{\r}
+
+1524
+01:28:46,020 --> 01:28:47,730
+你们现在该走了吧
+{\fs10}Will you go now?{\r}
+
+1525
+01:29:01,040 --> 01:29:03,420
+我必须得离开吉米  是不是
+{\fs10}I have to leave Jimmy, don't I?{\r}
+
+1526
+01:29:04,420 --> 01:29:05,920
+永远
+{\fs10}For good.{\r}
+
+1527
+01:29:06,880 --> 01:29:10,260
+而且我得戒酒
+{\fs10}And I have to stop drinking.{\r}
+
+1528
+01:29:13,180 --> 01:29:15,090
+而且不能再随便换工作了
+{\fs10}And stop leaving jobs.{\r}
+
+1529
+01:29:17,100 --> 01:29:21,180
+而且我要和一个无聊的好人
+{\fs10}And I have to go out with someone{\r}
+
+1530
+01:29:21,940 --> 01:29:24,600
+谈恋爱
+{\fs10}nice and boring.{\r}
+
+1531
+01:29:27,610 --> 01:29:28,770
+终于觉悟了
+{\fs10}Yay.{\r}
+
+1532
+01:29:32,110 --> 01:29:35,240
+对了  好人不一定无聊
+{\fs10}And, you know, nice isn't necessarily boring.{\r}
+
+1533
+01:29:35,370 --> 01:29:36,620
+比如?
+{\fs10}Like who?{\r}
+
+1534
+01:29:37,740 --> 01:29:39,240
+马特·达蒙
+{\fs10}Matt Damon?{\r}
+
+1535
+01:29:39,620 --> 01:29:40,950
+好耶
+{\fs10}Okay.{\r}
+
+1536
+01:29:41,960 --> 01:29:43,540
+我会和马特·达蒙约会的
+{\fs10}I'll go out with Matt Damon.{\r}
+
+1537
+01:29:43,620 --> 01:29:46,880
+跟我讲  你最近见过杰吗
+{\fs10}Tell me, have you seen Jay recently?{\r}
+
+1538
+01:29:46,960 --> 01:29:49,390
+你的那个头发翘翘的杰吗
+{\fs10}Your Jay? What, sticky-up hair Jay?{\r}
+
+1539
+01:29:49,390 --> 01:29:51,460
+看起来就像个提线木偶的杰吗
+{\fs10}Looks a bit like a muppet Jay?{\r}
+
+1540
+01:29:51,590 --> 01:29:52,590
+对
+{\fs10}Yes.{\r}
+
+1541
+01:29:53,430 --> 01:29:56,390
+我突然想到了他  他一直对你很有好感
+{\fs10}He just popped into my head. He's always had a crush on you.{\r}
+
+1542
+01:29:56,760 --> 01:29:58,760
+-真的吗  -真的
+{\fs10}- Really? - Yeah.{\r}
+
+1543
+01:30:00,430 --> 01:30:01,600
+好诡异
+{\fs10}Weird!{\r}
+
+1544
+01:30:01,730 --> 01:30:04,100
+考虑一下约他吃晚饭  你有时间吗
+{\fs10}Thinking of asking him to dinner. Are you free?{\r}
+
+1545
+01:30:04,230 --> 01:30:07,980
+可能吧  也许得先梳妆打扮一下
+{\fs10}Might be. Might have to freshen up a bit first.{\r}
+
+1546
+01:30:08,110 --> 01:30:10,360
+没错  你看起来惨死了
+{\fs10}Yeah. You look shit.{\r}
+
+1547
+01:30:17,030 --> 01:30:18,410
+乔安娜
+{\fs10}Joanna.{\r}
+
+1548
+01:30:18,530 --> 01:30:19,950
+感谢上帝  你们终于回来了
+{\fs10}Thank Christ you're back.{\r}
+
+1549
+01:30:20,080 --> 01:30:21,660
+这就是一场恶梦
+{\fs10}It's been a total nightmare.{\r}
+
+1550
+01:30:21,830 --> 01:30:23,450
+我懂  不过没关系的
+{\fs10}I know. It's all fine anyway.{\r}
+
+1551
+01:30:23,580 --> 01:30:25,080
+她在哪里
+{\fs10}Where is she?{\r}
+
+1552
+01:30:25,210 --> 01:30:27,070
+这是我这辈子最糟糕的一晚
+{\fs10}It was the single worst night of my life.{\r}
+
+1553
+01:30:27,070 --> 01:30:28,500
+波丝在哪里
+{\fs10}Where's Posy?{\r}
+
+1554
+01:30:29,210 --> 01:30:31,670
+找到啦  你好啊
+{\fs10}There she is! Hello!{\r}
+
+1555
+01:30:31,800 --> 01:30:34,510
+你好啊  你好
+{\fs10}Hello! Hello.{\r}
+
+1556
+01:30:34,630 --> 01:30:36,840
+亲爱的  你怎么样啊
+{\fs10}Darling, how are you doing?{\r}
+
+1557
+01:30:40,430 --> 01:30:42,350
+咱再生一个吧
+{\fs10}Let's have another one.{\r}
+
+1558
+01:30:44,140 --> 01:30:47,190
+去死吧  不要
+{\fs10}Screw that. No.{\r}
+
+1559
+01:30:49,060 --> 01:30:52,070
+生孩子很疼的  而且会变胖  肥得流油
+{\fs10}That hurt and I got fat. Like fat-fat.{\r}
+
+1560
+01:30:52,190 --> 01:30:54,490
+只胖了一点点  不是吗
+{\fs10}Got a little bit fat, didn't she.{\r}
+
+1561
+01:30:54,820 --> 01:30:56,780
+跟妈妈说你想要个小妹妹
+{\fs10}Tell Mummy you want a sister.{\r}
+
+1562
+01:30:56,910 --> 01:31:00,990
+不要  跟爸爸说你当独生女很高兴
+{\fs10}No. Tell Daddy you're happy being an only child.{\r}
+
+1563
+01:31:02,740 --> 01:31:05,120
+幸运的是  我们都还是无所顾忌的年轻人
+{\fs10}Fortunately we are young and careless and{\r}
+
+1564
+01:31:05,250 --> 01:31:07,670
+不久之后我们就变成了四口之家
+{\fs10}it wasn't long before there were four of us.{\r}
+
+1565
+01:31:07,790 --> 01:31:11,170
+不可思议  只有三岁的波丝·莱克
+{\fs10}And this is incredible. Posy Lake, only 3 years old,{\r}
+
+1566
+01:31:11,290 --> 01:31:14,260
+马上就打破女子10米跑的奥运会纪录了
+{\fs10}is about to break the women's 10 metre Olympic record.{\r}
+
+1567
+01:31:14,380 --> 01:31:16,820
+他们会成功的  他们跑过来了
+{\fs10}They're gonna do it. And here they are,{\r}
+
+1568
+01:31:16,820 --> 01:31:18,510
+他们做到了  了不起
+{\fs10}they've done it! Fantastic.{\r}
+
+1569
+01:31:18,640 --> 01:31:21,350
+你太棒了  表现真好
+{\fs10}That was brilliant. You're so good.{\r}
+
+1570
+01:31:21,470 --> 01:31:22,890
+这么吵都没被吵醒
+{\fs10}Sleeping right through all that.{\r}
+
+1571
+01:31:23,010 --> 01:31:25,270
+能帮个忙吗  我好紧张
+{\fs10}Can you help me? I'm so nervous.{\r}
+
+1572
+01:31:25,350 --> 01:31:27,690
+我们跟畅销书作者吃饭时穿什么比较好
+{\fs10}What do I wear for dinner with our bestselling author?{\r}
+
+1573
+01:31:27,810 --> 01:31:30,350
+先让我把怪兽画完  我就马上上去
+{\fs10}Let me finish up with the monsters and I'll come right up.{\r}
+
+1574
+01:31:30,480 --> 01:31:31,690
+好极了  谢谢
+{\fs10}Great. Thank you.{\r}
+
+1575
+01:31:32,020 --> 01:31:33,440
+继续
+{\fs10}Go again.{\r}
+
+1576
+01:31:33,860 --> 01:31:36,490
+好啦  这件怎么样
+{\fs10}Okay. How about this?{\r}
+
+1577
+01:31:36,610 --> 01:31:39,110
+很漂亮  任务完成  很好
+{\fs10}That's gorgeous. Job done. Yeah.{\r}
+
+1578
+01:31:39,240 --> 01:31:42,410
+不行  认真点挑  这个
+{\fs10}No. Take it seriously. It's...{\r}
+
+1579
+01:31:43,030 --> 01:31:46,040
+我不确定  不行  我不喜欢
+{\fs10}I don't know. No, I hate it.{\r}
+
+1580
+01:31:46,370 --> 01:31:48,080
+-没错  -这件没有亮点
+{\fs10}- Yeah. - It's boring and{\r}
+
+1581
+01:31:48,580 --> 01:31:51,460
+而且让我看起来疙疙瘩瘩的
+{\fs10}makes me look kind of lumpy.{\r}
+
+1582
+01:31:51,590 --> 01:31:52,410
+没错  你说得对
+{\fs10}No, you're right.{\r}
+
+1583
+01:31:52,410 --> 01:31:54,380
+确实没亮点  又都是疙瘩  我不喜欢
+{\fs10}It is boring and lumpy. I hate it.{\r}
+
+1584
+01:31:56,260 --> 01:31:58,130
+好吧  那这件呢
+{\fs10}Okay. What about this?{\r}
+
+1585
+01:31:58,510 --> 01:32:00,470
+美极了  就是它了
+{\fs10}Gorgeous. We did it.{\r}
+
+1586
+01:32:00,590 --> 01:32:03,180
+不行  胸露太多了
+{\fs10}No, it's too breasty.{\r}
+
+1587
+01:32:03,350 --> 01:32:05,390
+-是吗  -好吧
+{\fs10}- Is it? - Okay.{\r}
+
+1588
+01:32:05,520 --> 01:32:06,520
+这件没有很显胸
+{\fs10}It's not too breasty.{\r}
+
+1589
+01:32:06,600 --> 01:32:09,730
+不行  这双高跟鞋不能穿  看起来像妓女
+{\fs10}No. I'm not wearing these heels. I look like a prostitute.{\r}
+
+1590
+01:32:09,810 --> 01:32:11,440
+那就别穿高跟鞋了
+{\fs10}Not high heels, then.{\r}
+
+1591
+01:32:11,560 --> 01:32:13,150
+但是那样又会让腿显得很短
+{\fs10}But then we have the short legs problem.{\r}
+
+1592
+01:32:13,270 --> 01:32:15,770
+那你是想看起来像妓女还是矮子
+{\fs10}Well, do you want to look like a prostitute or a dwarf?{\r}
+
+1593
+01:32:16,900 --> 01:32:19,030
+小心  小心点说话
+{\fs10}Warning. That's a warning.{\r}
+
+1594
+01:32:22,700 --> 01:32:23,740
+很好
+{\fs10}Yes!{\r}
+
+1595
+01:32:23,870 --> 01:32:24,870
+不好
+{\fs10}No.{\r}
+
+1596
+01:32:28,790 --> 01:32:29,790
+不行
+{\fs10}No!{\r}
+
+1597
+01:32:30,830 --> 01:32:32,920
+这件我喜欢
+{\fs10}Now that I like.{\r}
+
+1598
+01:32:33,210 --> 01:32:35,670
+不是  我还在挑裙子
+{\fs10}No, I'm just picking up the dress{\r}
+
+1599
+01:32:35,800 --> 01:32:38,300
+这件是打底的  你真是个坏人
+{\fs10}that this goes under. Such a bad boy.{\r}
+
+1600
+01:32:40,720 --> 01:32:41,800
+这一件呢
+{\fs10}This one?{\r}
+
+1601
+01:32:41,970 --> 01:32:43,010
+不算太坏
+{\fs10}Not bad.{\r}
+
+1602
+01:32:43,640 --> 01:32:44,970
+还有这一件呢
+{\fs10}Or this one?{\r}
+
+1603
+01:32:45,100 --> 01:32:47,600
+-你在考我吧  这是同一件  -不是
+{\fs10}It's a trick question, isn't it? Same dress. - No!{\r}
+
+1604
+01:32:48,140 --> 01:32:49,180
+不是吗
+{\fs10}No?{\r}
+
+1605
+01:32:49,600 --> 01:32:51,770
+好啦  我觉得这件还不赖
+{\fs10}Okay. I don't think this one's too bad.{\r}
+
+1606
+01:32:52,190 --> 01:32:53,850
+没错  很漂亮
+{\fs10}Yeah, it's fabulous.{\r}
+
+1607
+01:32:54,310 --> 01:32:55,940
+-真的吗  -真的
+{\fs10}- Really? - Yeah.{\r}
+
+1608
+01:32:56,070 --> 01:32:58,400
+好吧  不错
+{\fs10}Okay. Great. Good.{\r}
+
+1609
+01:33:00,070 --> 01:33:01,780
+那件蓝色的怎么样
+{\fs10}How about the blue one?{\r}
+
+1610
+01:33:01,910 --> 01:33:02,740
+- 蓝色的  -是啊
+{\fs10}- The blue one? - Yeah.{\r}
+
+1611
+01:33:02,740 --> 01:33:03,570
+行啊
+{\fs10}Yeah.{\r}
+
+1612
+01:33:03,700 --> 01:33:06,870
+你是说没亮点又疙瘩的那件吗
+{\fs10}The first one that you tried on that was boring and lumpy,{\r}
+
+1613
+01:33:06,950 --> 01:33:08,550
+而实际上  它很惊艳  也不疙瘩
+{\fs10}but that wasn't actually boring and lumpy,{\r}
+
+1614
+01:33:08,550 --> 01:33:09,120
+是那件吗
+{\fs10}that one?{\r}
+
+1615
+01:33:09,200 --> 01:33:11,120
+对的  你觉得哪件好
+{\fs10}Yeah, which do you prefer?{\r}
+
+1616
+01:33:11,250 --> 01:33:13,170
+我不知道  跟你说  我快疯了
+{\fs10}I don't know. I'm actually starting to go mad.{\r}
+
+1617
+01:33:13,290 --> 01:33:14,670
+我貌似还是喜欢蓝色那件
+{\fs10}I think I like the blue one.{\r}
+
+1618
+01:33:14,830 --> 01:33:16,210
+-好吧  -就这样
+{\fs10}- Okay. - Yeah.{\r}
+
+1619
+01:33:17,670 --> 01:33:20,260
+好了好了  我还是穿这件走
+{\fs10}Okay. Okay, let's go with this one, then?{\r}
+
+1620
+01:33:20,380 --> 01:33:22,220
+你美翻了
+{\fs10}You look amazing.{\r}
+
+1621
+01:33:22,340 --> 01:33:23,510
+-真的吗  -真心的
+{\fs10}- Really? - Yes.{\r}
+
+1622
+01:33:23,640 --> 01:33:25,220
+那多谢了
+{\fs10}Okay, thanks.{\r}
+
+1623
+01:33:25,760 --> 01:33:27,430
+我的天啊
+{\fs10}God.{\r}
+
+1624
+01:33:27,890 --> 01:33:29,640
+波丝哪去了
+{\fs10}Where's Posy?{\r}
+
+1625
+01:33:29,930 --> 01:33:31,770
+我让她呆在楼下呢
+{\fs10}I left her downstairs.{\r}
+
+1626
+01:33:32,230 --> 01:33:35,560
+我放手稿那屋的门关了吧
+{\fs10}Not leaving the door open to the room with the manuscript in it?{\r}
+
+1627
+01:33:36,610 --> 01:33:38,270
+貌似没有
+{\fs10}I don't think so.{\r}
+
+1628
+01:33:39,110 --> 01:33:41,530
+看着我  看着我的眼睛
+{\fs10}Look at me. Look me in the eye.{\r}
+
+1629
+01:33:41,650 --> 01:33:42,910
+告诉我怎么办
+{\fs10}And talk me through this.{\r}
+
+1630
+01:33:42,910 --> 01:33:45,070
+-我离死不远了  -好啦
+{\fs10}- Basically my life is over. - OK.{\r}
+
+1631
+01:33:45,200 --> 01:33:47,780
+我出去两分钟  也许一分钟就够
+{\fs10}I really need to go out for just like two minutes, maybe one.{\r}
+
+1632
+01:33:47,910 --> 01:33:49,580
+你敢
+{\fs10}Don't you dare!{\r}
+
+1633
+01:33:50,660 --> 01:33:53,210
+你敢接  我该怎么办
+{\fs10}Don't you dare answer that! What am I gonna do?{\r}
+
+1634
+01:33:53,250 --> 01:33:55,790
+我觉得我们真的该接电话了
+{\fs10}I think that we should really answer the phone.{\r}
+
+1635
+01:33:55,830 --> 01:33:57,290
+你要是接了那鬼电话
+{\fs10}If you answer the goddamn phone,{\r}
+
+1636
+01:33:57,420 --> 01:33:58,880
+我就用电话砸死你
+{\fs10}I will kill you with the phone.{\r}
+
+1637
+01:33:58,960 --> 01:34:02,090
+我不接电话  但是我真的要出去一下
+{\fs10}I won't answer the phone, but I do need to get out.{\r}
+
+1638
+01:34:02,220 --> 01:34:04,220
+不行  不准出去  不准  不行
+{\fs10}No, no getting out, no getting out. No.{\r}
+
+1639
+01:34:04,340 --> 01:34:05,840
+好吧
+{\fs10}Okay, right.{\r}
+
+1640
+01:34:05,970 --> 01:34:07,550
+抱歉啊  麦克尤恩先生
+{\fs10}Sorry, Mr McEwan.{\r}
+
+1641
+01:34:07,680 --> 01:34:10,030
+您的作品我们看了一大部分了  但是吧
+{\fs10}We read most of your book but,{\r}
+
+1642
+01:34:10,030 --> 01:34:14,350
+剩下那些有的染了色  有的碎成了渣
+{\fs10}you see, the rest of it was coloured on or shredded.{\r}
+
+1643
+01:34:15,690 --> 01:34:16,690
+对的
+{\fs10}Yeah.{\r}
+
+1644
+01:34:17,730 --> 01:34:19,770
+我没想到波丝会用碎纸机
+{\fs10}I had no idea Posy actually knew how to use that machine{\r}
+
+1645
+01:34:19,900 --> 01:34:21,980
+这么想来  还挺值得高兴的
+{\fs10}in a way that's impressive.{\r}
+
+1646
+01:34:23,530 --> 01:34:26,200
+干嘛啊  有什么事
+{\fs10}What is it? How can I help you?{\r}
+
+1647
+01:34:28,910 --> 01:34:30,580
+是玛丽啊
+{\fs10}Oh, Mary.{\r}
+
+1648
+01:34:31,700 --> 01:34:33,870
+不是的  一切都...抱歉
+{\fs10}No, everything... Sorry.{\r}
+
+1649
+01:34:34,750 --> 01:34:36,710
+让你儿子解释吧
+{\fs10}Your son will explain.{\r}
+
+1650
+01:34:36,830 --> 01:34:38,330
+是你老妈
+{\fs10}It's your mother.{\r}
+
+1651
+01:34:39,000 --> 01:34:40,340
+喂  妈
+{\fs10}Hi, Mum.{\r}
+
+1652
+01:34:45,840 --> 01:34:47,840
+不不不  没事  我们...
+{\fs10}No, no, it's okay. We'll...{\r}
+
+1653
+01:34:48,050 --> 01:34:49,800
+我们马上就去
+{\fs10}We'll come straight down.{\r}
+
+1654
+01:34:50,680 --> 01:34:52,010
+好的  再见
+{\fs10}Okay, bye-bye.{\r}
+
+1655
+01:35:06,610 --> 01:35:07,950
+回来啦  亲爱的
+{\fs10}Hello, darling.{\r}
+
+1656
+01:35:08,110 --> 01:35:09,450
+妈妈  你好吗
+{\fs10}Mum. How are you?{\r}
+
+1657
+01:35:10,530 --> 01:35:11,620
+想听真话吗
+{\fs10}Honestly?{\r}
+
+1658
+01:35:11,740 --> 01:35:12,790
+当然
+{\fs10}Why not?{\r}
+
+1659
+01:35:13,200 --> 01:35:15,870
+气死我了
+{\fs10}I am fucking furious.{\r}
+
+1660
+01:35:16,500 --> 01:35:21,170
+没你爸爸的生活索然无味啊
+{\fs10}I am so uninterested in a life without your father.{\r}
+
+1661
+01:35:22,380 --> 01:35:24,630
+玛丽  走吧  我们泡点茶去
+{\fs10}Mary. Come on, let's make some tea.{\r}
+
+1662
+01:35:25,510 --> 01:35:26,630
+你还好吗
+{\fs10}How are you?{\r}
+
+1663
+01:35:26,800 --> 01:35:27,880
+挺好的
+{\fs10}Yeah, I'm fine.{\r}
+
+1664
+01:35:28,010 --> 01:35:29,130
+吃饭了吗
+{\fs10}Did you eat?{\r}
+
+1665
+01:35:29,260 --> 01:35:30,390
+吃了的
+{\fs10}Yes, of course.{\r}
+
+1666
+01:35:36,430 --> 01:35:37,480
+德斯蒙德
+{\fs10}Desmond.{\r}
+
+1667
+01:35:38,900 --> 01:35:39,730
+您过得如何
+{\fs10}How are you?{\r}
+
+1668
+01:35:39,810 --> 01:35:41,560
+我很好  谢谢关心
+{\fs10}I'm very well, thanks.{\r}
+
+1669
+01:35:41,980 --> 01:35:43,650
+就是有点热
+{\fs10}Though a little hot.{\r}
+
+1670
+01:35:47,820 --> 01:35:50,490
+你爸可能不太好
+{\fs10}Your father, I think, is not so well.{\r}
+
+1671
+01:35:51,490 --> 01:35:52,570
+得了癌症
+{\fs10}Cancer.{\r}
+
+1672
+01:35:53,830 --> 01:35:54,830
+是啊
+{\fs10}Yes.{\r}
+
+1673
+01:35:55,290 --> 01:35:57,790
+蒂姆  我真的很难过
+{\fs10}I'm very unhappy about it, Tim.{\r}
+
+1674
+01:35:59,790 --> 01:36:01,790
+他在你婚礼上说他爱我
+{\fs10}At your wedding he said he loved me.{\r}
+
+1675
+01:36:02,290 --> 01:36:04,290
+-他确实很爱你  -我知道的
+{\fs10}- He does. - I know.{\r}
+
+1676
+01:36:06,260 --> 01:36:08,590
+那是我今生最美好的日子
+{\fs10}That was the best day of my life.{\r}
+
+1677
+01:36:11,180 --> 01:36:13,510
+今天可能是最糟糕的日子
+{\fs10}So this is probably the worst.{\r}
+
+1678
+01:36:19,770 --> 01:36:20,770
+爸
+{\fs10}Dad.{\r}
+
+1679
+01:36:23,020 --> 01:36:24,940
+我的上帝
+{\fs10}For God's sake.{\r}
+
+1680
+01:36:25,480 --> 01:36:27,320
+你也来这套
+{\fs10}Not you, too.{\r}
+
+1681
+01:36:27,440 --> 01:36:28,490
+什么
+{\fs10}What?{\r}
+
+1682
+01:36:28,570 --> 01:36:30,920
+奇巧刚刚哭着走了
+{\fs10}Well, Kit Kat's just rolled up blubbing her eyes out{\r}
+
+1683
+01:36:30,920 --> 01:36:32,360
+现在你又来了
+{\fs10}and now you're here.{\r}
+
+1684
+01:36:32,450 --> 01:36:33,910
+妈妈怎么跟你说的
+{\fs10}What's Mum been saying?{\r}
+
+1685
+01:36:34,120 --> 01:36:35,160
+实话实说的
+{\fs10}The truth.{\r}
+
+1686
+01:36:35,290 --> 01:36:36,330
+好吧
+{\fs10}Yeah, well,{\r}
+
+1687
+01:36:37,500 --> 01:36:39,160
+还说什么了
+{\fs10}apart from that?{\r}
+
+1688
+01:36:40,080 --> 01:36:41,800
+可能是抽烟造成的
+{\fs10}It may have been the smoking{\r}
+
+1689
+01:36:41,800 --> 01:36:43,350
+但这个我改变不了
+{\fs10}but I couldn't undo that{\r}
+
+1690
+01:36:43,350 --> 01:36:45,670
+因为在你们出生前我就抽烟了
+{\fs10}as it was before you were all born.{\r}
+
+1691
+01:36:46,380 --> 01:36:46,820
+不管怎么说
+{\fs10}And anyway,{\r}
+
+1692
+01:36:46,820 --> 01:36:49,000
+要不是我抽烟的样子特别帅
+{\fs10}your mother definitely wouldn't have gone out with me{\r}
+
+1693
+01:36:49,080 --> 01:36:51,330
+你妈绝对不会跟我谈恋爱的
+{\fs10}if I hadn't been such a sexy smoker.{\r}
+
+1694
+01:36:54,430 --> 01:36:56,950
+我这发现的也算早的了
+{\fs10}I did get diagnosed as soon as possible,{\r}
+
+1695
+01:36:56,950 --> 01:36:58,560
+但还是太晚了
+{\fs10}but it was too late.{\r}
+
+1696
+01:37:00,440 --> 01:37:01,730
+还有多少日子
+{\fs10}How long have we got?{\r}
+
+1697
+01:37:01,900 --> 01:37:07,070
+可能  可能几年吧
+{\fs10}You know, it, it could be years.{\r}
+
+1698
+01:37:09,860 --> 01:37:11,530
+到底多久
+{\fs10}How long really?{\r}
+
+1699
+01:37:14,240 --> 01:37:15,870
+恐怕也就几周
+{\fs10}Weeks, I'm afraid.{\r}
+
+1700
+01:37:23,370 --> 01:37:25,880
+我们以前是不是有过这个对话了
+{\fs10}Have we had this conversation before?{\r}
+
+1701
+01:37:28,760 --> 01:37:29,760
+是的
+{\fs10}Yeah.{\r}
+
+1702
+01:37:31,510 --> 01:37:33,220
+然后发生了什么
+{\fs10}What happened?{\r}
+
+1703
+01:37:33,340 --> 01:37:35,890
+我很难过
+{\fs10}I rather let myself down.{\r}
+
+1704
+01:37:36,300 --> 01:37:37,970
+我拥抱了你
+{\fs10}I hugged you.{\r}
+
+1705
+01:37:57,280 --> 01:37:58,200
+抱歉
+{\fs10}Sorry.{\r}
+
+1706
+01:37:58,280 --> 01:38:01,040
+我刚在考虑时间旅行的问题
+{\fs10}I think I just thought with the time thing...{\r}
+
+1707
+01:38:01,660 --> 01:38:03,790
+不行  我从没说过我们能修正生活
+{\fs10}No, I never said we could fix things.{\r}
+
+1708
+01:38:03,960 --> 01:38:06,040
+我绝对没那么说过
+{\fs10}I specifically never said that.{\r}
+
+1709
+01:38:06,170 --> 01:38:08,670
+生活总是喜忧参半  无论你是谁
+{\fs10}Life's a mixed bag, no matter who you are.{\r}
+
+1710
+01:38:08,800 --> 01:38:10,710
+拿耶稣来说  他是神的儿子
+{\fs10}Look at Jesus. He was the Son of God,{\r}
+
+1711
+01:38:10,840 --> 01:38:11,720
+就算看在上帝份上吧
+{\fs10}for God's sake,{\r}
+
+1712
+01:38:11,720 --> 01:38:12,800
+但是你看他结局怎样
+{\fs10}and look how that turned out.{\r}
+
+1713
+01:38:12,920 --> 01:38:14,170
+我知道的  但是...
+{\fs10}I know, but...{\r}
+
+1714
+01:38:15,130 --> 01:38:17,590
+我还是想说  我觉得有点受骗了
+{\fs10}you must see I feel a bit cheated.{\r}
+
+1715
+01:38:17,720 --> 01:38:18,200
+别那么想
+{\fs10}Don't.{\r}
+
+1716
+01:38:18,200 --> 01:38:20,140
+实际上  你可以换个角度
+{\fs10}In fact, feel the opposite.{\r}
+
+1717
+01:38:20,310 --> 01:38:22,770
+唯一一个50岁就退休的人
+{\fs10}The only people who give up work at 50{\r}
+
+1718
+01:38:22,890 --> 01:38:25,140
+就是这个身患绝症的时空旅人
+{\fs10}are the time travellers with cancer{\r}
+
+1719
+01:38:25,310 --> 01:38:27,560
+他还想和儿子多打打乒乓球呢
+{\fs10}who want to play more table tennis with their sons.{\r}
+
+1720
+01:38:29,690 --> 01:38:30,690
+是啊
+{\fs10}Right.{\r}
+
+1721
+01:38:32,490 --> 01:38:34,490
+就这么换位思考吗
+{\fs10}So that's been the deal?{\r}
+
+1722
+01:38:36,820 --> 01:38:38,810
+很抱歉  我们必须得打给你
+{\fs10}I'm sorry we had to call.{\r}
+
+1723
+01:38:38,810 --> 01:38:40,490
+因为病情突然恶化了
+{\fs10}It's suddenly got very bad.{\r}
+
+1724
+01:38:46,290 --> 01:38:48,780
+可我还有很重要的事要告诉你
+{\fs10}And I have something very important to tell you.{\r}
+
+1725
+01:38:48,810 --> 01:38:51,340
+或者说  我看看
+{\fs10}Or, let me check,{\r}
+
+1726
+01:38:51,670 --> 01:38:54,300
+你是想让我告诉你这个大秘密呢
+{\fs10}do you want to know the big secret,{\r}
+
+1727
+01:38:54,380 --> 01:38:56,680
+还是像我一样自己去发现
+{\fs10}or would you rather find it out for yourself like I did?{\r}
+
+1728
+01:38:56,800 --> 01:38:58,840
+天啊  又有一个什么秘密
+{\fs10}Christ, there's another secret?{\r}
+
+1729
+01:38:59,680 --> 01:39:02,850
+没那么离奇  但是重要得多
+{\fs10}Less dramatic. Much more important.{\r}
+
+1730
+01:39:03,600 --> 01:39:06,270
+真正的重头戏
+{\fs10}The real mothership.{\r}
+
+1731
+01:39:08,860 --> 01:39:11,360
+继续说吧  告诉我
+{\fs10}No, go on. Tell me.{\r}
+
+1732
+01:39:11,690 --> 01:39:13,650
+我们别浪费时间了
+{\fs10}Let's save some time.{\r}
+
+1733
+01:39:18,870 --> 01:39:22,530
+于是他告诉了我他关于幸福的秘密公式
+{\fs10}And so he told me his secret formula for happiness.{\r}
+
+1734
+01:39:24,540 --> 01:39:26,620
+这个规划分两部分  第一部分是
+{\fs10}Part one of the two part plan{\r}
+
+1735
+01:39:26,750 --> 01:39:28,790
+我应该恢复正常的生活
+{\fs10}was that I should just get on with ordinary life,{\r}
+
+1736
+01:39:28,880 --> 01:39:31,880
+一天一天的过  和普通人一样
+{\fs10}living it day by day, like anyone else.{\r}
+
+1737
+01:39:37,380 --> 01:39:39,360
+这是我们目前的陈词
+{\fs10}This is our current statement{\r}
+
+1738
+01:39:39,360 --> 01:39:42,220
+修正了一段  标出来了
+{\fs10}with a revised paragraph there, highlighted.{\r}
+
+1739
+01:39:45,560 --> 01:39:46,080
+鲁伯特
+{\fs10}Rupert.{\r}
+
+1740
+01:39:46,080 --> 01:39:47,890
+鲁伯特  这就是你最好的水平了么
+{\fs10}Rupert, is that the best you can do?{\r}
+
+1741
+01:39:49,020 --> 01:39:52,230
+不  当然不是了  我们可以再改改
+{\fs10}No. Absolutely not. We can change that.{\r}
+
+1742
+01:39:52,360 --> 01:39:53,860
+第二条款
+{\fs10}Item number two.{\r}
+
+1743
+01:40:01,370 --> 01:40:02,400
+-你好  -下午好  先生
+{\fs10}- Hi. - Good afternoon, sir.{\r}
+
+1744
+01:40:02,400 --> 01:40:04,080
+您今天是在这儿吃还是带走
+{\fs10}Are you eating in or taking away today?{\r}
+
+1745
+01:40:04,240 --> 01:40:05,580
+带走吧  谢谢
+{\fs10}Take away, please.{\r}
+
+1746
+01:40:05,700 --> 01:40:07,040
+是吗  没问题
+{\fs10}Yeah? No problem.{\r}
+
+1747
+01:40:07,160 --> 01:40:10,170
+好了  一共4镑24便士 先生
+{\fs10}Lovely, that's 4.24 then,  please, sir.{\r}
+
+1748
+01:40:10,170 --> 01:40:11,170
+谢谢惠顾
+{\fs10}Thank you kindly.{\r}
+
+1749
+01:40:11,670 --> 01:40:14,250
+好了  找您76便士  先生
+{\fs10}Lovely. And there's your change, sir. 76 pence change.{\r}
+
+1750
+01:40:14,380 --> 01:40:16,090
+-谢谢  -慢走  您好
+{\fs10}- Thanks. - Thank you. Hello there.{\r}
+
+1751
+01:40:16,510 --> 01:40:17,790
+您是在这儿吃还是带走
+{\fs10}Are you eating in or taking away?{\r}
+
+1752
+01:40:23,350 --> 01:40:23,900
+据你调查
+{\fs10}Do you find the Defendant,{\r}
+
+1753
+01:40:23,900 --> 01:40:27,060
+被告约翰·维尔贝克是否犯了诈骗罪
+{\fs10}John Welbeck, guilty or not guilty of fraud?{\r}
+
+1754
+01:40:27,140 --> 01:40:28,180
+无罪
+{\fs10}Not guilty.{\r}
+
+1755
+01:40:28,270 --> 01:40:30,250
+-这是你们所有人的裁决吗  -对
+{\fs10}- And that is the verdict of you all? - Yes.{\r}
+
+1756
+01:40:30,250 --> 01:40:31,730
+谢谢  你可以坐下了
+{\fs10}Thank you. You may be seated.{\r}
+
+1757
+01:40:32,060 --> 01:40:33,110
+谢天谢地
+{\fs10}Thank God.{\r}
+
+1758
+01:40:33,230 --> 01:40:35,610
+释放被告
+{\fs10}Let the Defendant be discharged.{\r}
+
+1759
+01:40:36,280 --> 01:40:38,280
+全体起立
+{\fs10}Be upstanding in court.{\r}
+
+1760
+01:40:51,620 --> 01:40:53,460
+-关灯吗  -好
+{\fs10}- Lights out? - Yeah.{\r}
+
+1761
+01:40:54,290 --> 01:40:55,630
+真是艰难的一天
+{\fs10}Tough day.{\r}
+
+1762
+01:40:56,960 --> 01:40:59,460
+然后是爸爸幸福规划的第二部分
+{\fs10}But then came part two of Dad's plan.{\r}
+
+1763
+01:41:01,300 --> 01:41:03,670
+他让我每一天都重新过一遍
+{\fs10}He told me to live every day again{\r}
+
+1764
+01:41:03,670 --> 01:41:05,640
+尽量和第一遍一样
+{\fs10}almost exactly the same.{\r}
+
+1765
+01:41:06,430 --> 01:41:08,890
+第一遍充斥着各种压力和忧虑
+{\fs10}The first time with all the tensions and worries that{\r}
+
+1766
+01:41:08,980 --> 01:41:11,770
+让我们忽略了这个世界美好的一面
+{\fs10}stop us noticing how sweet the world can be,{\r}
+
+1767
+01:41:12,060 --> 01:41:14,650
+但是在第二遍里  我去发现这些美好
+{\fs10}but the second time noticing.{\r}
+
+1768
+01:41:14,770 --> 01:41:16,270
+好了  爸爸
+{\fs10}Okay, Dad.{\r}
+
+1769
+01:41:16,980 --> 01:41:18,480
+我们来试试吧
+{\fs10}Let's give it a go.{\r}
+
+1770
+01:41:23,910 --> 01:41:25,870
+我们现在的陈词是什么
+{\fs10}What's our statement at the moment?{\r}
+
+1771
+01:41:26,200 --> 01:41:28,870
+在这儿  修改了...
+{\fs10}This is it with the revised...{\r}
+
+1772
+01:41:32,870 --> 01:41:37,870
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}我知道一切不尽人意
+{\fs10}I know it doesn't seem that way{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1773
+01:41:34,830 --> 01:41:36,680
+鲁伯特  这个不行
+{\fs10}Rupert, this does not pass.{\r}
+
+1774
+01:41:36,680 --> 01:41:38,670
+这就是你最高水平了
+{\fs10}Is this the best you can do?{\r}
+
+1775
+01:41:38,680 --> 01:41:42,680
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}但也许当前就是最好的时光
+{\fs10}But maybe it's the perfect day{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1776
+01:41:40,510 --> 01:41:42,220
+你俩把这玩意搞定
+{\fs10}I'll leave you two to thrash this out.{\r}
+
+1777
+01:41:42,680 --> 01:41:43,680
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}他就是个傻逼
+
+1778
+01:41:43,220 --> 01:41:46,220
+就算账单如山
+{\fs10}Even though the bills are piling{\r}
+
+1779
+01:41:47,260 --> 01:41:51,260
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}也没有幸运女神临幸
+{\fs10}And maybe Lady Luck ain't smiling{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1780
+01:41:48,850 --> 01:41:50,850
+-下午好  先生  -下午好
+{\fs10}- Good afternoon, sir. - Good afternoon.{\r}
+
+1781
+01:41:50,980 --> 01:41:52,690
+今天在这吃还是带走
+{\fs10}Are you eating in or taking away today?{\r}
+
+1782
+01:41:52,690 --> 01:41:53,480
+带走吧
+{\fs10}Take away.{\r}
+
+1783
+01:41:53,560 --> 01:41:54,770
+要口袋吗
+{\fs10}Would you like a bag?{\r}
+
+1784
+01:41:54,900 --> 01:41:56,150
+拿一个吧
+{\fs10}That's fine.{\r}
+
+1785
+01:41:56,150 --> 01:42:00,150
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}但是只要我们勇于面对
+{\fs10}But if we'd  only open our eyes{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1786
+01:41:56,230 --> 01:41:57,570
+好了  一共6磅23便士
+{\fs10}Lovely. That's 6.23 then, please.{\r}
+
+1787
+01:41:57,570 --> 01:41:58,860
+祝您愉快
+{\fs10}And enjoy the rest of your day.{\r}
+
+1788
+01:41:58,960 --> 01:42:00,290
+谢谢  再见
+{\fs10}Thank you. Bye-bye.{\r}
+
+1789
+01:42:01,070 --> 01:42:02,070
+您好
+{\fs10}Hello, there.{\r}
+
+1790
+01:42:02,070 --> 01:42:05,070
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}就会发现上帝在默默庇护
+{\fs10}We'd see the blessings in disguise{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1791
+01:42:05,740 --> 01:42:07,530
+-你看周围  -怎么了
+{\fs10}- Look around you! - What?{\r}
+
+1792
+01:42:07,530 --> 01:42:10,530
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}积云成雨  汇集成河
+{\fs10}That all the rain clouds are fountains{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1793
+01:42:07,660 --> 01:42:08,870
+这里是不是很漂亮
+{\fs10}Isn't this room beautiful?{\r}
+
+1794
+01:42:08,990 --> 01:42:10,160
+是啊
+{\fs10}Yeah.{\r}
+
+1795
+01:42:10,700 --> 01:42:12,040
+快走吧
+{\fs10}Come on.{\r}
+
+1796
+01:42:12,040 --> 01:42:15,040
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}尽管困难如山
+{\fs10}Though our troubles seem like mountains{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1797
+01:42:12,870 --> 01:42:14,160
+无罪
+{\fs10}Not guilty.{\r}
+
+1798
+01:42:17,160 --> 01:42:21,160
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}风雨过后  终现阳光
+{\fs10}There's gold in them hills{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1799
+01:42:18,040 --> 01:42:19,380
+太棒了
+{\fs10}Fantastic!{\r}
+
+1800
+01:42:21,160 --> 01:42:26,160
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}风雨过后  终现阳光
+{\fs10}There's gold in them hills{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1801
+01:42:26,160 --> 01:42:29,160
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}所以不要沮丧  不要灰心
+{\fs10}So don't lose heart{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1802
+01:42:31,160 --> 01:42:35,160
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}给今天一个重新开始的机会
+{\fs10}Give the day a chance to start{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1803
+01:42:41,160 --> 01:42:45,160
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}风雨过后  终现阳光
+{\fs10}There's gold in them hills{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1804
+01:42:46,160 --> 01:42:49,160
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}风雨过后  终现阳光
+{\fs10}There's gold in them hills{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1805
+01:42:52,540 --> 01:42:54,540
+所以今天过得还不赖
+{\fs10}So not such a bad day after all?{\r}
+
+1806
+01:42:54,620 --> 01:42:57,710
+是啊  很不错的一天
+{\fs10}No. it was pretty good really.{\r}
+
+1807
+01:42:58,750 --> 01:43:01,420
+实际上  今天很棒
+{\fs10}Very good day, actually, as it turns out.{\r}
+
+1808
+01:43:02,300 --> 01:43:04,760
+这给我减轻负担了
+{\fs10}Well, that's a relief,{\r}
+
+1809
+01:43:05,760 --> 01:43:08,760
+如果你今天过得很糟的话
+{\fs10}because if it had been a very bad day,{\r}
+
+1810
+01:43:09,220 --> 01:43:11,480
+我可能还得和你做个爱
+{\fs10}I thought I might have had to have had sex with you{\r}
+
+1811
+01:43:11,480 --> 01:43:13,220
+来调整一下你的情绪
+{\fs10}to make up for it.{\r}
+
+1812
+01:43:14,770 --> 01:43:15,770
+晚安
+{\fs10}Goodnight.{\r}
+
+1813
+01:43:20,770 --> 01:43:23,150
+今天过得糟透了
+{\fs10}It was a very, very bad day.{\r}
+
+1814
+01:43:23,280 --> 01:43:25,650
+简直糟到爆
+{\fs10}It went very, very badly.{\r}
+
+1815
+01:43:25,780 --> 01:43:28,450
+我被炒了鱿鱼
+{\fs10}I got fired from my job.{\r}
+
+1816
+01:43:29,280 --> 01:43:31,450
+还杀了一个人
+{\fs10}And then I killed a man.{\r}
+
+1817
+01:43:37,120 --> 01:43:39,290
+那可真够糟的
+{\fs10}That is a very bad day.{\r}
+
+1818
+01:43:39,460 --> 01:43:41,460
+-糟透了  -是啊
+{\fs10}- It's terrible. - Yeah.{\r}
+
+1819
+01:43:42,420 --> 01:43:44,750
+史上最倒霉的一天
+{\fs10}Like the worst day ever.{\r}
+
+1820
+01:43:45,300 --> 01:43:46,970
+我真为你难过
+{\fs10}So sorry.{\r}
+
+1821
+01:43:51,890 --> 01:43:52,450
+当然了
+{\fs10}Some days, of course,{\r}
+
+1822
+01:43:52,460 --> 01:43:55,470
+有些日子  你不想经历第二次
+{\fs10}though, you only want to go through once.{\r}
+
+1823
+01:43:56,310 --> 01:43:57,480
+你还好吗
+{\fs10}You okay?{\r}
+
+1824
+01:44:25,480 --> 01:44:30,480
+我不相信干涉主义的上帝
+{\fs10}I don't believe in an interventionist God{\r}
+
+1825
+01:44:35,480 --> 01:44:40,480
+但我知道  亲爱的你相信
+{\fs10}But I know darling, that you do{\r}
+
+1826
+01:44:46,480 --> 01:44:51,480
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}如果我相信  我就跪下来请求他
+{\fs10}But if I did I would kneel down and ask him{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1827
+01:44:48,990 --> 01:44:51,860
+好了  都准备好了吗
+{\fs10}Right, are we ready for this?{\r}
+
+1828
+01:44:52,280 --> 01:44:55,700
+当然没有  不想经历这种悲痛时刻
+{\fs10}'Course we're not. Hateful day.{\r}
+
+1829
+01:44:56,480 --> 01:45:01,480
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}对你不要干涉
+{\fs10}Not to intervene when it came to you{\r\fn方正黑体简体\bord1\shad1\an8\3c&H2F2F2F&}
+
+1830
+01:44:56,540 --> 01:44:59,370
+等我一分钟
+{\fs10}Just give me one minute.{\r}
+
+1831
+01:45:04,480 --> 01:45:07,480
+你的一根头发都不要触碰
+{\fs10}Oh, not to touch a hair on your head{\r}
+
+1832
+01:45:07,480 --> 01:45:10,480
+让你保持本来的样子
+{\fs10}Leave you as you are{\r}
+
+1833
+01:45:10,480 --> 01:45:13,480
+如果他觉得你需要指引
+{\fs10}If he felt he had to direct you{\r}
+
+1834
+01:45:13,480 --> 01:45:15,480
+就指引你到我怀中
+{\fs10}Then direct you into my arms{\r}
+
+1835
+01:45:21,730 --> 01:45:23,730
+写得太棒了
+{\fs10}This is so brilliant.{\r}
+
+1836
+01:45:24,650 --> 01:45:29,320
+狄更斯对插科打诨真是在行
+{\fs10}Dickens is so good on actual jokes, actual gags.{\r}
+
+1837
+01:45:30,240 --> 01:45:31,990
+你从哪来的
+{\fs10}Where have you come from?{\r}
+
+1838
+01:45:32,360 --> 01:45:33,910
+是...
+{\fs10}It's the...{\r}
+
+1839
+01:45:34,240 --> 01:45:35,910
+我明白了
+{\fs10}Oh, okay.{\r}
+
+1840
+01:45:36,200 --> 01:45:37,740
+那个重要的日子
+{\fs10}Big day.{\r}
+
+1841
+01:45:38,580 --> 01:45:39,480
+谢谢你来看我
+{\fs10}Thanks for dropping in.{\r}
+
+1842
+01:45:39,480 --> 01:45:42,040
+德斯蒙德叔叔的西装怎么样
+{\fs10}How's Uncle Desmond's suit?{\r}
+
+1843
+01:45:42,160 --> 01:45:44,000
+完美无瑕
+{\fs10}Immaculate.{\r}
+
+1844
+01:45:44,250 --> 01:45:45,250
+很好
+{\fs10}Excellent.{\r}
+
+1845
+01:45:45,920 --> 01:45:47,600
+我提过我想放尼克·凯夫的歌吗
+{\fs10}Did I mention I wanted the Nick Cave track?{\r}
+
+1846
+01:45:47,670 --> 01:45:49,340
+都记着呢
+{\fs10}It's taken care of.{\r}
+
+1847
+01:45:49,420 --> 01:45:50,880
+谢谢啦
+{\fs10}Thank you.{\r}
+
+1848
+01:45:51,260 --> 01:45:53,590
+我给你读读这一小段行吗
+{\fs10}Can I just read you this one bit?{\r}
+
+1849
+01:45:57,930 --> 01:46:00,430
+尽管读吧  我有的是时间
+{\fs10}Read away, I've got lots of time.{\r}
+
+1850
+01:46:01,100 --> 01:46:02,980
+我想  古代的罗马人相互激怒结怨
+{\fs10}"I think the Romans must have aggravated{\r}
+
+1851
+01:46:03,060 --> 01:46:05,770
+一定是因为彼此的鼻子
+{\fs10}"one another very much with their noses.{\r}
+
+1852
+01:46:05,940 --> 01:46:07,000
+也许正是由于这个原因
+{\fs10}"Perhaps they became{\r}
+
+1853
+01:46:07,000 --> 01:46:09,440
+罗马人成了历史上一个不安分守己的民族
+{\fs10}"the restless people they were in consequence.{\r}
+
+1854
+01:46:09,570 --> 01:46:10,240
+无论如何
+{\fs10}"Anyhow,{\r}
+
+1855
+01:46:10,240 --> 01:46:12,780
+沃甫赛先生那罗马人的鹰钩鼻也激怒了我
+{\fs10}"Mr Wopsle's Roman nose so aggravated me..."{\r}
+
+1856
+01:46:13,780 --> 01:46:17,780
+到我怀中  上帝
+{\fs10}Into my arms, oh Lord{\r}
+
+1857
+01:46:17,780 --> 01:46:21,780
+到我怀中  上帝
+{\fs10}Into my arms, oh Lord{\r}
+
+1858
+01:46:21,780 --> 01:46:27,780
+到我怀中  上帝
+{\fs10}Into my arms, oh Lord{\r}
+
+1859
+01:46:27,780 --> 01:46:32,780
+到我怀中
+{\fs10}Into my arms{\r}
+
+1860
+01:46:38,780 --> 01:46:41,780
+但我相信有爱
+{\fs10}But I believe in love{\r}
+
+1861
+01:46:46,780 --> 01:46:50,780
+我知道你也相信
+{\fs10}And I know that you do too{\r}
+
+1862
+01:46:56,780 --> 01:47:00,780
+我相信有一条路
+{\fs10}And I believe in some kind of path{\r}
+
+1863
+01:47:06,780 --> 01:47:10,780
+我们可以同行  你和我
+{\fs10}That we can walk down, me and you{\r}
+
+1864
+01:47:12,780 --> 01:47:15,780
+燃着你的蜡烛
+{\fs10}So keep your candles burning{\r}
+
+1865
+01:47:15,780 --> 01:47:18,780
+让她的旅程纯净明亮
+{\fs10}Make her journey bright and pure{\r}
+
+1866
+01:47:18,780 --> 01:47:21,780
+把回来的路铭记于心
+{\fs10}That she will keep returning{\r}
+
+1867
+01:47:21,780 --> 01:47:23,780
+永远铭记
+{\fs10}Always and evermore{\r}
+
+1868
+01:47:27,780 --> 01:47:31,780
+到我怀中  上帝
+{\fs10}Into my arms, oh Lord{\r}
+
+1869
+01:47:31,780 --> 01:47:36,780
+到我怀中  上帝
+{\fs10}Into my arms, oh Lord{\r}
+
+1870
+01:47:36,780 --> 01:47:41,780
+到我怀中  上帝
+{\fs10}Into my arms, oh Lord{\r}
+
+1871
+01:47:41,780 --> 01:47:45,780
+到我怀中
+{\fs10}Into my arms{\r}
+
+1872
+01:47:48,670 --> 01:47:51,000
+孩子的事  你有什么看法
+{\fs10}What do you think about the kids?{\r}
+
+1873
+01:47:51,130 --> 01:47:52,630
+他们怎么了
+{\fs10}What about them?{\r}
+
+1874
+01:47:53,670 --> 01:47:55,880
+不够多吧  是不
+{\fs10}Not many of them, are there?{\r}
+
+1875
+01:47:56,970 --> 01:47:57,970
+什么
+{\fs10}What?{\r}
+
+1876
+01:47:58,680 --> 01:48:00,680
+我是说  两个太少了
+{\fs10}Well, I mean two?{\r}
+
+1877
+01:48:03,470 --> 01:48:05,850
+在中国就算超生了
+{\fs10}It's more than the Chinese are allowed.{\r}
+
+1878
+01:48:07,810 --> 01:48:10,480
+我就是想吧  也许
+{\fs10}I just thought that maybe, you know,{\r}
+
+1879
+01:48:11,560 --> 01:48:13,310
+我们该再生一个  以防万一
+{\fs10}it was time for the insurance baby.{\r}
+
+1880
+01:48:13,400 --> 01:48:14,400
+以防什么万一
+{\fs10}What?{\r}
+
+1881
+01:48:14,480 --> 01:48:15,900
+以防万一某个孩子特别聪明
+{\fs10}In case one of them is really smart,{\r}
+
+1882
+01:48:15,990 --> 01:48:17,060
+我们不希望另一个孩子
+{\fs10}we don't want the other one{\r}
+
+1883
+01:48:17,060 --> 01:48:18,380
+一辈子都觉得自己很笨
+{\fs10}to feel stupid their whole life.{\r}
+
+1884
+01:48:18,420 --> 01:48:20,160
+如果我们生了第三个
+{\fs10}And if we had a third one,{\r}
+
+1885
+01:48:20,160 --> 01:48:22,700
+两个小傻瓜就能快乐地作伴了
+{\fs10}then we could have two happy dummies.{\r}
+
+1886
+01:48:25,490 --> 01:48:27,160
+你觉得怎么样
+{\fs10}What do you think?{\r}
+
+1887
+01:48:31,500 --> 01:48:34,000
+这是我一生中最艰难的决定
+{\fs10}It was the toughest decision of my life.{\r}
+
+1888
+01:48:34,500 --> 01:48:36,920
+迎接新生意味着
+{\fs10}Saying 'yes' to the future meant{\r}
+
+1889
+01:48:37,050 --> 01:48:39,420
+与爸爸的永别
+{\fs10}saying 'goodbye' to my dad. Forever.{\r}
+
+1890
+01:48:41,220 --> 01:48:43,220
+我们为什么不再等等呢
+{\fs10}Why don't we wait a bit?{\r}
+
+1891
+01:48:46,100 --> 01:48:47,270
+当然了
+{\fs10}Absolutely.{\r}
+
+1892
+01:48:48,100 --> 01:48:50,100
+你说的没错
+{\fs10}You're right. Yeah.{\r}
+
+1893
+01:48:54,730 --> 01:48:57,530
+是现在呢
+{\fs10}How about now?{\r}
+
+1894
+01:48:59,450 --> 01:49:00,780
+还是现在呢
+{\fs10}Or now?{\r}
+
+1895
+01:49:03,120 --> 01:49:04,280
+现在吧
+{\fs10}Now?{\r}
+
+1896
+01:49:11,710 --> 01:49:12,710
+好吧
+{\fs10}Yeah.{\r}
+
+1897
+01:49:14,080 --> 01:49:15,080
+我同意
+{\fs10}Okay.{\r}
+
+1898
+01:49:16,590 --> 01:49:17,630
+真的吗
+{\fs10}Really?{\r}
+
+1899
+01:49:19,920 --> 01:49:22,590
+爸爸一直希望我们再要个孩子
+{\fs10}Dad always wished there had been more of us.{\r}
+
+1900
+01:49:23,390 --> 01:49:24,390
+所以...
+{\fs10}So...{\r}
+
+1901
+01:49:26,810 --> 01:49:29,470
+不过  我们也不一定能怀上
+{\fs10}Anyway, we might try and nothing happens.{\r}
+
+1902
+01:49:30,060 --> 01:49:31,060
+确实
+{\fs10}Exactly.{\r}
+
+1903
+01:49:39,820 --> 01:49:41,820
+可能今晚就要生了
+{\fs10}Really could be tonight.{\r}
+
+1904
+01:49:41,900 --> 01:49:44,410
+你绝对想象不到
+{\fs10}And you cannot believe the detail in which{\r}
+
+1905
+01:49:44,490 --> 01:49:46,410
+我多熟悉去医院的路
+{\fs10}I know the route to the hospital.{\r}
+
+1906
+01:49:46,490 --> 01:49:47,830
+是啊
+{\fs10}Yay.{\r}
+
+1907
+01:49:51,160 --> 01:49:53,000
+你能等我一下吗
+{\fs10}Will you excuse me for a sec?{\r}
+
+1908
+01:49:53,920 --> 01:49:55,580
+我下趟楼
+{\fs10}Just have to go downstairs.{\r}
+
+1909
+01:50:12,270 --> 01:50:15,270
+现在比分17比20  比赛十分激烈
+{\fs10}And it's 17-20 in this incredibly tight contest{\r}
+
+1910
+01:50:15,350 --> 01:50:17,150
+两位运动员都是
+{\fs10}being played by the two most physically{\r}
+
+1911
+01:50:17,270 --> 01:50:19,020
+史上最佳的选手
+{\fs10}perfect players in the history of the game.{\r}
+
+1912
+01:50:19,190 --> 01:50:22,030
+观众为年轻选手而着迷
+{\fs10}The crowd, enchanted by the younger player, are seduced{\r}
+
+1913
+01:50:22,110 --> 01:50:24,860
+也被老选手的辉煌过去所吸引
+{\fs10}by memories of the older player's illustrious past.{\r}
+
+1914
+01:50:26,870 --> 01:50:28,870
+天啊  我赢了
+{\fs10}My God, I've won.{\r}
+
+1915
+01:50:29,700 --> 01:50:32,040
+我多少年没赢过了
+{\fs10}I haven't won in years.{\r}
+
+1916
+01:50:32,540 --> 01:50:34,500
+你可总算赢了
+{\fs10}You finally got good.{\r}
+
+1917
+01:50:35,210 --> 01:50:36,620
+该给我颁什么奖
+{\fs10}What's my prize?{\r}
+
+1918
+01:50:36,620 --> 01:50:38,840
+当然了  除了奥运会金奖以外
+{\fs10}Apart from the Olympic gold medal, of course.{\r}
+
+1919
+01:50:39,880 --> 01:50:41,090
+给你一个吻
+{\fs10}A kiss will have to do.{\r}
+
+1920
+01:50:41,210 --> 01:50:44,220
+一个吻?
+{\fs10}A kiss?{\r}
+
+1921
+01:50:49,560 --> 01:50:51,510
+我明白了
+{\fs10}I get you.{\r}
+
+1922
+01:50:52,890 --> 01:50:54,390
+到时间了吧
+{\fs10}This is it, then?{\r}
+
+1923
+01:50:56,350 --> 01:50:57,730
+到时间了
+{\fs10}This is it.{\r}
+
+1924
+01:50:58,520 --> 01:51:00,730
+这是我最后的一点时间了
+{\fs10}It's my last bit of extra time.{\r}
+
+1925
+01:51:02,030 --> 01:51:03,650
+孩子马上就要出生了
+{\fs10}The baby is completely on the way.{\r}
+
+1926
+01:51:24,760 --> 01:51:26,090
+恭喜你
+{\fs10}Congratulations.{\r}
+
+1927
+01:51:33,100 --> 01:51:34,600
+我的儿子
+{\fs10}My son.{\r}
+
+1928
+01:51:37,940 --> 01:51:39,560
+我的爸爸
+{\fs10}My dad.{\r}
+
+1929
+01:51:44,530 --> 01:51:46,570
+有什么我能做的
+{\fs10}Is there anything at all I can do?{\r}
+
+1930
+01:51:46,700 --> 01:51:48,780
+有什么你想做的
+{\fs10}Is there anything you want to do?{\r}
+
+1931
+01:51:50,570 --> 01:51:53,240
+我不知道  就有这么...
+{\fs10}I don't know. There is this...{\r}
+
+1932
+01:51:55,040 --> 01:51:56,700
+一件事
+{\fs10}one thing.{\r}
+
+1933
+01:51:57,040 --> 01:51:59,120
+去散个小步
+{\fs10}A quick little walk.{\r}
+
+1934
+01:51:59,250 --> 01:52:01,130
+当然了  这是完全违背规则的
+{\fs10}Totally against the rules, of course,{\r}
+
+1935
+01:52:01,250 --> 01:52:03,130
+但是如果我们不做任何改变
+{\fs10}but if we don't change a thing,{\r}
+
+1936
+01:52:03,460 --> 01:52:06,800
+足够小心的话  就没什么事
+{\fs10}if we're very careful, it shouldn't do any harm.{\r}
+
+1937
+01:52:07,300 --> 01:52:08,930
+会很棒的
+{\fs10}It would be nice.{\r}
+
+1938
+01:52:39,330 --> 01:52:42,330
+我尽力了  我真的尽力了
+{\fs10}I'm really trying. I'm really trying.{\r}
+
+1939
+01:52:44,170 --> 01:52:45,460
+低一点
+{\fs10}Get down low.{\r}
+
+1940
+01:52:50,180 --> 01:52:51,180
+我完胜你
+{\fs10}Total defeat.{\r}
+
+1941
+01:53:00,940 --> 01:53:02,270
+我累了
+{\fs10}I'm tired.{\r}
+
+1942
+01:53:03,270 --> 01:53:04,690
+谢谢你  爸爸
+{\fs10}Thanks, Dad.{\r}
+
+1943
+01:53:20,210 --> 01:53:23,040
+我的故事也快讲完了
+{\fs10}So I'm almost up-to-date with my story.{\r}
+
+1944
+01:53:23,540 --> 01:53:24,560
+和别的家庭一样
+{\fs10}As all families do,{\r}
+
+1945
+01:53:24,560 --> 01:53:27,040
+我们渐渐适应了亲人离世后的生活
+{\fs10}we got used to life after death.{\r}
+
+1946
+01:53:27,170 --> 01:53:29,050
+过得依然很好
+{\fs10}And it was still fine.{\r}
+
+1947
+01:53:29,840 --> 01:53:31,120
+日复一日
+{\fs10}And things settled back into their traditional rhythms{\r}
+
+1948
+01:53:31,120 --> 01:53:34,010
+一切都回到正轨
+{\fs10}season after season,{\r}
+
+1949
+01:53:34,470 --> 01:53:36,890
+和过去一样
+{\fs10}and are much as they have always been.{\r}
+
+1950
+01:53:38,220 --> 01:53:40,890
+我们也适应了奇巧重新快乐起来的样子
+{\fs10}And we've got used to Kit Kat being happy again.{\r}
+
+1951
+01:53:41,850 --> 01:53:44,350
+然后适应了她当妈妈的样子
+{\fs10}And then we got used to her being a mum.{\r}
+
+1952
+01:53:44,730 --> 01:53:46,130
+虽然她这个妈妈不是特别称职
+{\fs10}Albeit not a very good{\r}
+
+1953
+01:53:46,140 --> 01:53:47,400
+甚至很没安全感
+{\fs10}or even safe one.{\r}
+
+1954
+01:53:48,820 --> 01:53:50,190
+最后的最后
+{\fs10}And in the end,{\r}
+
+1955
+01:53:50,320 --> 01:53:53,990
+我学到了我时光旅行的最后一课
+{\fs10}I think I've learned the final lesson from my travels in time.{\r}
+
+1956
+01:53:54,780 --> 01:53:57,830
+我甚至还比我爸爸更进了一步
+{\fs10}And I've even gone one step further than my father did.{\r}
+
+1957
+01:54:08,800 --> 01:54:10,460
+好吧  我去照顾孩子
+{\fs10}Okay, I'll do the kids.{\r}
+
+1958
+01:54:12,300 --> 01:54:14,880
+不用  别担心  我会去的
+{\fs10}No, don't worry. I'll do them.{\r}
+
+1959
+01:54:15,010 --> 01:54:16,680
+好  你来  你个懒蛋
+{\fs10}Yeah, you do them, you lazy bum.{\r}
+
+1960
+01:54:17,850 --> 01:54:19,810
+实际上  我现在从不穿越回过去
+{\fs10}The truth is, I now don't travel back at all.{\r}
+
+1961
+01:54:19,850 --> 01:54:21,850
+一天也不
+{\fs10}Not even for the day.{\r}
+
+1962
+01:54:22,270 --> 01:54:24,850
+我努力过好每一天
+{\fs10}I just try to live every day{\r}
+
+1963
+01:54:24,980 --> 01:54:27,610
+就像我已经穿越回去一样
+{\fs10}as if I've deliberately come back to this one day{\r}
+
+1964
+01:54:27,980 --> 01:54:29,670
+我努力享受每一天
+{\fs10}to enjoy it{\r}
+
+1965
+01:54:29,680 --> 01:54:31,650
+就像它是我这平凡又非凡生命的
+{\fs10}as if it was the full final day{\r}
+
+1966
+01:54:31,900 --> 01:54:34,650
+最后一天
+{\fs10}of my extraordinary, ordinary life.{\r}
+
+1967
+01:54:36,650 --> 01:54:43,650
+很多事情不能一次成功
+{\fs10}I don't get many things right the first time{\r}
+
+1968
+01:54:43,650 --> 01:54:48,650
+人们总是对我这样说
+{\fs10}In fact, I am told that a lot{\r}
+
+1969
+01:54:48,650 --> 01:54:56,650
+如今我知道
+{\fs10}Now I know all the wrong turns{\r}
+
+1970
+01:54:56,650 --> 01:55:00,650
+是那些过失带我走到今天
+{\fs10}The stumbles and falls brought me here{\r}
+
+1971
+01:55:02,930 --> 01:55:04,700
+哎呀  你都已经下来啦
+{\fs10}Hello, you're down already.{\r}
+
+1972
+01:55:04,700 --> 01:55:06,640
+做得太好了  谢谢喽
+{\fs10}That's great. Thank you so much for that.{\r}
+
+1973
+01:55:06,770 --> 01:55:08,150
+我们坐进来吧
+{\fs10}And in we go.{\r}
+
+1974
+01:55:08,150 --> 01:55:12,150
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}那天之前  我在哪里
+{\fs10}And where was I before the day{\r}
+
+1975
+01:55:09,770 --> 01:55:12,570
+波丝  波丝
+{\fs10}Posy? Posy!{\r}
+
+1976
+01:55:12,150 --> 01:55:17,150
+{\an8}{\fn方正黑体简体\fs12\b1\bord1\shad1\3c&H2F2F2F&}那是第一次见到你美丽的脸
+{\fs10}That I first saw your lovely face?{\r}
+
+1977
+01:55:17,150 --> 01:55:20,150
+如今可以每天相见
+{\fs10}Now I see it everyday{\r}
+
+1978
+01:55:20,950 --> 01:55:21,950
+很美味的
+{\fs10}That's fine.{\r}
+
+1979
+01:55:23,950 --> 01:55:32,950
+于是我知道
+{\fs10}And I know that I am{\r}
+
+1980
+01:55:32,950 --> 01:55:42,950
+我就是最幸运的人
+{\fs10}I am, I am the luckiest{\r}
+
+1981
+01:55:43,430 --> 01:55:46,270
+我们生命的每一天
+{\fs10}We're all travelling through time together{\r}
+
+1982
+01:55:46,560 --> 01:55:48,730
+都是在时间中的旅行
+{\fs10}every day of our lives.{\r}
+
+1983
+01:55:48,900 --> 01:55:50,320
+我们所能做的就是
+{\fs10}All we can do is{\r}
+
+1984
+01:55:50,330 --> 01:55:51,400
+尽我们所能
+{\fs10}do our best{\r}
+
+1985
+01:55:51,860 --> 01:55:54,610
+珍惜这段美妙的旅程
+{\fs10}to relish this remarkable ride.{\r}
+
+1986
+01:56:37,570 --> 01:56:39,490
+对对对
+{\fs10}Yes, yes, yes...{\r}
+
+1987
+01:56:51,790 --> 01:56:53,880
+好的  到时候见
+{\fs10}Okay, I'll see you then.{\r}
+
+1988
+01:56:54,000 --> 01:56:55,420
+拜拜啦
+{\fs10}Bye-bye.{\r}
+
+1989
+01:56:56,090 --> 01:56:57,590
+等下见
+{\fs10}See you later.{\r}
+
+1990
+01:56:59,820 --> 01:57:02,870
+{\bord0\shad0\fs12\fad(800,800)\fn方正兰亭粗黑_GBK\b0\c&HBCC0C1&\pos(190.5,176.666)}剧{\fn方正兰亭纤黑_GBK}  终
+
